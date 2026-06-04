@@ -1,0 +1,38 @@
+@model,type,#desc
+#Model name,Model type,Description of model
+##,torpedo,
+vw_torpedo_x3,torpedo,Triangular shaped triple torpedo launcher based off of the ones found on the British V&W class destroyers
+##,barbette,
+tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
+##,funnel,
+##,tower_main,
+hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
+scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships
+tribal_tower_main,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching"
+tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to resemble the main towers of some V&W class destroyers
+warspite_tower_main,tower_main,Made to resemble the main tower of HMS Warspite after her modernization
+montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
+##,tower_sec,
+hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
+scharn_tower_sec,tower_main,Resembles the rear tower of the Scharnhorst class Battleships
+tribal_tower_sec,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s
+montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
+##,hull,
+austria_bc_hull,hull,Based off of a design concept for an Austrian Battlecruiser in the mid-late 1910s
+dd_hull_nose_long,hull,"The generic DD hull, but with a longer raised deck"
+dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section"
+dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear barbette"
+iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoughts"
+##,gun,
+agamemnon_gun_b_305_x2,gun,"The turret shield of agamemnon_gun_305_x2 is made slightly longer and wider, covering more of the turret base"
+agamemnon_gun_b_305_x3,gun,"The turret shield of agamemnon_gun_305_x3 is made slightly longer and wider, covering more of the turret base"
+mackensen_gun_350_x2,gun,"Resembles the main guns used on the Bayern class battleships, as well as the Mackensen class Battlecruisers"
+nelson_gun_b_152_x2,gun,A version of nelson_gun_152_x2 without the lifeboats on top
+pompom_gun_a_x4,gun,Generic quadruple anit-aircraft gun. Takes inspirations from pompoms and atlanta_gun_28
+qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
+teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnoughts"
+teg_gun_305_x3,gun,"Resembles the triple 12"" guns used on the Tegetthoff class Dreadnoughts"
+usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war"
+vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard"
+vdt_gun_cal150_x2,gun,A model of a twin casemate gun
+vw_gun_120_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
