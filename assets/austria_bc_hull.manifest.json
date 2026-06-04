@@ -1,0 +1,128 @@
+{
+  "main_file": {
+    "path": "austria_bc_hull.json",
+    "hash": "67aa6573acdc55fa9f7f51392b30e1b385cf25e7680548a0506f01382d89a714"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_0_Fus_Hull_Rostrum_A_001_0.obj",
+      "hash": "d652e83ec192e4b9b35455300ef401f042be5c8b765ec6019ae0591ddaa688b7"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_10_Fus_Hull_Rostrum_A_001_10.obj",
+      "hash": "2970275dab2faa0bcc4c95ba769a2a1f97deb76bae6cd9eb54df05baef590d6e"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_1_Fus_Hull_Rostrum_A_001_1.obj",
+      "hash": "ff89469a2a17058d5c27ce4556a899b422650544759d84112a55efbee2851073"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_2_Fus_Hull_Rostrum_A_001_2.obj",
+      "hash": "f0d1c2e6a39a437197fc3d812f3736103b25561f6332b8f20211f0522c20ba40"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_3_Fus_Hull_Rostrum_A_001_3.obj",
+      "hash": "63eeae0815ec32999d0591875884cc821e581da8d3ad938b98daf1a7ffdac853"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_4_Fus_Hull_Rostrum_A_001_4.obj",
+      "hash": "cd284580f4d1c1e0dd2bb974746b95292b13e1375b8338728718d23702e96f37"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_5_Fus_Hull_Rostrum_A_001_5.obj",
+      "hash": "2544c2823491ca37648c79c58d73771d466705a8ef5971c64272dbcc95b7c6ef"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_6_Fus_Hull_Rostrum_A_001_6.obj",
+      "hash": "230ad79a85847e3eb1f312c13a78a8ab6bce363597df3eaf7687e9fb02aaf4cc"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_7_Fus_Hull_Rostrum_A_001_7.obj",
+      "hash": "d6832b4fc3d6b1d47faa6c2bdf5a7cd862e40b05ce9ab663173259158a266e04"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_8_Fus_Hull_Rostrum_A_001_8.obj",
+      "hash": "362a3e6889eefadbac1a05536dcb688395d034d968334f61075fe9b1442f6ba8"
+    },
+    {
+      "path": "meshes/Fus_Hull_Rostrum_A_001_9_Fus_Hull_Rostrum_A_001_9.obj",
+      "hash": "bbeb7d0fda08cbe0f2679b8c2bcbc2f5acca1948927ab52f79145bff75e5f425"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "fb385665d184a252a07d5bceb2c56e98b00d0370902c7cab864e52561d474103"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_0.obj",
+      "hash": "8dfce770949c4144d2661e754eb2915b8e0d962e68c68bd85a4895a3bb6ebde7"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_1.obj",
+      "hash": "2a2bd5c1ef8915d2359bb7cc81e4c592d197b0da2207264f2f4283a0212f13f1"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_2_Fus_Hull_Midsection_A3_003_2.obj",
+      "hash": "ac96fc619971818cb7698efb8607bcc25f62772216cc64e1f1766b179c4c7dd6"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_3_Fus_Hull_Midsection_A3_003_3.obj",
+      "hash": "76a4e532cb5282c2e8079c207c73f69220d76f83a4673b0d603c65868a54c044"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_4_Fus_Hull_Midsection_A3_003_4.obj",
+      "hash": "7b558c77384f39fce24ec3d21fa3c32be613e0ae49601f9543be8677a870b000"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_5_Fus_Hull_Midsection_A3_003_5.obj",
+      "hash": "5934f1c58e4ab7f9c165bddf3478a1c77a4241bb44d361bb72942093ec8fd28d"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_6.obj",
+      "hash": "8c921163412ce217b1f664c3da65ee9d52e40717d15f4916bf732b9fb50459ed"
+    },
+    {
+      "path": "meshes/Fus_Hull_Midsection_A3_003_7.obj",
+      "hash": "b34381c899cd6279566c9b4db3437e01bc92a88dbeceb17912346979529f37f4"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_0_Fus_Hull_Stern_A_001_0.obj",
+      "hash": "b736a3b82d39288897d634211999aaa2637ca71df597e6896dd137d18c7066d2"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_1_Fus_Hull_Stern_A_001_1.obj",
+      "hash": "589a1f5b12275c40a318d1ce42dd5158bce30d9fbd98013cfd2e398b7b00c916"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_2_Fus_Hull_Stern_A_001_2.obj",
+      "hash": "a8023d15ffd761ea53ae506e00695321c727e1165488d4324cb30ff52d5d2a42"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_3_Fus_Hull_Stern_A_001_3.obj",
+      "hash": "ef37f06ecbdabc1116bba0755a344c67a5593f15962857fb524f8ab28203b05f"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_4_Fus_Hull_Stern_A_001_4.obj",
+      "hash": "dd721a101fc561d75f9087569476cb86887694bc9eb27f2732df6dfd9b3083ea"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_5_Fus_Hull_Stern_A_001_5.obj",
+      "hash": "5dd916b7cce3c82ff2ec52c495c506bef90e2904410f617439c07efc7ae25999"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_6_Fus_Hull_Stern_A_001_6.obj",
+      "hash": "9ec6a2ff92b733a3d638af94122b698fdbdf23e656e4c1772e487f9ad4424e8c"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_7_Fus_Hull_Stern_A_001_7.obj",
+      "hash": "3fd92366e8b894370826e8ed5e89115189eea6cfef89d9f1b0e3e0552eef8b89"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_8_Fus_Hull_Stern_A_001_8.obj",
+      "hash": "0fa7278833c53195c42045116ad38675f343f81c6f694b569e69a0275237e9f1"
+    },
+    {
+      "path": "meshes/Fus_Hull_Stern_A_001_9_Fus_Hull_Stern_A_001_9.obj",
+      "hash": "273f8c97e87e1c612049ff45627aef883107dc32d5a5073bf6331d6c6aa2c978"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "teg_gun_305_x2.json",
+    "hash": "6e5759b3ce2b23f3b64157e66f85dd5a1136298c9553fe28984aae4c81763ef3"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/vir_gun_305_barrel_001_0.obj",
+      "hash": "520bb227eb878857d0d89dc45f5bd52168cbd4deb32b26e75ed27a0540355486"
+    },
+    {
+      "path": "meshes/vir_gun_305_x1_001_0.obj",
+      "hash": "c6501c5c87807b050f133906bcfac68a46193b0f78613ba6b3fed7fd31c61436"
+    },
+    {
+      "path": "meshes/vir_gun_305_x1_001_0_vir_gun_305_x1_001_0.obj",
+      "hash": "08e8d407923e8ff6e180d206bb57f5fd5f83de052e8271fd18ebdd37f7ee612b"
+    },
+    {
+      "path": "meshes/vir_gun_305_x1_001_1_vir_gun_305_x1_001_1.obj",
+      "hash": "f34ebd9b0f4d694219f8e9ed3449699c59775c2439f5c8d2a3037f0f14c1388c"
+    },
+    {
+      "path": "meshes/vir_gun_305_x1_001_2_vir_gun_305_x1_001_2.obj",
+      "hash": "aa5c76ed440f9916e2697f542d67f94d0b33c7596cb7bc9c08ded13b516d181c"
+    }
+  ]
+}

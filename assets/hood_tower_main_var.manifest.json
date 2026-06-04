@@ -1,0 +1,44 @@
+{
+  "main_file": {
+    "path": "hood_tower_main_var.json",
+    "hash": "a455383d292b4b50cd456eb576d7d6c1ea94affbd3d82b5724c6ea3d5e2caf8e"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood_Deckhouse_A1_001_0_Hood_Deckhouse_A1_001_0.obj",
+      "hash": "911992bf7ad31aa6ce2e16bfe4eb51c71bac0d0dff6173060c3eb9a0e4ec31e1"
+    },
+    {
+      "path": "meshes/Hood_Deckhouse_A1_001_1_Hood_Deckhouse_A1_001_1.obj",
+      "hash": "07a43b9554541b9f1c1d01f79fc5c09ef3eeea6c114bf7235b5b325d589d1624"
+    },
+    {
+      "path": "meshes/Hood_Deckhouse_A1_001_3_Hood_Deckhouse_A1_001_3.obj",
+      "hash": "031e618f4989b17945022ef35a4fa9663a37c04fffb97dc33e61d968f20dc1c6"
+    },
+    {
+      "path": "meshes/Hood_Deckhouse_A1_001_4_Hood_Deckhouse_A1_001_4.obj",
+      "hash": "d54e255b1056023883f5a1e30bd7437ffc53a8353d5138966430bdd309cfddfc"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_1_KiGe_Deckhouse_С1_001_1.obj",
+      "hash": "9d11bb8ee6899181b3a4bb6cecd21116eb62b06e89496ddcacb0d583167c77bb"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_3_KiGe_Deckhouse_С1_001_3.obj",
+      "hash": "a3c96075508fab6aae0e44c8785d93f7aae0132e44c25e6b57e77c66ada9d297"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_4_KiGe_Deckhouse_С1_001_4.obj",
+      "hash": "eed7aaaceebb429b2c264fdf77d4231375fa8f92189a314524b6fcc46e8d73bf"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_6_KiGe_Deckhouse_С1_001_6.obj",
+      "hash": "032e12c3a881498151a15825808ca946b618a8b8788ca80880e1d7152d01d207"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_7_KiGe_Deckhouse_С1_001_7.obj",
+      "hash": "3cb2861ff62ae7b95cbe2311f6c2692ad2581089a34e4d06d436de7fa461a133"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "agamemnon_gun_b_305_x2.json",
+    "hash": "3598219d7c4e856a8fbd8faa5cd332a3d6611d4cefcbbaaff235f1c242c7689c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/agm_gun_305_barrel_001.obj",
+      "hash": "f35c3d5e178a938e89704e88a079659016bde859b1255bf1eb4f188d2bd4662c"
+    },
+    {
+      "path": "meshes/agm_gun_305_barrel_002.obj",
+      "hash": "79c9cb58a733bd83f8cc9035a1e725b4fe0dca28ec927adae383096e181fc10e"
+    },
+    {
+      "path": "meshes/agm_gun_305_x2_1_agm_gun_305_x2_1.obj",
+      "hash": "930e25044591c6d2da1b706cf0c9e4eeb2161678e51159c7c13740cfe69154c7"
+    },
+    {
+      "path": "meshes/agm_gun_305_x2_2_agm_gun_305_x2_2.obj",
+      "hash": "223de639991f066425a5119954f5e500bc5a004e91203d8d70ae21fc544655d8"
+    }
+  ]
+}

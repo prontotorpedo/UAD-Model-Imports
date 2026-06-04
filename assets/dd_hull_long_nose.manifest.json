@@ -1,0 +1,108 @@
+{
+  "main_file": {
+    "path": "dd_hull_long_nose.json",
+    "hash": "d1f4874535261bd7390abbcf607d56d2ffc6d7aead6c73c2f429f53a0da9b617"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_0.obj",
+      "hash": "ac114b37feb095393417ee9a9110e450bcd219da78b8938f5cf9d4bac03b24ba"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_1.obj",
+      "hash": "5b7393b01d249fc3c6b50b45e8aa99dbb40841617a19995f8233c246e7dba999"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_2.obj",
+      "hash": "aee03b1bcd272729629a7346f949736fa4393997efdf26fdec140cea592c1c9b"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_3.obj",
+      "hash": "de52cf8e9cc3359124bce9266ed0fc0184ee4edddc6ee39a03ad40af7829ad45"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_4.obj",
+      "hash": "698e724a1a60ed7ea94fbe5368bb2c4a8c7b4834cfc1a3b58be487f879b32332"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_5.obj",
+      "hash": "3f5b6d0e66512fe60af95b0c0c4351a7abd085baa40ae55eafd2a091cb9f719a"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_6.obj",
+      "hash": "2ca7000217f4888a613314bd853ceb676f1e392d23b7a69c8fe0b86e2be158ab"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_7.obj",
+      "hash": "058da557d79152b8cde9fca751f12dfe8b83afe50e7705e8872944ea8471746a"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_8.obj",
+      "hash": "742f26cff6343c49d6be20b1cc0c633149afc85acc1976af3dfdf10590141443"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_9.obj",
+      "hash": "7970a6866bda71e5ee949d92016667441a0d84770073cb57648dc7866ad016c2"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_0.obj",
+      "hash": "7103b9d936b6f23717eef21c30462f05ce6cb644248ce25bfa18be5392046482"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_1.obj",
+      "hash": "b0b99993bc9277588779704f3843f90e10f7a744073209c0263067dae17135c4"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_2.obj",
+      "hash": "d41a776002a2c93e1d25820a2b2236eb6544a2a7dc7e7743e3ee8afaa3111b69"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_3.obj",
+      "hash": "06f4d5d59584b078e9558704b7b74fd1525508f02bae2d3ab38e55e8b3d62260"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_4.obj",
+      "hash": "fd7f78d0b445d0e1ca820cb030c428562644fcdd0652989a6c403c3b4bca7811"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_5.obj",
+      "hash": "45aecb1f2068f2b8776b5cb12953c4a425731f0875653befa9c274b04dd6bcb6"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_6.obj",
+      "hash": "3d90392fe7d3c4e29b7353e82d3c91a9c7e73a12ff16e790c14af17c8a930a39"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_0.obj",
+      "hash": "99201234987a267f7c34fe74da37c1ed07a37b267e615d61dfbb300af6efdae9"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_1.obj",
+      "hash": "0ac4bfd896cff24528c1571805af9f007a8622ebb0ab1d3ea55fa83d6c6e1be7"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_2.obj",
+      "hash": "0b03431e9a2521d86ec930576cfe938b9453312a0bf142c7541560bc595333c4"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_3.obj",
+      "hash": "ee8a24770a1fde5f5ac54e57906e3f1f17fed1070782be007468813d0a109597"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_4.obj",
+      "hash": "1abf1b3670c7a21b14f0ae2d290d4d37401f5902720d0595c715ac6622d01d3a"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_5.obj",
+      "hash": "496f632942ed63e1a2b8f7ed406651ddf9b46b503effa6f637f1376f542697e2"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_6.obj",
+      "hash": "9e10023841ff02cb1d9431edabf2f07c11e2604cec8d254da0e3c6da845773e1"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_destroyer_A_001_7.obj",
+      "hash": "8ba9a3116b84570860f5e93d3c2e012a27db79afd0db9434c0fb59f3900f8d93"
+    }
+  ]
+}

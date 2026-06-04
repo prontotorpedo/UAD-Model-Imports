@@ -1,0 +1,44 @@
+{
+  "main_file": {
+    "path": "montana_tower_main.json",
+    "hash": "e44951f4057855a1ae7dc37b17d42e60ab5c9f09603455ef5febaddd8d25045e"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_1_Iowa_Deckhouse_A1_001_0.obj",
+      "hash": "c23797054b81ffe16a7a27d0b7ce2d7733ef6342621ab639d85a4dfb79554bac"
+    },
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_2_Iowa_Deckhouse_A1_001_1.obj",
+      "hash": "4391ea45eac254904d9dcd1e77fc4f4d4e01cd04c9d0374b1718443af2913c25"
+    },
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_3_Iowa_Deckhouse_A1_001_2.obj",
+      "hash": "8d6bcc737b8cedd8ffc850c48c0849e405f27d657e7837af8f5b70984ffbd423"
+    },
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_4_Iowa_Deckhouse_A1_001_3.obj",
+      "hash": "be75979ed334fbec5770b465a7d6b44baefda0e78d452c3ed167ff7193dfb53b"
+    },
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_5_Iowa_Deckhouse_A1_001_4.obj",
+      "hash": "8d1e0ffc78bd1c966c133a8a9778783f9812f6e8e31ac5e1f6cc78514a062566"
+    },
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_6_Iowa_Deckhouse_A1_001_5.obj",
+      "hash": "23180b0c2118f97d9bee0f7260a40ab278201b6699f8b046ba8f49790483487b"
+    },
+    {
+      "path": "meshes/Montana_deckhouse_A1_001_7_Iowa_Deckhouse_A1_001_6.obj",
+      "hash": "8b90600be94dc513f2ecf6ab6577b7c316e9542949c51a15c033ff4c499ac6b0"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_2L_A_001.obj",
+      "hash": "4dbc1bc896892aced26ec4ed20d2ff8aa6aca91431fdb687bfab8a13d0102ac1"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_2L_A_002.obj",
+      "hash": "5874e489b3bc1f9c23d7cd5bed18b7f62135c850d01e0255d0903a885d352eb1"
+    }
+  ]
+}

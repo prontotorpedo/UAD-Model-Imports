@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "mackensen_gun_350_x2.json",
+    "hash": "b732a2fd5bfe366141c371b974d558343f77bf3cd358753da1440dd2c015ddcd"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Mackensen_350_x2_deco_Mackensen_350_x2_001.obj",
+      "hash": "de01d701a7b7f9c3a97ecdb0a60171b09a1a29b0f3b225784358b6a84ebc1992"
+    },
+    {
+      "path": "meshes/Mackensen_350_barrel_001.obj",
+      "hash": "c2294982332a138a0512af98773c542092a07d4adf960a9fd3f7ff7b6029bb6e"
+    },
+    {
+      "path": "meshes/Mackensen_350_x2_main_Mackensen_350_x2_001.obj",
+      "hash": "59334d6063adf11b384e3b62046fedb088d4c81acfa71ef779cea4605b4765c0"
+    },
+    {
+      "path": "meshes/Mackensen_350_x2_raft_Mackensen_350_x2_001.obj",
+      "hash": "15abffa593930b956450677498287f8687d5ebc4945defd05d4aefddb1fd652b"
+    },
+    {
+      "path": "meshes/Mackensen_350_x2_top_Mackensen_350_x2_001.obj",
+      "hash": "c956b2072b5f426e15d9cdddc267e051fdb72af399d627f114a648577f12f4b2"
+    }
+  ]
+}

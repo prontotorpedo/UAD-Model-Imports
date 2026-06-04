@@ -1,0 +1,52 @@
+{
+  "main_file": {
+    "path": "tribal_barbette_a.json",
+    "hash": "e97ba29b38c0c48089a650d690baacad574f184ab2df3831b4466fe6c21aa251"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_0_DidoX_Deckhouse_A1_001_0.obj",
+      "hash": "caebc24447af83794b323a89ec144c137395ebf1ce9aba927ef73fef30c0adf3"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_10_DidoX_Deckhouse_A1_001_10.obj",
+      "hash": "80675a729fecdba0fbfb1fa9cc8aeec88e004d2618433639890cd709e43d34de"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_1_DidoX_Deckhouse_A1_001_1.obj",
+      "hash": "8cb2d8b27ef6809d069c9374fd347ae3132b7ff60c1520ce0237403085a6b702"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_2_DidoX_Deckhouse_A1_001_2.obj",
+      "hash": "a2ba662193cfae2fd19e35133467e3eb154fff271199428b6a358731e3dd8b12"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_3_DidoX_Deckhouse_A1_001_3.obj",
+      "hash": "54b6988cf5164b9415c0a49756d842adfe193e6044f3832b2581541ebe7a170e"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_4_DidoX_Deckhouse_A1_001_4.obj",
+      "hash": "1d4b663d0c7c2585ee9bda5cf6439308c33dc72210941e7cbb8f86990b4aa247"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_5_DidoX_Deckhouse_A1_001_5.obj",
+      "hash": "ab62d9cceb033d82d74909ad8b085cbfe15e3aa015d9cbea67e32fa90c3568b6"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_6_DidoX_Deckhouse_A1_001_6.obj",
+      "hash": "05d70138a178d06a1b99f10b099bfb19fc758e2b8fe72b7493e556907a7b72d3"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_7_DidoX_Deckhouse_A1_001_7.obj",
+      "hash": "390de5350685acf69d3a843fbaf70e9845e3a7e34cfab954496b3a5498d846a9"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_8_DidoX_Deckhouse_A1_001_8.obj",
+      "hash": "3d5bc5dbd6ad348f66cde2d8c5b2f994c3272ecbd274b48d57a54fca99ece89f"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_9_DidoX_Deckhouse_A1_001_9.obj",
+      "hash": "2c3cb90c5f384c0e71d6c27043708637bd7db1e9a7f4fe8a95266bab1c519c21"
+    }
+  ]
+}

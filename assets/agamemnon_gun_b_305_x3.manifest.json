@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "agamemnon_gun_b_305_x3.json",
+    "hash": "240492a80220bc90394ee92ea5b7d2cb1ece2a5dfb47e4ad47bb2fcb36014bc2"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/agm_gun_305_barrel_001_0_agm_gun_305_barrel_001_0.obj",
+      "hash": "031062c50eaf40eb31521c8098f3f4ef89c5510f0e00875bb6cac06e77e9208b"
+    },
+    {
+      "path": "meshes/agm_gun_305_barrel_001_1_agm_gun_305_barrel_001_1.obj",
+      "hash": "85e6ab0f13cd1d90e0cfeb4c6934234f103d14c5b683622df94d72dd122c4bc7"
+    },
+    {
+      "path": "meshes/agm_gun_305_barrel_001_2_agm_gun_305_barrel_001_2.obj",
+      "hash": "0538cff5cf83e98530509096ee9c6fec2d86810ceb0448e173c0fc4dd9259363"
+    },
+    {
+      "path": "meshes/agm_gun_305_x3_1_agm_gun_305_x3_1.obj",
+      "hash": "8219d27ecee0be6408e66a7adc46db7c8df7e490df3287e6f08723b74c3eabb4"
+    },
+    {
+      "path": "meshes/agm_gun_305_x3_2_agm_gun_305_x3_2.obj",
+      "hash": "c7eb5c1b0a5a4bcee86b8cf90f7d9e21f3a9fb5f83d8dd491e07e2c1fd547c51"
+    }
+  ]
+}

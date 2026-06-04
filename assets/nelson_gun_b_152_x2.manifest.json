@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "nelson_gun_b_152_x2.json",
+    "hash": "b01ddc50b73dde3dd6286cf4db46d38dc17c9d48ff0a228aab5f1e610fd3191c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Nel_gun_cal152x1_barrel_001_1_details_4.obj",
+      "hash": "b1094f0d784309285243648295814b8f4db4ebe9a15dc48bfa90d4a29a342d8a"
+    },
+    {
+      "path": "meshes/Nel_gun_cal152x1_barrel_001_2_details_4.obj",
+      "hash": "7c842ccf4440fa24d2a361383f0e7ad159d73a4fb03d16dc9ecfef8e477d65ba"
+    },
+    {
+      "path": "meshes/Nel_gun_cal152x2_001_0_steel_4.obj",
+      "hash": "d3c9d0ff9f31690026d6d2306ce434e4f08d95d3f2724c9b26c5c9176d3f7335"
+    },
+    {
+      "path": "meshes/Nel_gun_cal152x2_001_1_details_2.obj",
+      "hash": "7a420a166fc152f91b79564e521d2c1b40a41be9efba618deed61cc2919ada2a"
+    },
+    {
+      "path": "meshes/Nel_gun_cal152x2_001_2_details_3.obj",
+      "hash": "65cb721883d6e7d227b406690149602b574c2c879dc10d7093d64ee49e2f8332"
+    }
+  ]
+}

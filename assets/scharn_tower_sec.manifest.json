@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "scharn_tower_sec.json",
+    "hash": "3ac6ec74f4d652ee27990bcf61ca549d94fd645cdbd73aade2ddedf58a48f368"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_1.obj",
+      "hash": "3184932ccece45b544a95362c884fe17dba5b1958ad06a7a73ee04a70a94753c"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_2.obj",
+      "hash": "371629b5ecc2d32ce9c2bdba06a681669d5d492bab151969c66811f1958965c2"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_3.obj",
+      "hash": "39bc5c4c18b2a1ac1a152e810932bdda18c014f9c02328ac6039c01b57acfe71"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_4.obj",
+      "hash": "67683d36007b69481a478e78b87ffef43b7108d93a9ac3d00ba29908d77dfd31"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_5.obj",
+      "hash": "1f634afcdcd2cd83b6e8ec6f46d0f421b13c36c3f9a1af532673b936199e6390"
+    }
+  ]
+}
