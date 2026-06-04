@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "vw_torpedo_x3.json",
+    "hash": "5c44929d5b69302a4f36ecf3db11cac68fe36507d33186afea1bfb943a96c81c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Torpedo_2Tube_AA_004_0_Dr_Torpedo_2Tube_AA_004_0.obj",
+      "hash": "3f24a9a9313d51c3cc0610c7e035747af5b1669a29cb23e4c945d723cf86ce29"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_2Tube_AA_004_1_Dr_Torpedo_2Tube_AA_004_1.obj",
+      "hash": "3ae0728f765abdbeeb35874c41a2bc2a8dd1985fba74b105513a2e5c49d90a4e"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_2Tube_AA_004_2_Dr_Torpedo_2Tube_AA_004_2.obj",
+      "hash": "3ff5dc1df7ef9ae861e613deac9595ac9453d3b17f13a6600c7224c5a73a183d"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_2Tube_AA_004_3_Dr_Torpedo_2Tube_AA_004_3.obj",
+      "hash": "3440a535ad75c83b0798bfb41acf93d5ba55dd43d45a4c5c7a67eb7c87a43ef9"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_2Tube_AA_004_4_Dr_Torpedo_2Tube_AA_004_4.obj",
+      "hash": "022fb759a56c3a42565e529a347982ad9b0e5b87dda766233666751e208b35b1"
+    }
+  ]
+}

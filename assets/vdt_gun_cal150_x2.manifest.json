@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "vdt_gun_cal150_x2.json",
+    "hash": "a422ff413a2482ecd36d3d21db5214e42af63003473cc74fe6aa0621aae7ce31"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/VDT_gun_cal150_x2_002.obj",
+      "hash": "40d0ff705024e0340b25a31d55135ab4fc50f557e88ea10f686ae3991fc6c3d4"
+    },
+    {
+      "path": "meshes/VDT_gun_cal150_x2_001_VDT_gun_cal150_x2_001.obj",
+      "hash": "e17666d30007964baf9146c43c7f5c4283de0eed2e132b0dadb87cccad924bf9"
+    },
+    {
+      "path": "meshes/VDT_gun_cal150_x2_shield.obj",
+      "hash": "c4121a1b4912e8a5363337c9172352c484a87cf148143d2f752efe19da3a054e"
+    },
+    {
+      "path": "meshes/VDT_gun_cal150_x2_base.obj",
+      "hash": "6ae4e781d43061c508f1266bc2b1ed442b5f15560faa7c8f7d5238033ca2376b"
+    }
+  ]
+}

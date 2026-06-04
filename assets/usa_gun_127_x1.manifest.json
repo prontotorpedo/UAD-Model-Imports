@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "usa_gun_127_x1.json",
+    "hash": "fa644e420cba1a3df4b5a392f547b35f5875c4cb1e3e0b63fe27e45a87b1e384"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Barrel.obj",
+      "hash": "88ba5b94c29553c7d23675aa7d46ec625252952337f16d311f7c895537cd5693"
+    },
+    {
+      "path": "meshes/Turret.obj",
+      "hash": "337c0e12cb4354d9cf83eae83dc8bcf0e4b5a03dc87c223ede7ea240693d05c2"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "b09eb5472cde6689f27e9a656c1c39621c14fef0586ae7b83744d1baa43dc66a"
+    }
+  ]
+}

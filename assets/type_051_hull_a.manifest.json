@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "type_051_hull_a.json",
+    "hash": "cbf2e9802df5e29741a89f15a4dfe7903c249c09c8592afd17078f58812be828"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/type_051_hull_a_rostrum.obj",
+      "hash": "d983be1f46399c5adff2ddc2d39a7ba70a88599839a24409953a5291c63fe0c1"
+    },
+    {
+      "path": "meshes/type_051_hull_a_aft.obj",
+      "hash": "0487c316dc7b66e5bc7dd8e26e6d75bc1c2cca45f59212c122b8134e60052cdb"
+    }
+  ]
+}

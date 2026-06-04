@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "warspite_tower_main.json",
+    "hash": "c655b383cd5c9b34ca66b35e23110bdf30321959ea523f80aeb79cc44ece79a9"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001.obj",
+      "hash": "94403be5f66e5f522540eae58906abcc5695c4e41fa6e3fe025b40743f6af570"
+    }
+  ]
+}
