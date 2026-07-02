@@ -1,0 +1,76 @@
+{
+  "main_file": {
+    "path": "hull_393_a.json",
+    "hash": "34609fd7870e81562d82b019a55bd0f198686b1dcbe53e3a4a7e66d564ca8250"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cube2.obj",
+      "hash": "6fc9514da8ad4ff18a395570bdd04c81de5de292119dacf59cadc28f264f729e"
+    },
+    {
+      "path": "meshes/Cube1.obj",
+      "hash": "133a1ed463d90014744c5b31af7d6076d87919a0dab759bb1a5ea7d0dc8dc1b6"
+    },
+    {
+      "path": "meshes/Cube0.obj",
+      "hash": "a282873c673dae6f218dd7bc64b960b1a5f4e2b343611c4af825f3f9040ed2bf"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_2.obj",
+      "hash": "3dc17804c18ec60246714a08c57f55bfbbfa7ae3b0ab404dbc8d3c49339392f5"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_4.obj",
+      "hash": "ea24f520aca5933df979ee43df4816212ac7320be078c457fb4106baaac1f2d3"
+    },
+    {
+      "path": "meshes/Cube3.obj",
+      "hash": "651e06a4889fbcce604abe5dac0a840d3db9b516b5d5922cbf76d3a60064ce59"
+    },
+    {
+      "path": "meshes/Cube6.obj",
+      "hash": "97105c33e7c16cfd46ed83d4b59996eb66f21ebcb437bef8b04709959978c278"
+    },
+    {
+      "path": "meshes/Cube5.obj",
+      "hash": "5e434ce467e8188d9c8ca25b5411a920752a17df0dcf3ba0582a575c18d5a97a"
+    },
+    {
+      "path": "meshes/Cube4.obj",
+      "hash": "eeb87003a7fa01c9fcf6bea145a58c182bd5384d0506846407b7ba654451de08"
+    },
+    {
+      "path": "meshes/Cube7.obj",
+      "hash": "c6b7030f18dc2dff20ae0b208108478796f1ad4d4587858482cb15a850546b24"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_5.obj",
+      "hash": "1840a31e71cfe58ebba4a860721a7fbda5537eabda2ccadb1b1e85fac85e8bc3"
+    },
+    {
+      "path": "meshes/Cube10.obj",
+      "hash": "08f3158612e6f3ebf30ceeb38840ac057185bb870473ea01b5034f63e823cb73"
+    },
+    {
+      "path": "meshes/Cube9.obj",
+      "hash": "c49579c6d16a8d84b15c0cb6d940bef764733ad63c788a445583f5d48d47d555"
+    },
+    {
+      "path": "meshes/Cube8.obj",
+      "hash": "d34eff2326a67f421111725bc3e90f69de918fbc5e1141f86f782c6a80b3dcd8"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_6.obj",
+      "hash": "6422ef0683f9eadae6feab02f87fa88a4422c07a17a51c403341ceb2da6c8540"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_0.obj",
+      "hash": "7b25342c8aa758fe0385418fb2d8101887d631566cf13c555058ae0bed11f336"
+    },
+    {
+      "path": "meshes/Cube11.obj",
+      "hash": "ee2f1eced56f1febe828dbfaa951540db2a9b39d61c0a6c3c515f0ce6f5182a3"
+    }
+  ]
+}

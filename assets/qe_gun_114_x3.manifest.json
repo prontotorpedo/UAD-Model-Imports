@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "qe_gun_114_x3.json",
+    "hash": "333f2ca43b9dc0e758522f8c78a5e693b77737fdb3e013a55b69b7211a20ab6b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/QE_pancake_133_mount_001_QE_pancake_133_mount_001.obj",
+      "hash": "c1855a5b800843b5014f4f516f4dd8cc6fa57276359cdb1a6b7045e6620e41c0"
+    },
+    {
+      "path": "meshes/QE_pancake_133_barrel_001_QE_pancake_133_barrel_001.obj",
+      "hash": "273e57606fb19e1b1d5561b1efbb91cc4d11717555df32368e88b249c7cdc674"
+    },
+    {
+      "path": "meshes/QE_pancake_133_x2_001_QE_pancake_133_x2_001.obj",
+      "hash": "a2f5ee37ef8b9920accfe6292549de0da57f7781a9155b6fbb099d88b6a04284"
+    }
+  ]
+}

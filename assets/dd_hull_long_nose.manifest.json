@@ -1,108 +1,108 @@
 {
   "main_file": {
     "path": "dd_hull_long_nose.json",
-    "hash": "d1f4874535261bd7390abbcf607d56d2ffc6d7aead6c73c2f429f53a0da9b617"
+    "hash": "53c013db5b601a29c4043b3e9e022e427688c6366281520d13fa3e6910399b29"
   },
   "dependencies": [
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_0.obj",
-      "hash": "ac114b37feb095393417ee9a9110e450bcd219da78b8938f5cf9d4bac03b24ba"
+      "hash": "c1824fa75a074d577af2002a2587a0c63ca58584e6e3e6c4b118287c2035b56a"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_1.obj",
-      "hash": "5b7393b01d249fc3c6b50b45e8aa99dbb40841617a19995f8233c246e7dba999"
+      "hash": "72cf27a5a3d591edca73d8ac91e2e8998b2ef419ea42dd85245e0c340f3c9dcd"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_2.obj",
-      "hash": "aee03b1bcd272729629a7346f949736fa4393997efdf26fdec140cea592c1c9b"
+      "hash": "675cb02eb8f959709cf431259bdaf5694cb04bd676a6aa0d5cbf91a9538ef4e1"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_3.obj",
-      "hash": "de52cf8e9cc3359124bce9266ed0fc0184ee4edddc6ee39a03ad40af7829ad45"
+      "hash": "c01e001f0f6d9ec4f7ae355ab2d0e660c89d0907d6a94f84665b7c5235317707"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_4.obj",
-      "hash": "698e724a1a60ed7ea94fbe5368bb2c4a8c7b4834cfc1a3b58be487f879b32332"
+      "hash": "956a33c47565a222902cd4b46b4785e977f474d2cd8c619099c587ddbb68fc1f"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_5.obj",
-      "hash": "3f5b6d0e66512fe60af95b0c0c4351a7abd085baa40ae55eafd2a091cb9f719a"
+      "hash": "62214fdb9fdbedce335c2931cb24e896aa06333f8f8d01d420c3f7276354fcb6"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_6.obj",
-      "hash": "2ca7000217f4888a613314bd853ceb676f1e392d23b7a69c8fe0b86e2be158ab"
+      "hash": "1036f9ee4fc2028e55deac638f5c7f2f4c2f792f42bf2a7661197984c72a5150"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_7.obj",
-      "hash": "058da557d79152b8cde9fca751f12dfe8b83afe50e7705e8872944ea8471746a"
+      "hash": "63ecff6d4cea0e15a7b7cc9c46605d4a01c5ac63c4990ff978fc10fcf85996b7"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_8.obj",
-      "hash": "742f26cff6343c49d6be20b1cc0c633149afc85acc1976af3dfdf10590141443"
+      "hash": "cc0db301d119461d0a8e0b3d4d962b5599a439a4d7df368e68bb9b4040b07b0f"
     },
     {
       "path": "meshes/Dr_Hull_Rostrum_destroyer_A_001_9.obj",
-      "hash": "7970a6866bda71e5ee949d92016667441a0d84770073cb57648dc7866ad016c2"
+      "hash": "313dad64b7f7ded84b60ae75eba21011563d34bec569931fe81085b1386de16a"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_0.obj",
-      "hash": "7103b9d936b6f23717eef21c30462f05ce6cb644248ce25bfa18be5392046482"
+      "hash": "6c4791e3342cded44a9619b4bac1a98c017ee80aef39ad4e0d8fdd0023035b00"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_1.obj",
-      "hash": "b0b99993bc9277588779704f3843f90e10f7a744073209c0263067dae17135c4"
+      "hash": "4c71e966ee43aabc501b170d4cfed5a98e04e87c5dae245f174f1cdc050d17be"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_2.obj",
-      "hash": "d41a776002a2c93e1d25820a2b2236eb6544a2a7dc7e7743e3ee8afaa3111b69"
+      "hash": "66db248aa392e7376b46548cd2f6b68a089b7802d912dd8b7f4eeef40597c735"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_3.obj",
-      "hash": "06f4d5d59584b078e9558704b7b74fd1525508f02bae2d3ab38e55e8b3d62260"
+      "hash": "e477f22849e9f5fed3a115171fdfddc3a6ef2b0836b071f308c59f64cc089689"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_4.obj",
-      "hash": "fd7f78d0b445d0e1ca820cb030c428562644fcdd0652989a6c403c3b4bca7811"
+      "hash": "1511682a2825107c8afff20d91d9d03ebbadfbe08a91d46e3d9b65b4c59fa66d"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_5.obj",
-      "hash": "45aecb1f2068f2b8776b5cb12953c4a425731f0875653befa9c274b04dd6bcb6"
+      "hash": "cdb690ddf42dbc03e3e6a84016efd52048ad89cf4b764f4c34712708b3436d14"
     },
     {
       "path": "meshes/Dr_Hull_Midsection_destroyer_A_001_6.obj",
-      "hash": "3d90392fe7d3c4e29b7353e82d3c91a9c7e73a12ff16e790c14af17c8a930a39"
+      "hash": "2dfa9a60aa426e790e9a2e3d4e108a19ab0e0998c63207cb0950bb5e3a4e126b"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_0.obj",
-      "hash": "99201234987a267f7c34fe74da37c1ed07a37b267e615d61dfbb300af6efdae9"
+      "hash": "ad35dd412baba19ba3d8e31a28c1b145e0c1e40dc89dafbf169a43840ccad159"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_1.obj",
-      "hash": "0ac4bfd896cff24528c1571805af9f007a8622ebb0ab1d3ea55fa83d6c6e1be7"
+      "hash": "dc9068c9f4b3af56c6cf23f37ffb87cdaae5037d3e5c49e0898e5f75b9a622ae"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_2.obj",
-      "hash": "0b03431e9a2521d86ec930576cfe938b9453312a0bf142c7541560bc595333c4"
+      "hash": "77e5dd31f15934b347f75aab048e5490b848acc7c9fd1b6e244010a9128838de"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_3.obj",
-      "hash": "ee8a24770a1fde5f5ac54e57906e3f1f17fed1070782be007468813d0a109597"
+      "hash": "77eb7fae36aa1016ec110ad93893c71a6aa75e874b9f7d35e6ce6bf01331ca41"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_4.obj",
-      "hash": "1abf1b3670c7a21b14f0ae2d290d4d37401f5902720d0595c715ac6622d01d3a"
+      "hash": "cee608b5f4f08b1636e6ffa3f731f73192469494c9fc15499c434e9d2e37c3ed"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_5.obj",
-      "hash": "496f632942ed63e1a2b8f7ed406651ddf9b46b503effa6f637f1376f542697e2"
+      "hash": "7ef8e5660379644ecd8751781e0465f2d4c51af5bfce9274273d5b54f4f939c9"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_6.obj",
-      "hash": "9e10023841ff02cb1d9431edabf2f07c11e2604cec8d254da0e3c6da845773e1"
+      "hash": "cc2031ac5d062ba1cea4d7fd8c1b30f1097392e0d8706c3411f622153e23a776"
     },
     {
       "path": "meshes/Dr_Hull_Stern_destroyer_A_001_7.obj",
-      "hash": "8ba9a3116b84570860f5e93d3c2e012a27db79afd0db9434c0fb59f3900f8d93"
+      "hash": "aa9e7315d6ac991f2d549667c10ac269fecb8abb1b1e61595c7ae9042bbdf153"
     }
   ]
 }

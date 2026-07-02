@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "mont_gun_152b_x4.json",
+    "hash": "da6a4a68e5d3b3131fa02c57e496d47ce507a906196ed79e63139da5af2b8a74"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Mont_gun_cal152x2_barrel_001_4.obj",
+      "hash": "7ee52bb16938260944b960f0dd1b7f73788d0744f1d9bf9203fff477d663b52b"
+    },
+    {
+      "path": "meshes/Mont_gun_call152_x4_001_0.obj",
+      "hash": "f74215513ee5255000cfd950af28744c2f12d72f96f7b8416a6ff4d4650d543d"
+    },
+    {
+      "path": "meshes/Mont_gun_call152_x4_001_1.obj",
+      "hash": "4eca2689bdf61b088e96c2a21cbd222e306fd817af558070111c6324e4131f7b"
+    },
+    {
+      "path": "meshes/Mont_gun_call152_x4_001_2.obj",
+      "hash": "28caf04016388765e75c69111fcee5a304461e806c41c6be59bf31b9fd42b311"
+    },
+    {
+      "path": "meshes/Mont_gun_call152_x4_001_3.obj",
+      "hash": "e7c0f4f7b2e61573af20aa4bd0233d2c1792f4ea8b127a3b4803109437e2e71f"
+    }
+  ]
+}

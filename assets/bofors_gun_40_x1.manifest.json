@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "bofors_guns_40_x1.json",
+    "hash": "2bcc0fb95142318eec8f8704dbc88b6aa1150f039bc63a48068921a20bad0669"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Rish_gun_120_x1_001_0.obj",
+      "hash": "76037558fe7a9c6afb6923d1a47f6857841b3ad2d6b7b467ba66f4f3a14bc265"
+    },
+    {
+      "path": "meshes/Rish_gun_120_x1_001_1.obj",
+      "hash": "c530f31970ad0c78e5ea34f10769132e3fd69fb423c6743b85ec29b9fdea76e6"
+    },
+    {
+      "path": "meshes/Rish_gun_120_x1_001_3.obj",
+      "hash": "59d187b4d41654ec9a80d92d18315fe805e4bcafdc1f91c532ce4d02953697d1"
+    },
+    {
+      "path": "meshes/Rish_gun_120_barrel_1_001_3.obj",
+      "hash": "feea001c3809104fddde5a3df362cd88c4aa393501f1d9bdec3cfeeef0fa6d96"
+    },
+    {
+      "path": "meshes/Rish_gun_120_x1_001_4.obj",
+      "hash": "47c1f0e59f291ff0fac7f785b7d89b7380ba4feed6a9b81f71e54fd323fba175"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "alsace_tower_sec_a.json",
+    "hash": "1850b5788e5ddc4c3a78c0f2b647ce40db2790c1e012d0448c7e26a973516e75"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Lyon_Deckhouse_001.obj",
+      "hash": "b35da4ad92b3a4f1f30d5e9a0df768c77d407af6ffdd1ec0639bcff6011197bd"
+    },
+    {
+      "path": "meshes/Lyon_Deckhouse_002.obj",
+      "hash": "c5fb6339c74d46002d3908d95e52275dd6444454f26747436692dbb88d18a7e1"
+    },
+    {
+      "path": "meshes/Lyon_Deckhouse_004.obj",
+      "hash": "e1c19f3864119c5b5abf02fdece640014cf065d4a8ed5f00685095197ccb2b66"
+    },
+    {
+      "path": "meshes/Lyon_Deckhouse_005.obj",
+      "hash": "3be54347989ecf28fbd94edbb59f26feec8b1411f77d5e5b57d01d9f3861fb9b"
+    },
+    {
+      "path": "meshes/Lyon_Deckhouse_006.obj",
+      "hash": "6416a81aa41653f956b5eb0876b58ef4e033497c365621888cc22cae4c1844a9"
+    },
+    {
+      "path": "meshes/Lyon_Deckhouse_003.obj",
+      "hash": "0e9eae61beb9531c6cd5971981aef3afde64e35aef284bacafe10d2b47bc5da2"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_2L_A_001.obj",
+      "hash": "6aab1342a06e593500bc957eed38db93070a7b35f7391eadc2d7710404145d66"
+    }
+  ]
+}

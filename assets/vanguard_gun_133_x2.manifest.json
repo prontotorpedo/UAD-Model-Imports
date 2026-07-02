@@ -1,20 +1,20 @@
 {
   "main_file": {
     "path": "vanguard_gun_133_x2.json",
-    "hash": "874e9e7a93f09bb2c104be21fecfe49accd7aa21e72a4957f453d412ff802a26"
+    "hash": "e8e477263f14dda71dad78623414175b965c2341fd871ab99cd6e8fa98cc6d45"
   },
   "dependencies": [
     {
       "path": "meshes/DidoX_gun_cal133_x2_barrel_001_0_DidoX_gun_cal133_x2_barrel_001_0.obj",
-      "hash": "caf19dd5114b2da198571b4e063cf2f47997348a543a7bf5f7529437a8cde251"
+      "hash": "b4c5d1a7edba9b4aedc1bb727e329de09aa9a078c3bf5d2179c56a8545b034eb"
     },
     {
       "path": "meshes/Dido_gun_cal133_x2_001_Dido_gun_cal133_x2_001_Material.obj",
-      "hash": "d70667fea1f013bfdb6dafd92923e4dd311c43286a000626a3bff8543a85bee5"
+      "hash": "7b5643544aca71477420372604deedf8b91d3b5df295d2fad1af59310c298285"
     },
     {
       "path": "meshes/Dido_gun_cal133_x2_001_Dido_gun_cal133_x2_001_Material_Material.obj",
-      "hash": "b77a1c2c9f74b0e7165b019e054bb77f5ddc452074eb1eae03d78e4a2fbe5b34"
+      "hash": "0cea94662f48eab616e5c994be59fd63f478a687ed70d3fc5899c05fd1c2d512"
     }
   ]
 }

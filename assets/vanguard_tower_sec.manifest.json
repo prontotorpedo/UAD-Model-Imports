@@ -1,0 +1,60 @@
+{
+  "main_file": {
+    "path": "vanguard_tower_sec.json",
+    "hash": "2d3a493cab1c734f1e5dad7b6120a225c5eeb2fa3849d50f5afd7e283741dab1"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_0.obj",
+      "hash": "cd7dcdeb466f36b8b30e5fea240cbf1274a51bbe039f30582a74278bd14575c3"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_1.obj",
+      "hash": "cc8f05de483d767c6e45ce5ae4e4c51ea8e3c1a29b3a07da64025e2ebdd74442"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_10.obj",
+      "hash": "27ce1d7e99c80b46b81f7ad131b59777ad30004fb8d597be00c9f62351d968e7"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_11.obj",
+      "hash": "5ab51ee6e72cb1984f244866a617906d673556e4cc8d9fab5be66b69ce0422be"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_12.obj",
+      "hash": "fe7d342a440871398bab40f50c202464a1851704e6c86be1d5ae795bf6e5ca66"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_2.obj",
+      "hash": "ad904c808ad07e5f3fb2e96b6944ed446c105e038060891e4c91e515758c04da"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_4.obj",
+      "hash": "cab75e8760bc7ba2b16cc50b1584fc1f5ff2d2757ff5871b8c0dbc0a363cf69d"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_5.obj",
+      "hash": "491c6487273116c2193adc76d22633e443844185067199b02d388bb5ddd50315"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_6.obj",
+      "hash": "7e5fc1e4cbe1b3f7ce0588857774de41fcff254f6cf6ef41fa9ca7358d17d564"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_7.obj",
+      "hash": "ff1b4c9e5f54db3152619a9a4c798d2c6357cb8019fef773f4fc4f99d654cd66"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_8.obj",
+      "hash": "0672fe6e23a74944f112de7fc3ca8996da23b0dac4e1e14359c0e1f2f072f6ed"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_9.obj",
+      "hash": "06dc946bff1184ccfcfc67552381ec93b45a5b3dcb3e7d56438ee078686d74f7"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С2_001_3.obj",
+      "hash": "8fe5adbef60f7cbf3fe828fe062dc3579c75c48473d54cdfbeadc7ed8dd51bac"
+    }
+  ]
+}

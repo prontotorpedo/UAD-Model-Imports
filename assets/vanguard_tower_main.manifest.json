@@ -1,0 +1,52 @@
+{
+  "main_file": {
+    "path": "vanguard_tower_main.json",
+    "hash": "48426e8ade566a2c61db3563184709a29b9c65d75c88c3f5d6d2d6231b02f3a8"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_0.obj",
+      "hash": "490b9b311ead4329cb113c94bad0aefe22cd25e4e5e7cb1f7570c550025de539"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_1.obj",
+      "hash": "6ea5d5e3210cda5b06b908dd15524e21d4ea0e61abff1673cad3c9866ceabf08"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_10.obj",
+      "hash": "54857e6479725e2c494ae274971ef75016112a89fc661a35b66796e9e54e8268"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_2.obj",
+      "hash": "ebf1352091f231020d651cded51f9dca385d79ea65b96d618505fa822cd4004f"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_3.obj",
+      "hash": "412e3a08649b27cfac144bc9656456c49f21944c17356c607f78f7d93525fec0"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_4.obj",
+      "hash": "53c1312787e94778cb8ccfde7a8394131ca18c53904b746987e06d23213e8eea"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_5.obj",
+      "hash": "6e268b02f4ac24d52362e8fdcb4c28a5528375ccc3fbfd9529a4e2b7e09ec5bb"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_6.obj",
+      "hash": "dcad0cb117e697cf896f75e6e77fb664aaca287ec5dfa1aa890ab3c8a7c2660b"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_7.obj",
+      "hash": "c4d6a1ac7fdca1e439a853129fdcabfee8ba142911d607d29076f126fdba95df"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_8.obj",
+      "hash": "c9c3ddddb462513cece55f771ee750428663a35bea9c4d25fb94bda25203f84c"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_9.obj",
+      "hash": "fd9984162145b38e7cc50e47d44a784b96a073db9a96144c56ca17e85c2ca941"
+    }
+  ]
+}

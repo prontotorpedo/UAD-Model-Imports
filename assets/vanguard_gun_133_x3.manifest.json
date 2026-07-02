@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "vanguard_gun_133_x3.json",
+    "hash": "19353c71454c20a4a8d877cdb7b9cb0e3215096447e74654c9a8017543931559"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/DidoX_gun_cal133_x2_barrel_001_0_DidoX_gun_cal133_x2_barrel_001_0.obj",
+      "hash": "3f3a851ce7062b16a4babed4f02ae8e7dceb4e831c6f3519b3c689d179af212d"
+    },
+    {
+      "path": "meshes/Dido_gun_cal133_x2_001_Dido_gun_cal133_x2_001_Material.obj",
+      "hash": "d8d33800eaeabf20031d8e131cad6fca2334904b1c03bacc0da685f243bd20f0"
+    },
+    {
+      "path": "meshes/Dido_gun_cal133_x2_001_Dido_gun_cal133_x2_001_Material_Material.obj",
+      "hash": "0cea94662f48eab616e5c994be59fd63f478a687ed70d3fc5899c05fd1c2d512"
+    }
+  ]
+}
