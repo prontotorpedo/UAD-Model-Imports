@@ -4,7 +4,8 @@
 vw_torpedo_x3,torpedo,Triangular shaped triple torpedo launcher based off of the ones found on the British V&W class destroyers
 ##,,
 tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
-##,funnel,
+##,,
+vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 ##,,
 alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace class Battleship
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
@@ -24,6 +25,8 @@ vanguard_tower_sec,tower_sec,Resembles the rear tower of HMS Vanguard
 ##,,
 alsace_hull_a,hull,A version of richelieu_hull_a with a longer stern deck. Meant to resemble a design concept for the Alsace class Battleships
 austria_bc_hull,hull,Based off of a design concept for an Austrian Battlecruiser in the mid-late 1910s
+braunschweig_hull_a,hull,Based on the hull of the Braunschweig class Battleships
+braunschweig_hull_b,hull,Swaps the fore and aft casemates of braunschweig_hull_a for torpedo launchers
 dd_hull_nose_long,hull,"The generic DD hull, but with a longer raised deck"
 dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section"
 dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear barbette"
@@ -54,6 +57,7 @@ qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British airc
 qe_gun_114_x3,gun,"Triple turret version of the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
 teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnoughts"
 teg_gun_305_x3,gun,"Resembles the triple 12"" guns used on the Tegetthoff class Dreadnoughts"
+tribal_gun_100b_x2,gun,"Generic twin gun for DDs and CLs. Loosely based on the 4.7"" guns of the Tribal class Destroyers"
 usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war"
 vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard"
 vanguard_gun_133b_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard, slightly longer than the other version"
