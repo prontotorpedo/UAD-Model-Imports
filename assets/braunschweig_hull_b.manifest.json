@@ -1,0 +1,104 @@
+{
+  "main_file": {
+    "path": "braunschweig_hull_b.json",
+    "hash": "77f63bcd6467b5935461addb4d855fe716d7cc60979f42263a43a666c4c5a435"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_001.obj",
+      "hash": "2f7a66c6a815bd874884b236fb787e059645ab175d99afa2200e38064e835d0d"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_008.obj",
+      "hash": "2392106bde5d4efee06a93d136562a7c2b7702484830c0149e49171c75791f05"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_002.obj",
+      "hash": "d1f27dc447cf28b7444ac68b0207c19aea585c91b5a896df6d9be0f96210d1bd"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_003.obj",
+      "hash": "c67c4386831ef679707e4defdd81ce61fb57f412fc26dfd8b74fa5ed674f08b5"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_004.obj",
+      "hash": "2fa51faf5c7619279588c400a25784838ad77bbe94797272542b8197c678d692"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_005.obj",
+      "hash": "0a2e96fae038e686f8336eb554e57fd1177c30065e50f0ab7313999a48d0e734"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_006.obj",
+      "hash": "561afde09f986976b3f02ff535aa7ec1ab4951eebcf0f6707de32c5b7d8abb92"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_bow_b_007.obj",
+      "hash": "61a5611e82b7f1a27f16722029fa6ecf069da6947ceb42881998b9038f439950"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "bde23da91757a28ee18e68f17ace6360aad9e1304daa25bd366b439ed9ba6afd"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_001.obj",
+      "hash": "daeb06b0ff29800f53c93c505bf862bb33cdeef0ac606b830f3b728c78f64d1e"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_002.obj",
+      "hash": "e3637d25ae3cbaf7a35ac6132c84afd516c2be71bd8e814c0fa4e1b55a360b74"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_003.obj",
+      "hash": "732dca34c6146125e53af259d77b51361ac82140f2d275302449ce826fbfffd0"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_004.obj",
+      "hash": "66b2f857f5383dd944e78e2c7d223d8bdc98a2fecd0864355dde4e38efffa3ee"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_005.obj",
+      "hash": "7afb6c2c6a83757c85dcd842ca2503eee5c0e5aa92caf13f2905e6c174e4be76"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_006.obj",
+      "hash": "52d3ad0eba98a703c4a0a2bd35b8977199a61306e2950a7f2d57aa78a1c6903c"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_middle_b_007.obj",
+      "hash": "d0fa3880da7f476da1e5397cacd4b5f5157555fc5841e7a5c51ed460fb50c9aa"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_003.obj",
+      "hash": "f5923ddff53e8e8ba22ea4e18f1f06769f9949938b9a6224d804c8aabde78471"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_004.obj",
+      "hash": "be075e47046ad67edc810f455c53f6b1bc712a208b484145b9bba408402bea91"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_005.obj",
+      "hash": "58171271a8a69aae9b821b20ffca52a88a1b7e36525db297d2f21864ea6aa51f"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_006.obj",
+      "hash": "304bb2cba5e8f11a0cab92f8fe19cf27b9439942eb90e27afa37e95ead8a82ce"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_007.obj",
+      "hash": "8087506bdc77bb9c2175cef42f62bdcb05118d9804a06adefaa18001bc1ac82a"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_008.obj",
+      "hash": "cb40e1addacaea62ad66d2a3fcaed51b4138148c90010b7af8c32b8dc5b4b3af"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_002.obj",
+      "hash": "9e5bf66362e5bd56f2bd936723d5788db0564772f1f90a5e973024d1b7481d1e"
+    },
+    {
+      "path": "meshes/Braunschweig_hull_stern_b_001.obj",
+      "hash": "784b8b0fe10fbf092d1a940f8b4ca8ef2c73015a7c05687df2de9f3e90c3100e"
+    }
+  ]
+}

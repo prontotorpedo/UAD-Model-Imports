@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "vanguard_funnel.json",
+    "hash": "8aa888436a3600ad2313f320483fe77e5df6907c6363e0423a2bf117f12576a9"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_0.obj",
+      "hash": "074c19a06e9927f134f9aa16fca457e9d757b1e5be06cd5ee5ff8a848412d74b"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_1.obj",
+      "hash": "e8cf5d827fac0609aeaeba15083a318127348718048ddb1fdd54b066ee672b77"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_2.obj",
+      "hash": "b777fcfde95a57f485bfac5296f2c268b6db61622335be1b95d2b1a06b7a7dee"
+    }
+  ]
+}
