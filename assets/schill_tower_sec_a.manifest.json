@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "schill_tower_sec_a.json",
+    "hash": "3771aec3c3d9263083b07dabcff8901e8ad64fcf2e39e3796c6b2627cab9ff3d"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/schill_sec_tower_a.obj",
+      "hash": "cb4f85fe3e6c3934d9d48970351cf538e121523a86f074cf73e9e04fde500b19"
+    }
+  ]
+}

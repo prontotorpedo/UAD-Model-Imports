@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "schill_tower_main_a.json",
+    "hash": "809c3199eefc6ee43b583e5c4f11f47aa183cdfc9b1549164d985e3f0b92ec5f"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/schill_main_tower_a.obj",
+      "hash": "caf950be0f1aaf8f520f1c78fb0e350038684b276b248e76b89032732048fe83"
+    },
+    {
+      "path": "meshes/schill_lifeboats.obj",
+      "hash": "e02af159a7ebfac3fd3a011a9f67f30cc41f6dc8d3a1462e9ce3ce84a0626ffd"
+    }
+  ]
+}

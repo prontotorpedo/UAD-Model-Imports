@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "vanguard_tower_sec.json",
-    "hash": "2d3a493cab1c734f1e5dad7b6120a225c5eeb2fa3849d50f5afd7e283741dab1"
+    "hash": "28af35fbdea415e2422aee6b7ac36e459f02dbdcd32ef56ee9f62483fd38628a"
   },
   "dependencies": [
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_0.obj",
-      "hash": "cd7dcdeb466f36b8b30e5fea240cbf1274a51bbe039f30582a74278bd14575c3"
+      "hash": "41aa45b0afc10fda3e7d33a04cbd9102a79ed66a48c6154fadacca0207e3645d"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_1.obj",

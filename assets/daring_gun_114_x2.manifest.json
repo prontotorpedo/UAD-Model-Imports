@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "daring_gun_114_x2.json",
+    "hash": "48409ac407153f10c2a0b5cc81adfba4163e5897471c72e1ed8dbe01a494d367"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Daring_gun_114_base.obj",
+      "hash": "212ad9ee53c72420699fe3f4212eec46b9027d6dae4875a40ccc0334cdc2ad6d"
+    },
+    {
+      "path": "meshes/Daring_gun_114_barrel_x2.obj",
+      "hash": "c358e980a72c474455f4208a1f9844d67a42647c6430c191201d182023dfeb31"
+    },
+    {
+      "path": "meshes/Daring_gun_114_sides.obj",
+      "hash": "c7e76a691a0ee97a032c8bf6733c2c4411400fbb5c28f223b45ed24e370132d2"
+    },
+    {
+      "path": "meshes/Daring_gun_114_top.obj",
+      "hash": "94a56e62bd0b9171b2a7cab455e93bba98229c35c721cc4253af0eeaf2d2e67d"
+    },
+    {
+      "path": "meshes/Daring_gun_114_traverse.obj",
+      "hash": "8a00e29719e0a6c55a4016f921a93e48f7557ef0ce3fc5b78238c0f57db6f3d4"
+    }
+  ]
+}

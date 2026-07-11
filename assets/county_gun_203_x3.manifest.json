@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "county_gun_203_x3.json",
+    "hash": "fa79c28b269331973a42822ae3e9bcbf673eee3791cd25c99121c87ab38a518d"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/moga_gun_200_A_x2_001_0.obj",
+      "hash": "f7d7495eb15866d7b6cce661105ebc67bacc9a9ab500d329b8d061e170359fe7"
+    },
+    {
+      "path": "meshes/moga_gun_200_A_x2_001_1.obj",
+      "hash": "b690ecc0f54204de965376b46c4d584a538d4cc246fdbe086ed7684c9a379836"
+    },
+    {
+      "path": "meshes/moga_gun_200_barrel_001_0.obj",
+      "hash": "c3e492e07a7831d302c8ec49bb81eadf4cbd872208b2d6c91b388e7290278d15"
+    },
+    {
+      "path": "meshes/moga_gun_200_barrel_001_1.obj",
+      "hash": "1a245a992cba2a33c4953c4cf1b0a6d5ecad509eb686e810c969bfabd07ae4fa"
+    },
+    {
+      "path": "meshes/moga_gun_200_barrel_001_2.obj",
+      "hash": "d84f7957046acfe3d2aceb2e5f1d7b15593651217e060e882078476b8f5de55c"
+    },
+    {
+      "path": "meshes/moga_gun_200_A_x2_001_2.obj",
+      "hash": "8e119e82faebaef47461625b3af8e5aacf1068d11cbc7bde153a28cefbb03e95"
+    },
+    {
+      "path": "meshes/moga_gun_200_A_x2_001_3.obj",
+      "hash": "680d35291d0fb43122363edac70bff453b371378b2e687f6faebf5429b1619b7"
+    }
+  ]
+}
