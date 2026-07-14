@@ -11,6 +11,8 @@ alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
 scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships
+schill_tower_main_a,tower_main,"Based on the front tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
+schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette"
 tribal_tower_main,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching"
 tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to resemble the main towers of some V&W class destroyers
 vanguard_tower_main,tower_main,Resembles the main tower of HMS Vanguard
@@ -20,6 +22,8 @@ alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace c
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
 scharn_tower_sec,tower_main,Resembles the rear tower of the Scharnhorst class Battleships
+schill_tower_sec_a,tower_main,"Based on the rear tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
+schill_tower_sec_b,tower_main,"Same as schill_tower_sec_a, but with an enlarged barbette"
 tribal_tower_sec,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s
 vanguard_tower_sec,tower_sec,Resembles the rear tower of HMS Vanguard
 ##,,
@@ -27,6 +31,8 @@ alsace_hull_a,hull,A version of richelieu_hull_a with a longer stern deck. Meant
 austria_bc_hull,hull,Based off of a design concept for an Austrian Battlecruiser in the mid-late 1910s
 braunschweig_hull_a,hull,Based on the hull of the Braunschweig class Battleships
 braunschweig_hull_b,hull,Swaps the fore and aft casemates of braunschweig_hull_a for torpedo launchers
+clev_hull_a,hull,Flat cruiser hull based on American cruiser concept designs
+clev_hull_b,hull,Stepped cruiser hull based on American cruiser concept designs
 dd_hull_nose_long,hull,"The generic DD hull, but with a longer raised deck"
 dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section"
 dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear barbette"
@@ -43,8 +49,13 @@ bofors_gun_40_x2,gun,Resembles a twin Bofors 40mm AA gun
 bofors_gun_40_x3,gun,Resembles a triple Bofors 40mm AA gun
 bofors_gun_40_x4,gun,Resembles a quadruple Bofors 40mm AA gun
 bofors_gun_40_x6,gun,Resembles a sextuple Bofors 40mm AA gun. Unsure if it will work
+county_gun_203_x2,gun,"Based on the 8"" guns of the County class Heavy Cruisers"
+county_gun_203_x3,gun,A hypothetical triple turret version of the County class turret
 courbet_gun_305a_x2,gun,A less tall version of dant_gun_245_x2
 courbet_gun_305b_x2,gun,"A less tall version of dant_gun_245_x4, made to fit two barrels"
+daring_gun_114_x1,gun,A hypothetical single turret version of the Daring class turret
+daring_gun_114_x2,gun,"Based on the 4.5"" gun used on the Daring class Destroyers"
+daring_gun_114_x3,gun,A hypothetical triple turret version of the Daring class turret
 mackensen_gun_350_x2,gun,"Resembles the main guns used on the Bayern class battleships, as well as the Mackensen class Battlecruisers"
 mont_gun_152b_x1,gun,A slightly thinner version of mont_gun_152_x1 with lifeboats on top
 mont_gun_152b_x2,gun,A version of mont_gun_152_x2 with lifeboats on top
@@ -62,5 +73,6 @@ usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war"
 vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard"
 vanguard_gun_133b_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard, slightly longer than the other version"
 vanguard_gun_133_x3,gun,"Triple turret version of the 5.25"" gun turrets used on HMS Vanguard"
+vanguard_gun_133_x4,gun,"Quadruple turret version of the 5.25"" gun turrets used on HMS Vanguard"
 vdt_gun_cal150_x2,gun,A model of a twin casemate gun
 vw_gun_120_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
