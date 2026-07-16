@@ -1,20 +1,20 @@
 {
   "main_file": {
-    "path": "vanguard_tower_sec.json",
-    "hash": "31d11a0732b68f928c18b9777a165015135706b3d614d4437dbfa2b910808ad0"
+    "path": "vanguard_tower_sec_b.json",
+    "hash": "caf1263d94bcf15f3e9366d765525a1bf29a0b1e37df42d0d16df0f58ea387a0"
   },
   "dependencies": [
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_0.obj",
-      "hash": "9c6f7014bea2340e0cab1893219dc5fceb3c5cbcd296c6aa39049c16f8b87cf6"
+      "hash": "79f65c311fce08428a19cba7fa4698c485f9a35ac10a74f6d0b42a4d6efb558b"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_1.obj",
-      "hash": "55f98bd732a5c2a697ba6e43c85f29bc720b9511a2133be574058dac836d2bc2"
+      "hash": "474719a355455a051b0761d6cf061a675635d4b15a8d506eb4ce1469eb98f127"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_10.obj",
-      "hash": "27ce1d7e99c80b46b81f7ad131b59777ad30004fb8d597be00c9f62351d968e7"
+      "hash": "e3c8bf24c1e55ea343232e1519dc54fe76d0d3d975e1b0477462a1e8d3fca4dc"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_11.obj",
@@ -42,7 +42,7 @@
     },
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_7.obj",
-      "hash": "ff1b4c9e5f54db3152619a9a4c798d2c6357cb8019fef773f4fc4f99d654cd66"
+      "hash": "601acb50b6ff080b75f3ab3b18e79d636c43fabbb2acb7fc1dee06d66d8b3927"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С2_001_8.obj",
@@ -57,12 +57,12 @@
       "hash": "2f02896a44d8e17046bac99059998922b327c7fdca6e0c7870bc6d2c916a50ca"
     },
     {
-      "path": "meshes/KiGe_Lifeboat_2_S.obj",
-      "hash": "2323266bbd977c83fefc07b60d84b59921da59f92f47641a687a7d503e6214ce"
+      "path": "meshes/KiGe_Deckhouse_Lifeboat_2_P.obj",
+      "hash": "ae3dc438a7a3d72103a86a596f450b990ef1495ee77c94cc3823d00044da9be4"
     },
     {
-      "path": "meshes/KiGe_Lifeboat_2_P.obj",
-      "hash": "d5539ea3faa79a467efdbd6640e1033cd0c7fe96b2ffeeff586125c2c1ac0e24"
+      "path": "meshes/KiGe_Deckhouse_Lifeboat_2_S.obj",
+      "hash": "517980499580f4a19970eb6aca951df409b07a38f5bd9c8451327d2deaa2f1f6"
     }
   ]
 }

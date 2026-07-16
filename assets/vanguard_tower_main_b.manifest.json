@@ -1,12 +1,12 @@
 {
   "main_file": {
-    "path": "vanguard_tower_main.json",
-    "hash": "b55d5d6dcd0aeac80a9d77a4c23635438cba323950fad9c1fab368ad50fb1be4"
+    "path": "vanguard_tower_main_b.json",
+    "hash": "bfd5cf55066c814356d8131b05f3b0ddfae83ea9a5f8ae9902250cd74e9ba4b7"
   },
   "dependencies": [
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_0.obj",
-      "hash": "b547280c009775015e2418d496e90d5005f64551f24e256d4e7bef7cbb87e75d"
+      "hash": "baecb3ca21a6e083c01a2a8e2bdb1b8dd9fe294cd27b770123d1c05232ee0358"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_1.obj",
@@ -14,15 +14,15 @@
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_10.obj",
-      "hash": "54857e6479725e2c494ae274971ef75016112a89fc661a35b66796e9e54e8268"
+      "hash": "c560d8c9e59813803dc65c731d81524a3b8e96ffb4bfb86089f5c3727f6480a1"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_2.obj",
-      "hash": "bb245954fa0978e3710de19fd52e37dbfb65201d8c4aafd418a5a89716c681a5"
+      "hash": "c4a3c286885e6b27a09e7f749a4178f5f0eeb2ad32178e2db239e45068137979"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_3.obj",
-      "hash": "56931d6e1b16a38932a7c6d86b5c130d4f12c365963bb795996e988ac2f6e928"
+      "hash": "b67b197651d1d422f5489f31b4a862b9fb8fd36f662af648188782df7a211d28"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_4.obj",
@@ -30,7 +30,7 @@
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_5.obj",
-      "hash": "4c88b610508f87296538ed7fab4b251e82b975ad3c48a415f7f51d6a03955826"
+      "hash": "0b485347094ffdb300868dcf9d386a1062be786746de111c48ba30c14b0660fa"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_6.obj",
@@ -50,11 +50,11 @@
     },
     {
       "path": "meshes/KiGe_Lifeboat_S.obj",
-      "hash": "4b9ae100cb6fcea20a0f0514d149a5a45fc808dedf144ee45c4d3e61e9c3d44f"
+      "hash": "9858eaa3fdbd3e5ff37bb36b650db9677f2ffe92293d0d6fc18c7b92d089ac1d"
     },
     {
       "path": "meshes/KiGe_Lifeboat_P.obj",
-      "hash": "160218d7f2a33a8875381e5e51a1ec2e8c516c1476db48475ffae53ceec31239"
+      "hash": "a9a4e3d53223e19f3833541b66fcfb50c4de19466262e4e19305e265bf9fbcb5"
     }
   ]
 }

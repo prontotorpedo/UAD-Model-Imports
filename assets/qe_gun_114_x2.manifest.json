@@ -1,20 +1,24 @@
 {
   "main_file": {
     "path": "qe_gun_114_x2.json",
-    "hash": "31fe486de337018a5c20f1acf39dccdcf433edf551ee75d04f288268d13fc470"
+    "hash": "be6658942ffc19b73e9cf695d7267c0d5a11716a8a90f119aa17e89d87b1b6b3"
   },
   "dependencies": [
     {
-      "path": "meshes/QE_pancake_133_mount_001_QE_pancake_133_mount_001.obj",
-      "hash": "ea27d61411c7c7736bb9e0b3b5c88e93766f5f0db888eb40033a9ad52b3d6d95"
-    },
-    {
       "path": "meshes/QE_pancake_133_barrel_001_QE_pancake_133_barrel_001.obj",
-      "hash": "2c062d912787d3df52eabf6fd066801ebed32428012073bb9c4ab378559678e8"
+      "hash": "05fee4e3ded5157fbd74179adfe8f670dccd491835538a5274c349963db6a197"
     },
     {
       "path": "meshes/QE_pancake_133_x2_001_QE_pancake_133_x2_001.obj",
-      "hash": "a0184825a515b21791459ec61ec150a1ab3668282e3c8125ae9a37ea713e02f0"
+      "hash": "478abf1031140018910877a88cf803cbaad5067176e33c346d0c2554c8aa1d0d"
+    },
+    {
+      "path": "meshes/QE_pancake_133_x2_traverse.obj",
+      "hash": "8b79f154fcb295af6dcb4e665aa2a805ad8dc294f093ca57ad7284aa8e310d67"
+    },
+    {
+      "path": "meshes/QE_pancake_133_mount_001_QE_pancake_133_mount_001.obj",
+      "hash": "7038c84036fb5022bba96176f8cf666e46929ac9b5983a6f6d82a8b75576ccb4"
     }
   ]
 }

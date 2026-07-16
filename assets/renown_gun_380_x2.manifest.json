@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "renown_gun_380_x2.json",
+    "hash": "e4c879d2c56d954082c8a39010e184fa4646f4acaa6110eceb03c1f7a68b4bfb"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood_gun_380_barrel_001_0.obj",
+      "hash": "5b49e17d6c27ff7a2811c4cb5c29097898cca56dfb855adb6e96f52fb2d429a7"
+    },
+    {
+      "path": "meshes/Hood_gun_380_x2_002.obj",
+      "hash": "d5fe263d741580cc77fe522d15d79438967f65a7d47f6f10fba27586097236e2"
+    }
+  ]
+}

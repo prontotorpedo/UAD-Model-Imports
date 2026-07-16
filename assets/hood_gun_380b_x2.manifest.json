@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "hood_gun_380b_x2.json",
+    "hash": "26a23e7773f81ccf9a5502ca52fa319c4d88dddc6bf0a1710db12f0ead7101d9"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood_gun_380_barrel_001_0.obj",
+      "hash": "c510b63cc206513d8fbddd32f350440d237893115cc2413aafeec5c9670d4c9d"
+    },
+    {
+      "path": "meshes/Hood_gun_380_x2_002.obj",
+      "hash": "a3350eb0be95bebcd9de7c1d9a03ed9c05c0738b152a1bf24eb6ec8c9504407f"
+    }
+  ]
+}
