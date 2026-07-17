@@ -71,6 +71,7 @@ pompom_gun_a_x4,gun,Generic quadruple anit-aircraft gun. Takes inspirations from
 qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
 qe_gun_114_x3,gun,"Triple turret version of the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
 renown_gun_380_x2,gun,A version of hood_gun_380b_x2 with a shorter rangefinder. Resembles various British battleship guns
+renown_gun_380_x3,gun,Triple turret version of renown_gun_380_x2
 teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnoughts"
 teg_gun_305_x3,gun,"Resembles the triple 12"" guns used on the Tegetthoff class Dreadnoughts"
 tribal_gun_100b_x2,gun,"Generic twin gun for DDs and CLs. Loosely based on the 4.7"" guns of the Tribal class Destroyers"
@@ -81,5 +82,6 @@ vanguard_gun_133b_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard,
 vanguard_gun_133_x3,gun,"Triple turret version of the 5.25"" gun turrets used on HMS Vanguard"
 vanguard_gun_133_x4,gun,"Quadruple turret version of the 5.25"" gun turrets used on HMS Vanguard"
 vanguard_gun_380_x2,gun,"Resembles the 15"" gun turrets on HMS Vanguard"
+vanguard_gun_380b_x2,gun,"A 15"" Vanguard gun with a mounting platform for AA guns on top"
 vdt_gun_cal150_x2,gun,A model of a twin casemate gun
 vw_gun_120_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
