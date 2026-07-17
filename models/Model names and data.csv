@@ -35,7 +35,7 @@ braunschweig_hull_a,hull,Based on the hull of the Braunschweig class Battleships
 braunschweig_hull_b,hull,Swaps the fore and aft casemates of braunschweig_hull_a for torpedo launchers
 clev_hull_a,hull,Flat cruiser hull based on American cruiser concept designs
 clev_hull_b,hull,Stepped cruiser hull based on American cruiser concept designs
-dd_hull_nose_long,hull,"The generic DD hull, but with a longer raised deck"
+dd_hull_long_nose,hull,"The generic DD hull, but with a longer raised deck"
 dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section"
 dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear barbette"
 iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoughts"
