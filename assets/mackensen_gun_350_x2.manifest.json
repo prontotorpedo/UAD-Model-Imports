@@ -1,28 +1,28 @@
 {
   "main_file": {
     "path": "mackensen_gun_350_x2.json",
-    "hash": "b732a2fd5bfe366141c371b974d558343f77bf3cd358753da1440dd2c015ddcd"
+    "hash": "2c8d20e153a02706f5d6f76f6902ed48cf710c2d745dab58cac0cdb31621632c"
   },
   "dependencies": [
     {
       "path": "meshes/Mackensen_350_x2_deco_Mackensen_350_x2_001.obj",
-      "hash": "de01d701a7b7f9c3a97ecdb0a60171b09a1a29b0f3b225784358b6a84ebc1992"
+      "hash": "69610dcd23750a2955bd53e8dab02e5f7c9c902584bc2e801cf0cbb4754bdca6"
     },
     {
       "path": "meshes/Mackensen_350_barrel_001.obj",
-      "hash": "c2294982332a138a0512af98773c542092a07d4adf960a9fd3f7ff7b6029bb6e"
+      "hash": "df0a447b8185d65eb2d5ae2900367f3684259d5dc647e3e0a767f62e1963f324"
     },
     {
       "path": "meshes/Mackensen_350_x2_main_Mackensen_350_x2_001.obj",
-      "hash": "59334d6063adf11b384e3b62046fedb088d4c81acfa71ef779cea4605b4765c0"
+      "hash": "19786e5fa10567a963b848800d92cac76a803bf9b42f87337507f1b4612cb865"
     },
     {
       "path": "meshes/Mackensen_350_x2_raft_Mackensen_350_x2_001.obj",
-      "hash": "15abffa593930b956450677498287f8687d5ebc4945defd05d4aefddb1fd652b"
+      "hash": "ebdcaae21187d7b09a0931c2808e0a8b76a673c8ec1bd97cb9b9fea889f7e19d"
     },
     {
       "path": "meshes/Mackensen_350_x2_top_Mackensen_350_x2_001.obj",
-      "hash": "c956b2072b5f426e15d9cdddc267e051fdb72af399d627f114a648577f12f4b2"
+      "hash": "4c1dc8f42e3f872e440d193b96ca09f015400589ccbb115e7850bef6ef9a3b7c"
     }
   ]
 }
