@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "fargo_tower_main.json",
+    "hash": "9ce46818382764deb1a5c6406d3a1761d83612bd1f77f6f2ed06d000b612e09c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Fargo_DeckhouseForeSuperstructure.obj",
+      "hash": "511a094250719df101df4dd21068372878d5cba3efdfb2ca02a03949806a0377"
+    },
+    {
+      "path": "meshes/Fargo_DeckhouseForeSuperstructureBlackMastTop.obj",
+      "hash": "9c62e29d0da88cb7952680f4ca3c6232399d41a5d0fd69a7398fba7fabc45331"
+    },
+    {
+      "path": "meshes/Fargo_DeckhouseForeSuperstructureDeck.obj",
+      "hash": "788e063bd5559521f6b33c8eb2fb0e3527507e6525d5a5c95b5b7798d5e37757"
+    },
+    {
+      "path": "meshes/Fargo_DeckhouseForeSuperstructureDeckEdge.obj",
+      "hash": "178cfe47124271ff6ae7ea7b34743ccf9cf07867ba3d7432efacb684e1bb5f58"
+    },
+    {
+      "path": "meshes/Fargo_DeckhouseForeSuperstructureDetailsBlack.obj",
+      "hash": "a2591ebb21df9bd38a176cb67f7b021f9ecb77ca6f917905799cf180269678ba"
+    },
+    {
+      "path": "meshes/Fargo_DeckhouseForeSuperstructureDetailsGrey.obj",
+      "hash": "1b044d410fab1eb848bf8c5f605514c7607d7f23f649dc9892ed42455ddd7467"
+    }
+  ]
+}
