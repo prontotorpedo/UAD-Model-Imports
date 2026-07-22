@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "south_carolina_gun_305_x2.json",
+    "hash": "54c18d26580848e3c99bc3b08d9e42fd901b6f27dbe35702eaeacfdc3cf273c4"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/305_TwinTurretRing.obj",
+      "hash": "f565eabdc217af749ca2656867e1c3dfefcb2856634de39df33125108b091a3e"
+    },
+    {
+      "path": "meshes/305_TwinTurretInterior.obj",
+      "hash": "8f95bf29d37aa6561e7de3fd9666e56c25444b4ad24eada0d18ffeba76c0ca1a"
+    },
+    {
+      "path": "meshes/305_TwinTurretBottom.obj",
+      "hash": "743f9f5334091a8fe30309ad4a95fe653b50e6a8d10dd6da8a8a3f632d0c9723"
+    },
+    {
+      "path": "meshes/South_Carolina_gun_305_Barrel_x2.obj",
+      "hash": "e286fc7fb04ac363e0598aa5d8bd67b690667d59309f5c5788abcdf6d978d91f"
+    },
+    {
+      "path": "meshes/305_TwinTurretBody.obj",
+      "hash": "9f672d3f76ad43b1797463ca902740d8027f640a86f29c71b94efda389648167"
+    },
+    {
+      "path": "meshes/305_TwinTurretRoof.obj",
+      "hash": "4cfeae7b2ebb141d583970e90010d2573ec76aaf8afdc931bf6720c7dfbc7a0e"
+    }
+  ]
+}

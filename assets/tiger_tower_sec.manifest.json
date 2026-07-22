@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "tiger_tower_sec.json",
+    "hash": "dcd152394676ba6e71beb0bda4f7c899283ed9f8f009921bc58ccf0dd33ea991"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_0.obj",
+      "hash": "911e52a4e814f614be5dfe00bb68aeecd99eeb0c5aa590dad5280b242b09aa62"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_2.obj",
+      "hash": "db245fec3a1a41b91fdf73a966aab6d7220682d5e04723ef4b0dc29c6cf26f47"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_5.obj",
+      "hash": "4fb31aabb26f3c509ba4c449f5f9812f5c4407942adc8872462bc94d1ab45b1c"
+    }
+  ]
+}

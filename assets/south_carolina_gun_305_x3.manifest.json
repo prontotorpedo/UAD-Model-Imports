@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "south_carolina_gun_305_x3.json",
+    "hash": "33de1e5941660f4c7e147199570388668e37dd9044e5081d3a03c57ac4212e43"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/South_Carolina_gun_305_barrel_x3.obj",
+      "hash": "53444f5032fe2d2f868cf5cb23f5f7b92aa5ff4531e28f8c4a67aa6437b61381"
+    },
+    {
+      "path": "meshes/TripleTurretBody.obj",
+      "hash": "85c473971cd888a1a6260cb79c485a936b91f2674402ea3ee620613a8ce65364"
+    },
+    {
+      "path": "meshes/TripleTurretRing.obj",
+      "hash": "f1d1ba97c7fe036c2ffa4d3b0f7054cfce592188bdf3faab756038b20592a1ae"
+    },
+    {
+      "path": "meshes/TripleTurretRoof.obj",
+      "hash": "b2cd77cace6989c918151b9966b1979de729de0caa1ffbe67e75909e5827e5c1"
+    },
+    {
+      "path": "meshes/TripleGunBottom.obj",
+      "hash": "f60ab34e0f7b772cf1b4515e7a0f1362e4a0120c7aea0454d38a6ec8b83c15a4"
+    },
+    {
+      "path": "meshes/TripleTurretInside.obj",
+      "hash": "8324a16bffbfae8227e6b2386c52337042974642458e283266fb488a050b92a1"
+    }
+  ]
+}

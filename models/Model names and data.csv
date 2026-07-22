@@ -14,6 +14,7 @@ montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montan
 scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships
 schill_tower_main_a,tower_main,"Based on the front tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
 schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette"
+tiger_tower_main,tower_main,Based on the front tower of the battlecruiser HMS Tiger
 tribal_tower_main,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching"
 tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to resemble the main towers of some V&W class destroyers
 vanguard_tower_main,tower_main,Resembles the main tower of HMS Vanguard
@@ -24,9 +25,11 @@ alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace c
 fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the Clevland class Light Cruisers
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
-scharn_tower_sec,tower_main,Resembles the rear tower of the Scharnhorst class Battleships
-schill_tower_sec_a,tower_main,"Based on the rear tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
-schill_tower_sec_b,tower_main,"Same as schill_tower_sec_a, but with an enlarged barbette"
+queen_mary_tower_sec,tower_sec,Resembles the rear towers of the Lion and Queen Mary class Battlecruisers
+scharn_tower_sec,tower_sec,Resembles the rear tower of the Scharnhorst class Battleships
+schill_tower_sec_a,tower_sec,"Based on the rear tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
+schill_tower_sec_b,tower_sec,"Same as schill_tower_sec_a, but with an enlarged barbette"
+tiger_tower_sec,tower_sec,Based on the rear tower of the battlecruiser HMS Tiger
 tribal_tower_sec,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s
 vanguard_tower_sec,tower_sec,Resembles the rear tower of HMS Vanguard
 vanguard_tower_sec_b,tower_sec,A version of vanguard_tower_sec without the side barbettes
@@ -76,6 +79,8 @@ qe_gun_114_x3,gun,"Triple turret version of the 4.5"" ""pancake"" turrets found 
 qe_gun_114b_x3,gun,The qe_gun_114_x3 without the ring around the base of the turret
 renown_gun_380_x2,gun,A version of hood_gun_380b_x2 with a shorter rangefinder. Resembles various British battleship guns
 renown_gun_380_x3,gun,Triple turret version of renown_gun_380_x2
+south_carolina_gun_305_x2,gun,Based on the main guns of the South Carolina class Battleships
+south_carolina_gun_305_x3,gun,Triple turret version of the main guns of the South Carolina class Battleships
 teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnoughts"
 teg_gun_305_x3,gun,"Resembles the triple 12"" guns used on the Tegetthoff class Dreadnoughts"
 tribal_gun_100b_x2,gun,"Generic twin gun for DDs and CLs. Loosely based on the 4.7"" guns of the Tribal class Destroyers"
