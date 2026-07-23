@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "south_carolina_gun_305_x3.json",
-    "hash": "33de1e5941660f4c7e147199570388668e37dd9044e5081d3a03c57ac4212e43"
+    "hash": "53d6c61c997c13c6df20c9b8433d82417302cbb2105038f99ecfd5a154339d7d"
   },
   "dependencies": [
     {
       "path": "meshes/South_Carolina_gun_305_barrel_x3.obj",
-      "hash": "53444f5032fe2d2f868cf5cb23f5f7b92aa5ff4531e28f8c4a67aa6437b61381"
+      "hash": "5934bf2c16e582db17662de1924d2d91cac4328958b0cf5742232c21a62ebbc5"
     },
     {
       "path": "meshes/TripleTurretBody.obj",

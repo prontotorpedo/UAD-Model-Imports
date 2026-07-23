@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "bertin_gun_152_x2.json",
+    "hash": "d7fa704fb3f30ccc1ec285eba3bac7063893168480305be4ed20549e4c382d11"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Rish_gun_152_barrel_001_2.obj",
+      "hash": "5f7e175e7a7943316c73dbbeded950b0da9229d528371a23fb7067fe4d09467f"
+    },
+    {
+      "path": "meshes/Rish_gun_152_x2_001_0.obj",
+      "hash": "86be630e7e88e0c486e262dd1829725ead2a4834272d9317cc6d9d089fa7e872"
+    },
+    {
+      "path": "meshes/Rish_gun_152_x2_001_1.obj",
+      "hash": "243f778613905d06b1b56a7cf8656eb154359bf42eb40e68a866d4644de67ced"
+    },
+    {
+      "path": "meshes/Rish_gun_152_x2_001_2.obj",
+      "hash": "2892a1589d46f315c366dc61540359dcfa697f136ecf3ce0328c6c90de0a9ce9"
+    },
+    {
+      "path": "meshes/Rish_gun_152_x2_001_3.obj",
+      "hash": "f3b8e6cdb486f3ad4c63edeade7821984aa65dd3a86fe12f7af088a074b319ec"
+    }
+  ]
+}
