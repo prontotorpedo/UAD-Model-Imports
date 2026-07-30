@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "nelson_barbette_a_tall.json",
+    "hash": "14fa46ff032161d63af33281a2b23aac3b279892e5a74907a6f3aa3301fda995"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Nel_Barbette_gun_406A_001_0.obj",
+      "hash": "c1bb955fe826d3c9bfa0465c4f3c0b40ebb56151c033e7a80500db2393017cff"
+    },
+    {
+      "path": "meshes/Nel_Barbette_gun_406A_001_1.obj",
+      "hash": "40dbafaf6336731cd837fad5bb52aab869f3810ede3d9aa0a941ede9717118b0"
+    },
+    {
+      "path": "meshes/Nel_Barbette_gun_406A_001_2.obj",
+      "hash": "1b86ab32d5a88e1b0557a1ad7f5060fe60b0c10418f8545a179582e107335a7f"
+    },
+    {
+      "path": "meshes/Nel_Barbette_gun_406A_001_3.obj",
+      "hash": "fc61a9c0b25e1ab73b01aa0be4c662755b30ef14de390d71dafd3b1fd7b282b2"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "banana.json",
+    "hash": "b20002268ea36757e6ae105abaeb0782967a8de7744c28951d8e5567ecd7d314"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Torus.obj",
+      "hash": "a7e8728ca7919c216e067ad97ca7cf59c3ab44e377c000f0e617965283568882"
+    }
+  ]
+}

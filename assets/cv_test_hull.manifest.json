@@ -1,0 +1,84 @@
+{
+  "main_file": {
+    "path": "cv_test_hull.json",
+    "hash": "1a5fa0433047a54719e134902584e15d75787483d268706ddd139b4b1889964c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_B_003_0.obj",
+      "hash": "011bbc1255df4dafbb811679f8804fa01aa6e1db850912bc6951f3d27d329501"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_B_003_1.obj",
+      "hash": "d72b52edc5ba8b57af859dfa70be5f7ec5c3141662b670f7e7b4f6a323c57188"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_B_003_2.obj",
+      "hash": "fa8a626b1269201f03d33f7b4c59769369fd0707e78f0d0773db6474ae7a5554"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_B_003_3.obj",
+      "hash": "1778cdf8c16f41b602758f34cc57aa7531b497bfdbcd35651d55537ed5fed56b"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_B_003_4.obj",
+      "hash": "0ba7b2332f4b2c5151a2790c647cace989d64ecd842766c0e30d32321ca3adb6"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_B_003_5.obj",
+      "hash": "f2f47b462be20beb1385851cfefd50e9c5c148488402d371a3aedffb8bb2d525"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001_0.obj",
+      "hash": "6f5af344ac150fa8899e57d4a693e44588217ec1ff92573bd669e69a4d19fba9"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001_1.obj",
+      "hash": "c1e0bf970821bc7aad09eaad8feaa7d714aaf3ca8a8f8c2ea2d60a5e74db1a49"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001_2.obj",
+      "hash": "286bd61c389ef993d9aa2031327333a0c1f4ea3f04c05a55e3fda4b2c08f0211"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001_3.obj",
+      "hash": "a0371641f911fc9d384d12b20056489af4bc39bd7bf943341e73ddcccd336f82"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001_4.obj",
+      "hash": "0c02c618c08974a4f091fe1d30b3843d44e88db69ebe4f5247730d529ae4431e"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001_5.obj",
+      "hash": "c76306f33fe5e9d0efcdaf27e417e9509cb71a8ce4f6033cd0b47c2c2b2210d1"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_0.obj",
+      "hash": "c5653fca79ddd6738ac7e5ee93a768029144e81683036c2dd56ffafb8c7b6cfb"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_2.obj",
+      "hash": "ffb675e7e250090ad95f4963d58ac21b8761b34d54fe3742ac5b1d518490cd44"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_3.obj",
+      "hash": "601954065672c33d1d3b1681359d6600a305d208ab0ba9e25eafc69d7b2c51ce"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_4.obj",
+      "hash": "647f75a4927aa508bc3c86c0eb118eb20d8bf963ca776be2d767001e3087bcf8"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_5.obj",
+      "hash": "c850c3413212dde3d1ad890c91b28b2374ea172e326a2e1a73ff8d5016d376d2"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_6.obj",
+      "hash": "1212207e8c66510ecefc478f6481c0045876b34239416979ff05228f84d2d104"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC2_001_7.obj",
+      "hash": "b07417416eef2cb84ffdc78c90828659d18dfc9c0e2f1bdb78bc95682e81547b"
+    }
+  ]
+}

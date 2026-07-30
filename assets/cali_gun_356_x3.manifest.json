@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "cali_gun_356_x3.json",
+    "hash": "89d6c91e12a182ea252eedd5b8125ce602384a01ee2639dd55cf3c7447904d8d"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Nel_gun_cal406_x3_001_0.obj",
+      "hash": "233272981e9c9644d177cd6b974149065dd2928c82f46df01b287181c30bd59d"
+    },
+    {
+      "path": "meshes/NY_gun_cal254C_barrel_001_2.obj",
+      "hash": "4b53f6b420847b0eab8203b3d450b563bac248a005045d018bed32753e3c6570"
+    },
+    {
+      "path": "meshes/Nel_gun_cal406_x3_001_1.obj",
+      "hash": "9582850102742fbe8027aa6ec84d8d2639c7e61b2b48710eb0f6bde9b755289c"
+    },
+    {
+      "path": "meshes/Nel_gun_cal406_x3_001_2.obj",
+      "hash": "b8749adfd37d644f1d9b9701433ec8425cd7e55ecf778624523b6d6ceb06d124"
+    },
+    {
+      "path": "meshes/Nel_gun_cal406_x3_001_3.obj",
+      "hash": "1d04bd028de4e155838dd7034d9f37c95e98d4db29ed98d88a787c2281dfca6c"
+    }
+  ]
+}

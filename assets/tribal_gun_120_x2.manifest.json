@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "tribal_gun_120_x2.json",
-    "hash": "608be936c59fd4f309d12f58ef1ea9a3617e2d28e2b9e5f15d1279ef17940809"
+    "hash": "c42ee9f5385426cb022565d3c4beec9020ae04d3eefcf59e70b1096b42d9dbb2"
   },
   "dependencies": [
     {
       "path": "meshes/Tribal_gun_110_barrel_x2.obj",
-      "hash": "045cfafba7658d430f451f798065f27ea60f501f97f0f653fe8b874580ec9126"
+      "hash": "7afa6c1108da6023b1bebd614f887b77beda99dc16469e8e8696c6ecdaa4f4db"
     },
     {
       "path": "meshes/Tribal_gun_110_x2.obj",

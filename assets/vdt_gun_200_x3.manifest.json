@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "vdt_gun_200_x3.json",
+    "hash": "97114339f07d8835b606bd99a60a38250dae09b1815fbcc2662f65c0f8b1f24e"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/VDT_gun_cal200_A_barrel_001.obj",
+      "hash": "67729cedb4436f8ace356d0795f87973e2ab3375e0faa9a8da830d7e621249da"
+    },
+    {
+      "path": "meshes/VDT_gun_cal200_A_x1_001.obj",
+      "hash": "fb2a25b9c81b9d3860c175879d375df78455d0c16ae2fc366810c1e13c4da3b4"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "main_file": {
+    "path": "dd_hull_thin_a.json",
+    "hash": "0625714116947196a043f2eb76bc2ebd57072c2c174688e3df1e4e677031d374"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_0.obj",
+      "hash": "ea940a827a9883495f3667b45290c7b1bfb7a860b77c94c64e59ab2be06c97d2"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_1.obj",
+      "hash": "633b5e89e358c0abcf650e43fef825fcb9bdc9a6c942639175acb1b81cb80a0e"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_2.obj",
+      "hash": "d0fe0dec30563bd119c4b48206cbab4870102f42c4ff4e48bcb9a0e8b791ec08"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_3.obj",
+      "hash": "44a2c7f3a2f7533eca8b799ffc1b256a3e0c00cd4d005565fdfced185c2b6a5b"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_4.obj",
+      "hash": "a1d389cc395345e174338eb2ba166e7b49db3f2eca583208af7cfabb69f74fc1"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_5.obj",
+      "hash": "296a8a9e870c990268a95e3329dc8c46afef8bb49e742dbb1efd0dbe5d7f5af9"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_6.obj",
+      "hash": "50d0334de307e99b6a40b3d25c6bd9ffd9c8d82281e820a4003c2e4f46227219"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Aki_D_001_7.obj",
+      "hash": "17c39f34f2eb44ebe9bc2e9f6509aef028c032010c16c02010c23ecc0767307e"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_0.obj",
+      "hash": "9d7687adff390026890fa3b5a6a6689f16fbcccd894479c18a928399c1184bb0"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_1.obj",
+      "hash": "ab876878cff5cd803b7c5e2f53d4e8e2e6c1d8f62f163e44b2d46b0b6a1dbf50"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_2.obj",
+      "hash": "b8c0ce68dd6cc6ce5d70d939baaba7d5dbdf939bd72159338fafc7056f5e64af"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_3.obj",
+      "hash": "a5dc865dc2858e1abc1d1b60a17817ffb57b7a8cc4ee99be30e89460b02d2505"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_4.obj",
+      "hash": "199d7a474d6aa277638ccfe27e79182f03164e1bae31403e1c6150c1ccc771bf"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_5.obj",
+      "hash": "40fad7e21430b4519bab96f148a83df7bc8964ea8206faa84bcc898c1985c019"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_6.obj",
+      "hash": "42a9d1bb23d3c28b6295149c02d649d400d9bcc1d9a5a4435e6e6441098aeda0"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_7.obj",
+      "hash": "4c3089c441ddffaac357e297e2cbd04da1215d08637b7ee295d5cfeebe0a0453"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_8.obj",
+      "hash": "cefe9e0fc795fb62e00045e67b987ada9fa6633c9f6b6d0d00e9fccc028a0b7c"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_0.obj",
+      "hash": "b2fac8cbb0c6db600a8db4e9da7c2e281809bd7b295beb3deadb1eeb4ad7c9af"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_1.obj",
+      "hash": "79de73d64d45cf6f39247263fd6666da77956edbafe65b3058d7d245c0312f2d"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_2.obj",
+      "hash": "b1193270f8c3ae8ffbc8fb94d3fc3b42827a12ea0cc222030bd4409e192149de"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_3.obj",
+      "hash": "195503ce1902c1643909701435e9999c92f2497a2b0c5a755ad9a35960dc9f25"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_4.obj",
+      "hash": "bb710e4cbeffb15475f21f996cd177164234d491659edbef0595e914c3a6c750"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_5.obj",
+      "hash": "fc92a78a327fd7ab68d330e7f125d0fce7dcdc147a137581a0984df371478361"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2A_028_6.obj",
+      "hash": "70471a989b77a9ce0b6c88c0a971e4d62a95e3fcc791a4f3713ed7dcf4903441"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_0.obj",
+      "hash": "d13e1e73969fe2f132862134953180b3c4174c7d3b6d1372d6069a6c7436c84e"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_1.obj",
+      "hash": "0fdabe94ad2f7de81c874b63b9287a689bffe160d4d3f71619a895f899a4bb15"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_2.obj",
+      "hash": "2cb9da7b4acab96731019646dbae7aa1b804fb41100aba165e254679ce01f35b"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_3.obj",
+      "hash": "85da4f32d7026566ebc9f1c09e5a59b559de668a8969130b69ee1c6550b0bf21"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_4.obj",
+      "hash": "aba8dbe696e57ee4ba07fae2b264632ff5cfddca45b57313c44d3d5c30f7ccdd"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_5.obj",
+      "hash": "7c56663f7622a9ab949a70e2383b5723acd0fb04bcf32bd6c06199212dc9480e"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_6.obj",
+      "hash": "f01a2775ecdaee98bf6a6612990d4b477ea46a5d855fc9faec7c66e961670648"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Aki_A_006_7.obj",
+      "hash": "e0069847d5d10344f3792c79ae74bdf3a6c32f61b250faef9df06d7db4f178db"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "moga_torpedo_l_x4.json",
+    "hash": "32638c9b0153b48d1e718239a7ff8275e3e4740731cb959db3751ae3f15617d0"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/moga_Torpedo_4Tube_A1_001_0.obj",
+      "hash": "5a7f9430cc9c78b2c70b666b1059c67072fed3b3898ece2fcfe6a678512f95cc"
+    },
+    {
+      "path": "meshes/moga_Torpedo_4Tube_A1_001_1.obj",
+      "hash": "875dee0a641316ada84ee30faeb7d3eedcd859ee3190a9df2ea26b56f6fd8421"
+    },
+    {
+      "path": "meshes/moga_Torpedo_4Tube_A1_001_2.obj",
+      "hash": "37ea16a9fe0a86072cad06fbb857b971a28a354ae48ab840d9a82b5a4e8566e3"
+    },
+    {
+      "path": "meshes/moga_Torpedo_4Tube_A1_001_3.obj",
+      "hash": "9b3607125eb7fc4ddf7ce3944ede334ce3000ce1f36d12e2ec3301244fff2915"
+    },
+    {
+      "path": "meshes/moga_Torpedo_4Tube_A1_001_4.obj",
+      "hash": "257ecaf01415551fef09b518c690b9f269125f62af4ab4e63e9fec84034c3d2e"
+    }
+  ]
+}

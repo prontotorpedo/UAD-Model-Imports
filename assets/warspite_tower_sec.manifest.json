@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "warspite_tower_sec.json",
+    "hash": "271f800f86e7a59a532b7bdb7d7e753065d545c1429286f03270389d572b7d1a"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/KiGe_Deckhouse_Lifeboat_P.obj",
+      "hash": "b40b5f6b195f3e5f0a24c06576f52b7fb3b9818847adda1c3e2e8b8403b34b1e"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_Lifeboat_S.obj",
+      "hash": "c588dfc7378a79869ab0422552676a39405e15b8458d9fa74932258cb1015e2e"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_D2_001_0.obj",
+      "hash": "f074328d85b483ffdb26cc3f19cd07bbac652cef3b379e2ebc7e9014d79a1764"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_D2_001_1.obj",
+      "hash": "3ba7154eac7be67c7244433bf8724461c82cd9b8255c83a1d842b4ec0ed80a7f"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_D2_001_3.obj",
+      "hash": "710b6404db26e7b05b34d0c8ca9393b359c9846f653d7d7c87fe812856ce3e0c"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_D2_001_4.obj",
+      "hash": "83a53459228f560f5a302d6ab12b1f2d358ca299e0f30e92e27d23b25aecaf03"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_D2_001_6.obj",
+      "hash": "3b78912005b0edfac0e24a0887e4ba6a12053347fdff2e4c39f8846d1623fd90"
+    }
+  ]
+}
