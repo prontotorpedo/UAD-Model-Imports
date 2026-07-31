@@ -52,6 +52,7 @@ vanguard_tower_sec_b,tower_sec,A version of vanguard_tower_sec without the side 
 warspite_tower_sec,tower_sec,Based on the rear tower of HMS Warspite
 ##,,
 alsace_hull_a,hull,A version of richelieu_hull_a with a longer stern deck. Meant to resemble a design concept for the Alsace class Battleships
+alsace_hull_b,hull,A version of alsace_hull_a with extra cutouts in the raised deck
 austria_bc_hull,hull,Based off of a design concept for an Austrian Battlecruiser in the mid-late 1910s
 braunschweig_hull_a,hull,Based on the hull of the Braunschweig class Battleships
 braunschweig_hull_b,hull,Swaps the fore and aft casemates of braunschweig_hull_a for torpedo launchers
@@ -122,5 +123,7 @@ vanguard_gun_380b_x2,gun,"A 15"" Vanguard gun with a mounting platform for AA gu
 vdt_gun_200_x3,gun,A triple turret version of vdt_gun_200
 vdt_gun_cal150_x2,gun,A model of a twin casemate gun
 vw_gun_120_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
+vw_gun_120b_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era Argentine Destroyers built in Britain"
+vw_gun_120c_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era British Destroyers"
 ##,,
 banana,special,A banana for scale (note: banana is not to scale with a normal banana)

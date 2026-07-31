@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "vw_gun_120c_x1.json",
+    "hash": "22287abb430d7ebec3c0fb38ef5d93ab2edfd34931560d855e9a52809f3efcff"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood_gun_140_x1_001_0_Hood_gun_140_x1_001_0.obj",
+      "hash": "23c6c9974813d6dae75a014e4402c156c6079884c4fbacd515e829eca29c18f1"
+    },
+    {
+      "path": "meshes/Hood_gun_140_x1_001_1_Hood_gun_140_x1_001_1.obj",
+      "hash": "a460788d0fbbba556ec8d9a6824149f1dbc9efe7248ac194145cf9017cf00955"
+    },
+    {
+      "path": "meshes/Tribal_gun_110_barrel_x2.obj",
+      "hash": "473d27a51c21ae16933f297150f89ab4e4534fcbb4f772a3554660631d3b1e3d"
+    },
+    {
+      "path": "meshes/Hood_gun_140_x1_001_2_Hood_gun_140_x1_001_2.obj",
+      "hash": "d29742a83b42876c828cfbe94d1a778f0be32025840109c20b13f8568dd37269"
+    },
+    {
+      "path": "meshes/Hood_gun_140_x1_001_3_Hood_gun_140_x1_001_3.obj",
+      "hash": "611ec4f4be650aa759b6301cb4d59beb1e051e649c35d183a45951010164aa9a"
+    },
+    {
+      "path": "meshes/Hood_gun_140_x1_001_4_Hood_gun_140_x1_001_4.obj",
+      "hash": "238c6736dbdaa4405310653e2d2261aeac1811b5643d8a791433d73f0f85dfc5"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "d60441eb400e92053dcb4128856550ba2ae0c4e21859035eb27af42b8a7db0b7"
+    }
+  ]
+}
