@@ -1,0 +1,44 @@
+{
+  "main_file": {
+    "path": "queen_mary_tower_main.json",
+    "hash": "60cead17dcec02a9dc4c0019914777ec22a05f12c26b9d03dab968e910b45863"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_0.obj",
+      "hash": "0ff04c5cd554aa56ff267cbff29885ba3d4fe246c854b62128a5bd7e504138c8"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_1.obj",
+      "hash": "4b3f2ef80d69ba84a14440d09e0e31e4cda4f6307ae9bc32c0d557dbc5815b21"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_2.obj",
+      "hash": "d56112513b545e6bbe97a308f89de28ef868d4a9039737a2144ff0f5206d4767"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_5.obj",
+      "hash": "aa08a6e3e8e7a696f058b76729e6c419eb8fb0daa76780b4dede909fb648cc1c"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_6.obj",
+      "hash": "1837348847ec047404389716bcaadbe0a4fd1b710034f13b832cdd97720e7544"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_7.obj",
+      "hash": "ba5a6303eb1320a883f4e8f1cc9b502a7a6205c3a5ec2c93ce2a67bbe07b1526"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_8.obj",
+      "hash": "18de292a282cf6b95f727010937a277e61a987e69a985fcbf2aba56031446420"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_4.obj",
+      "hash": "14cf4a49e9b95e599e0898f9960a841f5669b3b830b36570acc21fcf3d5e3596"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "06f5fa82b4f9357ca808733e78713db3f3aad6de60d724072d60f64824a0390f"
+    }
+  ]
+}

@@ -25,6 +25,7 @@ cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
+queen_mary_tower_main,tower_main,Resembles the front towers of the Lion and Queen Mary class Battlecruisers
 scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships
 schill_tower_main_a,tower_main,"Based on the front tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
 schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette"
@@ -101,6 +102,8 @@ mont_gun_152b_x4,gun,A slightly thicker version of mont_gun_152_x4 with lifeboat
 nelson_gun_b_152_x2,gun,A version of nelson_gun_152_x3 without the lifeboats on top
 nelson_gun_152b_x3,gun,A version of nelson_gun_152_x2 without the lifeboats on top
 pompom_gun_a_x4,gun,Generic quadruple anit-aircraft gun. Takes inspirations from pompoms and atlanta_gun_28
+pompom_gun_b_x1,gun,"Resembles a single barreled 40mm ""Pompom"" AA gun"
+pompom_gun_b_x4,gun,"Resembles a quadruple barreled 40mm ""Pompom"" AA gun"
 qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
 qe_gun_114b_x2,gun,The qe_gun_114_x2 without the ring around the base of the turret
 qe_gun_114_x3,gun,"Triple turret version of the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"

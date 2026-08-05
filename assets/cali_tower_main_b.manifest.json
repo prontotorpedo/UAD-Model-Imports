@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "cali_tower_main_b.json",
-    "hash": "2ef11410abb54e8b321a921151f9d23e205f582a21d51216052b74bd8bc061e7"
+    "hash": "a51fa1542f99ab97f6ee5b11a1c6467ed55bb9b441d362f32f2c5715bf35133b"
   },
   "dependencies": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_1.obj",
-      "hash": "b352d2307c42e674b44a0a281ccc532e0d7b38354bea527949f748ee235455b1"
+      "hash": "0d3f4ec1937c3387fb3ccd14e621d6cb6c90d5169c5fcd830e641288d33923bd"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_2.obj",
