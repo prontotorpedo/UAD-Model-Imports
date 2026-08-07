@@ -68,6 +68,7 @@ iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoug
 hull_393_a,hull,"Based on Design 393, a plan for a hybrid cruiser carrier based on the Brooklyn class Cruiser"
 hull_393_b,hull,Design 393 with a symmetrical stepped deck
 hull_393_c,hull,Design 393 with an asymmetrical stepped deck
+neptune_hull,hull,Based on the hull of HMS Neptune
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
 vanguard_hull,hull,Resembles the hull shape of HMS Vanguard
 ##,,
