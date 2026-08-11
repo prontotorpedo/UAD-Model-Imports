@@ -1,20 +1,24 @@
 {
   "main_file": {
     "path": "renown_gun_380_x2.json",
-    "hash": "ed4ef99fe3f1e977af4ed373fd2bfdcae18f3558705c2c619f76700aa69a2287"
+    "hash": "56a71888b5ea1fb7b015893a73a00b1e3ccaa52bc4378b3dc91611aefe432c03"
   },
   "dependencies": [
     {
       "path": "meshes/Hood_gun_380_barrel_001_0.obj",
-      "hash": "74377104c3cccdaff9f1f9d5877e6f95034ceb49c962b9bc6c2f94c0cd970ce7"
+      "hash": "2ee1efcc8f833200e48ecd0e1a75d6cfa12cdb85410d5187fb3c38732a85e4f7"
     },
     {
       "path": "meshes/Hood_gun_380_x2_002.obj",
-      "hash": "9d137e2f8bdd1df87546440a5cceac8e90dbba710ed231d42b2bd80403cae79e"
+      "hash": "f0a733d3fba67e68d298122b06753e540ab8a1a9565748e1629fc1aa04a02666"
     },
     {
       "path": "meshes/agm_gun_305_x2_001.obj",
-      "hash": "d4b36c7f32fa9fde0bb30328afe7c86a8be08cff2176b3d7e975efac0b5a3cf4"
+      "hash": "d09b1a2ba4361ba1ecdcd588c240b8e18682933b7d31bfc0a5bfea8bfb4b1256"
+    },
+    {
+      "path": "meshes/Renown_gun_380_base.obj",
+      "hash": "0c07d8f4f5cb6c78e94b6b0447a6667d64521fa1b2befb4bc364d5fbd2cf7fd5"
     }
   ]
 }

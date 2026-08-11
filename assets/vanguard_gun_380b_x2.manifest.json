@@ -1,20 +1,20 @@
 {
   "main_file": {
     "path": "vanguard_gun_380b_x2.json",
-    "hash": "ae955951f58aafb78dec8226b5ee2353936f28231673120549170be8761b1f9e"
+    "hash": "13966f3dc21ce472c25c58e8da5e6a05602a17ae5a2b969e24dd9ff0698a0910"
   },
   "dependencies": [
     {
       "path": "meshes/Hood_gun_380_barrel_001_0.obj",
-      "hash": "d9b214bf61a5be73cf5b27d628052c3c6d29db8e4561a269bd9bd7f91428b177"
+      "hash": "a4b01927046b3d878918fa5a5208a736ae05b18ee55d2e52e96a1079eab509f4"
     },
     {
       "path": "meshes/Hood_gun_380_x2_002.obj",
-      "hash": "b7b343248a7c92defbbd9e76a5f7e2754d5e42ad3fb45f863f4f7aa03b38b736"
+      "hash": "3e7c06a0cffeda8a43bdf4bf598a79241eb87e0f22e3d683ce1f765ef130cc55"
     },
     {
       "path": "meshes/Dr_Barbette_Aki_B1_001_0.obj",
-      "hash": "75c10138e155c6d52373be5fba0a2a2fa666f8807dd549f4d063074551c26673"
+      "hash": "73434e4a3ce0c663f5cdebbd46d5100ee801a6760e0c4951decc5505eed02b13"
     }
   ]
 }

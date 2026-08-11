@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "dunkerque_tower_sec.json",
+    "hash": "78122f35362d1a52f0c0e66f68e7124be33d26bd17aed2eba1e653d4d4a22c41"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Rish_Deckhouse_A2_001_0.obj",
+      "hash": "a04e90a3b2554f61da3ed8ccc669507567d4e8c81e0e05b367f97a7f3c57f7ef"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A2_001_1.obj",
+      "hash": "a23360e4fce7a40e78786897dc49f24e7ed7ebb4d9d3896c09533bb503cf9918"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A2_001_2.obj",
+      "hash": "64d7d895acd2cce5edd8b37e0fec27f85f1689f4fa439588ee90e62bd6b8915f"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A2_001_3.obj",
+      "hash": "61114e9d5eef87e30d6001916f7c2fd91343867ff5dfa05a5166e2da8abe8027"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A2_001_4.obj",
+      "hash": "744a1792f5fce5746a95cf3578c62f8a41ecbe09706945180391308a87f6b3bc"
+    },
+    {
+      "path": "meshes/Lyon_sec_tower_a.obj",
+      "hash": "87c2cdf0b551b77e0eb3c4a39025f82d4678bc08721c7faa6c1640093a2754d0"
+    },
+    {
+      "path": "meshes/Lifeboat_S.obj",
+      "hash": "6e4a7d8758b8ba5509bfda7a83f3533ff22c6e1a8d36f0c80165a5d3aea57599"
+    },
+    {
+      "path": "meshes/Lifeboat_P.obj",
+      "hash": "b6810cee95d4925f19dfbfb33d3df336a7164ca68d6af1179afd5f9d9647f2bd"
+    }
+  ]
+}

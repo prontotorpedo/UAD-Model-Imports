@@ -1,20 +1,20 @@
 {
   "main_file": {
     "path": "vanguard_gun_380_x2.json",
-    "hash": "4f0f256c0a47da5a23cb97a766f43ab0eed97492bcab5ee85b293db1e96abe88"
+    "hash": "627cdb773350673d8053303c755bb310c2249b2381e507ceb86d3bf7b1bf5799"
   },
   "dependencies": [
     {
       "path": "meshes/Hood_gun_380_barrel_001_0.obj",
-      "hash": "d9b214bf61a5be73cf5b27d628052c3c6d29db8e4561a269bd9bd7f91428b177"
+      "hash": "a4b01927046b3d878918fa5a5208a736ae05b18ee55d2e52e96a1079eab509f4"
     },
     {
       "path": "meshes/Hood_gun_380_x2_002.obj",
-      "hash": "b7b343248a7c92defbbd9e76a5f7e2754d5e42ad3fb45f863f4f7aa03b38b736"
+      "hash": "3e7c06a0cffeda8a43bdf4bf598a79241eb87e0f22e3d683ce1f765ef130cc55"
     },
     {
       "path": "meshes/Hood_Deckhouse_A1_001.obj",
-      "hash": "a53b7a3f716e6ce40758e3b45eae96575e83f3e0a911aa36625927b7f811bf55"
+      "hash": "a665d8827934a5ecddecb5b512660f939f53a3cd5ba90ee37d11d1ef1ee2458d"
     }
   ]
 }

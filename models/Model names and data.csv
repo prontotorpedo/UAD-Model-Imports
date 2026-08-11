@@ -20,6 +20,7 @@ tribal_barbette_main,barbette,Based on the integrated barbette on the front of t
 vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 ##,,
 alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace class Battleship
+belfast_tower_main,tower_main,Based on the front tower of HMS Belfast
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
@@ -39,6 +40,7 @@ warspite_tower_main,tower_main,Made to resemble the main tower of HMS Warspite a
 alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace class Battleship
 cali_tower_sec,tower_sec,A version of arizona_tower_sec_b with a cage mast
 cali_tower_sec_b,tower_sec,A version of cali_tower_sec with a deck for a funnel mount
+dunkerque_tower_sec,tower_sec,Based on the rear tower of the French Dunkerque class Battleships/Battlecruisers
 fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the Clevland class Light Cruisers
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
@@ -93,6 +95,8 @@ courbet_gun_305b_x2,gun,"A less tall version of dant_gun_245_x4, made to fit two
 daring_gun_114_x1,gun,A hypothetical single turret version of the Daring class turret
 daring_gun_114_x2,gun,"Based on the 4.5"" gun used on the Daring class Destroyers"
 daring_gun_114_x3,gun,A hypothetical triple turret version of the Daring class turret
+dunkerque_gun_130_x1,gun,"A single barreled version of the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
+dunkerque_gun_130_x2,gun,"Based on the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
 hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2
 mackensen_gun_350_x2,gun,"Resembles the main guns used on the Bayern class battleships, as well as the Mackensen class Battlecruisers"
 mackensen_gun_350_x3,gun,A triple turret version of mackensen_gun_350_x2
