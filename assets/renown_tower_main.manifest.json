@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "renown_tower_main.json",
+    "hash": "e22c6ac5d7acb33e79c05b21d547b76a25e2d9cf119543e645a85dfcd03874a7"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_0.obj",
+      "hash": "896a8d8f2bbafa257c92b3eeb9b3c6e3af76c256ef92d90cf8a02a4f0b310804"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_2.obj",
+      "hash": "9c5579450c3daa1e1775df02330a5f05c9a227fb9281f1ffb5eb52b6ba4cf83b"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_3.obj",
+      "hash": "53d0540776fa45a152f84408c59a6febeee80b30a09f5da5647100cc0d7fe20a"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_7.obj",
+      "hash": "f5e026155ed447fb8a9ab2a62c01f2a1fd29c8137b19611d5139794e052467a8"
+    },
+    {
+      "path": "meshes/KiGe_Deckhouse_С1_001_7.obj",
+      "hash": "d2a03d70399aa7fb6c49337fb4023a20ad84d049298d22d7be12329fe5c870a4"
+    }
+  ]
+}

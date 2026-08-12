@@ -1,0 +1,112 @@
+{
+  "main_file": {
+    "path": "renown_hull.json",
+    "hash": "1d6b0ccb0d36d449e2dfbcdfc700886eaa5a058817ebb9a4422301ddadc08ed7"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_0.obj",
+      "hash": "b7819b84f95c31bc1236181db3e5cf6a585bc843083dd5b7a85aa99b760ab7ca"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_1.obj",
+      "hash": "dccead57210d943b5c4f2291568cdc32ed7fbed47acccef93e22f52755dd2da7"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_2.obj",
+      "hash": "e221bdc5e0c42bf02f2b4168a6e5950f38bd90cda2266eea61fee3e3df49ad34"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_3.obj",
+      "hash": "51917228ea59c6ab9ad3cd0393e5dafac45f6b8c6d743e62631640e78051434d"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_4.obj",
+      "hash": "abd9f382762a0c05c27f7ac1c9873abad4f82f3906b6a2d6881a432dcfc56785"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_5.obj",
+      "hash": "f988512b023b746a3a53a8ea112d0560af1ae5376b023302095a9cb5a616c9f2"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_6.obj",
+      "hash": "ff8263ec98b5e1675c6ccc244785d793a9398cc8e77f5f31872d978596f86e76"
+    },
+    {
+      "path": "meshes/Hood_Hull_Stern_A_001_7.obj",
+      "hash": "0792eb4eca30fb356201a547ba6db6deeab88d360722115d33d6d9388381ee1d"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_001.obj",
+      "hash": "84fd289a51c48623cf8fbcaa1768d2dbe57f8057b8a603172e1399fd2d5e6817"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(R)_001.obj",
+      "hash": "f8279298b9b9a283c2e8d665d6a2c415de00b74c34e38f7361b27b9db0bc479f"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_0.obj",
+      "hash": "0998f61a474bfd76bba953f06dce6755c668bf6a03b45604bff805332b0e7ae2"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_1.obj",
+      "hash": "26a44417f9bd597add290a8b84d39b5f92db88e79affcc5665d79dc7bc3e00e7"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_2.obj",
+      "hash": "c9589c993dec428998bf342ff02a7143096f7ecdb77fd3f97ef4e00d71c6efd0"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_4.obj",
+      "hash": "caed15a483c787517811076908a5ecada832f3257e663b8e785f541893086d69"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_5.obj",
+      "hash": "684b1668562b2f912b0f7c62f3877bf7bcb812ccb4604d6aa93889eebf300a23"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_6.obj",
+      "hash": "a1d88515c66a6ec0029a6d818a4bf8e1361c38975489d0a72aab6ff759092faf"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_7.obj",
+      "hash": "ed79fd77f3e080d839e74fa8c7e6e8d1548b356e0c613cfa6d31d1ab02577a8f"
+    },
+    {
+      "path": "meshes/Hood_Hull_Rostrum_A_001_3.obj",
+      "hash": "9fbb23f275834e7ffbe172a96088702338b68fe5208a260af2b4858e85afa66b"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_0.obj",
+      "hash": "9b49f12da3ef1c320f410ae97e585d18aa5dd9af5a40e07f57522c677d0e2a90"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_1.obj",
+      "hash": "945d0f65d7b497354365fc42916279de734064895b7979db7b78847cb5ab9e50"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_2.obj",
+      "hash": "c2b71dc335ca5e27dc0576cecd0d4d84a1bf0bf1d2231882ab2c56d4b09d8d0a"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_3.obj",
+      "hash": "667d644ad885891dd82ca04593686bdd1d5ed9e1cc12ec9784c1473075978e8c"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_4.obj",
+      "hash": "6ba7052c9e1ecd9ffac852503a4a2ccce14e3c5de52a5d320c07c800eca1c7fa"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_5.obj",
+      "hash": "fbef384a0992b48905d03eae3b660fdabb6a3bfe92bb9ead953b0c87b7e45e66"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_6.obj",
+      "hash": "41c7630a345d57b0f918379c2f33e7447e12b24a31492d6746d4cd50e5d312d7"
+    },
+    {
+      "path": "meshes/Hood_Hull_Midsection_A4_001_7.obj",
+      "hash": "3c2049204c8866051749a287f30b4bce6cf9aba6e410a613d437a666bc128b07"
+    }
+  ]
+}

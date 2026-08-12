@@ -24,10 +24,13 @@ belfast_tower_main,tower_main,Based on the front tower of HMS Belfast
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
+hood_tower_main_b_barb,tower_main,A version of hood_tower_main_b with an integrated barbette
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
 queen_mary_tower_main,tower_main,Resembles the front towers of the Lion and Queen Mary class Battlecruisers
+renown_tower_main,tower_main,Based on the main tower of HMS Renown after modernization
 scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships
+scharn_tower_main_b,tower_main,"A version of scharn_tower_main with slightly larger cutouts where the single 5.9"" guns were"
 schill_tower_main_a,tower_main,"Based on the front tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
 schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette"
 tiger_tower_main,tower_main,Based on the front tower of the battlecruiser HMS Tiger
@@ -45,7 +48,9 @@ fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the C
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
 queen_mary_tower_sec,tower_sec,Resembles the rear towers of the Lion and Queen Mary class Battlecruisers
+renown_tower_sec,tower_sec,Based on the rear tower of HMS Renown after modernization
 scharn_tower_sec,tower_sec,Resembles the rear tower of the Scharnhorst class Battleships
+scharn_tower_sec_b,tower_sec,A version of scharn_tower_sec with a spot for mounting funnels
 schill_tower_sec_a,tower_sec,"Based on the rear tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
 schill_tower_sec_b,tower_sec,"Same as schill_tower_sec_a, but with an enlarged barbette"
 tiger_tower_sec,tower_sec,Based on the rear tower of the battlecruiser HMS Tiger
@@ -71,6 +76,7 @@ hull_393_a,hull,"Based on Design 393, a plan for a hybrid cruiser carrier based 
 hull_393_b,hull,Design 393 with a symmetrical stepped deck
 hull_393_c,hull,Design 393 with an asymmetrical stepped deck
 neptune_hull,hull,Based on the hull of HMS Neptune
+renown_hull,hull,Based on the hull of HMS Renown
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
 vanguard_hull,hull,Resembles the hull shape of HMS Vanguard
 ##,,

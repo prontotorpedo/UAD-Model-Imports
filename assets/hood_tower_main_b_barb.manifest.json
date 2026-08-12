@@ -1,0 +1,56 @@
+{
+  "main_file": {
+    "path": "hood_tower_main_b_barb.json",
+    "hash": "6d4a94e72a22c3ac32e1717f6aa4f652ce998da427b29543a9e70882ce6e9948"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_0.obj",
+      "hash": "c22819d3244e271b6c39b94e00fe7b066a0c96cb55af9e831c374f3fd8704c3c"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_1.obj",
+      "hash": "444e13c03ba58049173ae204a5160e002b73be4c304c4ab676e7b564321f43db"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_2.obj",
+      "hash": "f89f5a08ce9f6dc94539cfbcdd3218bc11142f0a1449aa7040317d6e3a1a5b6b"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_3.obj",
+      "hash": "0a3721eaaf817b9e1e183bb9c2aec58b6618242d956c8d4562f6e4427b207b67"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_4.obj",
+      "hash": "746c32cca1028cc7bb59e4c567286bade97f449c4da43558ceb93d95089ee9d3"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_5.obj",
+      "hash": "76adca1aac920eaf528fd682a2f0631fc10b2a60f6e27b01a4f4e38bf9c84c71"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_6.obj",
+      "hash": "2a041629f6e288e4ad393f50e95ecc67d5143ee403da4a8194cda189005451db"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_7.obj",
+      "hash": "a445e5d31cd296a8622c7b7bf0ae32f121db69c694bcfc050f1ae0ac9c282841"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_8.obj",
+      "hash": "99c6df74d79db2582115e72db3fa3242bc4412d68c3e5189c5f404a7625d95eb"
+    },
+    {
+      "path": "meshes/Hood_Cannon_AA_Barbette_A_001_0.obj",
+      "hash": "57c770089d522a0cc1ad1961714578fe5bf7e0bfdc99b660ebe881b0b7489d12"
+    },
+    {
+      "path": "meshes/Hood_Cannon_AA_Barbette_A_001_1.obj",
+      "hash": "cafe04226209bb9725725f86f296c2dc827f1448c4e4c9ff78beb81483c67004"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "f0c0b5341b7ec0b81d62f2a5cb2392f32cd3e086791580ff6c50d31af4c734c8"
+    }
+  ]
+}

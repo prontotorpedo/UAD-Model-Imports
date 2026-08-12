@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "braunschweig_hull_b.json",
-    "hash": "081c069a402eb10c3f4e7e141737f7398991c6fd1bbb4cc0aa74fc421816b043"
+    "hash": "4cff9d96b2eb37698a4ae32c159f2f17ce1ae49a4506ec2a8e59e6ed6f3e95a7"
   },
   "dependencies": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "path": "meshes/Braunschweig_hull_bow_b_004.obj",
-      "hash": "2fa51faf5c7619279588c400a25784838ad77bbe94797272542b8197c678d692"
+      "hash": "21c2a42c957d10aeea714aef79d37f1f6091ce79539f6e22d617461409fe5bdd"
     },
     {
       "path": "meshes/Braunschweig_hull_bow_b_005.obj",
@@ -82,7 +82,7 @@
     },
     {
       "path": "meshes/Braunschweig_hull_stern_b_006.obj",
-      "hash": "304bb2cba5e8f11a0cab92f8fe19cf27b9439942eb90e27afa37e95ead8a82ce"
+      "hash": "148884ff0665367b90b15f413a9a383e990835e5ad3eea40746f7adee782ac6d"
     },
     {
       "path": "meshes/Braunschweig_hull_stern_b_007.obj",

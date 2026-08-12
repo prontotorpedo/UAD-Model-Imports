@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "renown_tower_sec.json",
+    "hash": "5579ea85a9f501766e9afbe439d0ebca9b59cba3204de6b0089118114fe357eb"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_0.obj",
+      "hash": "3f760d13d1f7110166f541043848b14ba538c9549ab90852329371d2f3e0c04f"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_1.obj",
+      "hash": "cee7172cfd97fa1c13af7673eaae80023ee7b262d617c9837a95523ece881625"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_2.obj",
+      "hash": "744695d79eaac312bf06c066c7a90ace00f0e60ed4517dab70d5a024d2ad9a4d"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_3.obj",
+      "hash": "b0b55a5f7aae279d8a12b0f079c8e16b19d505f286c5f3d5d2d91e552606aaae"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_4.obj",
+      "hash": "e4c44683d107356ccf19a95b860f4b4a7fe703f5d9d3302a37819a6f1beb6202"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_6.obj",
+      "hash": "016db2506afa224c6796aadb6ffd182e037f8ed108c59a14f46debe57d713ae3"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_7.obj",
+      "hash": "8620d9cfccbd25d790904a966c6b79a9e871699380ae739aaf08ca96346b3872"
+    }
+  ]
+}
