@@ -1,16 +1,16 @@
 {
   "main_file": {
     "path": "south_carolina_gun_305_x2.json",
-    "hash": "5f41532a0ea9e50abd00d1e2cfcd1db5290ba003a2902e5784f9e2905d58d012"
+    "hash": "482b972bb4022a508729454953e6db02070b3417075f4d5bc93631ecb18bb941"
   },
   "dependencies": [
     {
-      "path": "meshes/South_Carolina_gun_305_Barrel_x2.obj",
-      "hash": "c9f2c26f91531478e8e22a63a98b059dede1efdef035382d9a4666a3c465f0e0"
+      "path": "meshes/south_carolina_305_barrel.obj",
+      "hash": "e12b3405676754184d8d1d8e8bcbf0d3fc3e80ff009bde91948b3d221004ee6e"
     },
     {
       "path": "meshes/305_TwinTurretRoof.obj",
-      "hash": "8c9240e67a4943962d55663c0a112947dd84d37a4ba7beaf720def24a413495b"
+      "hash": "b46591e93af349f582dd204aae2b54d4d2a83d25059c3aab5591f4fe82109feb"
     }
   ]
 }

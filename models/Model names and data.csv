@@ -24,6 +24,8 @@ belfast_tower_main,tower_main,Based on the front tower of HMS Belfast
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
+hawkins_tower_main,tower_main,Based on the main tower of HMS Hawkins
+hawkins_tower_main_short,tower_main,"Based on the main tower of the C, D, and E class cruisers of the 1910s and 1920s"
 hood_tower_main_b_barb,tower_main,A version of hood_tower_main_b with an integrated barbette
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
