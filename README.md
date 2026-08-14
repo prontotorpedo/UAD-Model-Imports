@@ -6,7 +6,7 @@ Designed for use with the [Dreadnought Improvement Project](https://www.nexusmod
 ## Installation
 * Have MelonLoader installed.
 * Press the green "Code" button in the top right corner, then click "Download ZIP".
-* Unzip the downloaded file, then move the assets folder, materials folder, models folder, ObjLoader file, and ObjLoader.config file into the "Mods" folder.
+* Unzip the downloaded file, then move the assets folder, materials folder, models folder, `ObjLoader-v0.4.0.dll`, and `ObjLoader.config.csv` into the "Mods" folder.
 * In the models folder, `Model names and data.csv` contains the names of all new models as well as a description for them. The names of the models are the ones used in `parts.csv` and `partModels.csv`, so by replacing the name of a model in one of those files with the name of a model in `Model names and data.csv`, the new model will appear in game instead of the original one.
 
 ## Acknowledgements
