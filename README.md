@@ -12,3 +12,4 @@ Designed for use with the [Dreadnought Improvement Project](https://www.nexusmod
 ## Acknowledgements
 * To Crux10086 for designing the ObjLoader.
 * To Rocketlin(u)x, Helena, _therealjack, and SpellswordDRN for help with creating the new models.
+* To Lady Silly the 2st for helping me test the models.
