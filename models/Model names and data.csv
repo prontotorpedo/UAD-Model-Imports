@@ -24,6 +24,7 @@ belfast_tower_main,tower_main,Based on the front tower of HMS Belfast
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
+g3_tower_main,tower_main,Based on the main tower of the unbuilt G3 Battlecruisers
 hawkins_tower_main,tower_main,Based on the main tower of HMS Hawkins
 hawkins_tower_main_short,tower_main,"Based on the main tower of the C, D, and E class cruisers of the 1910s and 1920s"
 hood_tower_main_b_barb,tower_main,A version of hood_tower_main_b with an integrated barbette
@@ -47,6 +48,7 @@ cali_tower_sec,tower_sec,A version of arizona_tower_sec_b with a cage mast
 cali_tower_sec_b,tower_sec,A version of cali_tower_sec with a deck for a funnel mount
 dunkerque_tower_sec,tower_sec,Based on the rear tower of the French Dunkerque class Battleships/Battlecruisers
 fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the Clevland class Light Cruisers
+g3_tower_sec,tower_sec,Based on the rear tower of the unbuilt G3 Battlecruisers
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
 queen_mary_tower_sec,tower_sec,Resembles the rear towers of the Lion and Queen Mary class Battlecruisers
@@ -73,10 +75,11 @@ dd_hull_long_nose,hull,"The generic DD hull, but with a longer raised deck"
 dd_hull_thin_a,hull,A generic DD hull built using akizuki_hull_parts
 dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section"
 dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear barbette"
-iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoughts"
 hull_393_a,hull,"Based on Design 393, a plan for a hybrid cruiser carrier based on the Brooklyn class Cruiser"
 hull_393_b,hull,Design 393 with a symmetrical stepped deck
 hull_393_c,hull,Design 393 with an asymmetrical stepped deck
+iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoughts"
+king_edward_hull,hull,Based on the hull of the King Edward VII class Battleships
 neptune_hull,hull,Based on the hull of HMS Neptune
 renown_hull,hull,Based on the hull of HMS Renown
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
