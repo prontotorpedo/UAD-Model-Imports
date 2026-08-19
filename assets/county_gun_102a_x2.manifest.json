@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "county_gun_102a_x2.json",
+    "hash": "968b77a50bd0cbee01ff0f60e90922088eb6760261affcac38e61160e2ff66c0"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/tribal_gun_110_barrel_x2.obj",
+      "hash": "1d059b5e892377ef9c144b296aab475717c4814f2f1c54c61d2d122780f5b82b"
+    },
+    {
+      "path": "meshes/Tribal_gun_110_x2.obj",
+      "hash": "d6556010d10d60f0650541c9b41fbf1cd9f75c55888604b9f3f46460d51d4526"
+    },
+    {
+      "path": "meshes/Tribal_gun_110_traverse.obj",
+      "hash": "efe7ed78ab42cd233cae0facb1a038cee34a48d55799658d9711b9e8cc58def1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "laudon_gun_350_x2.json",
+    "hash": "8cb8cab3b71e9b7c0b2a3faaac425fc72ea08f9e9132604af6ff42d5ef5a12f3"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/vir_gun_305_barrel_001_0.obj",
+      "hash": "21a531a42399ef94a73f75cd4421901e25dce95e90f84bfe82cd2c60df200bd7"
+    },
+    {
+      "path": "meshes/vir_gun_305_x1_001_1_vir_gun_305_x1_001_1.obj",
+      "hash": "d23c40c42377a2b9ae4fb3cbe23b8f47e5c04685c17248a419e1cca67c107fb7"
+    },
+    {
+      "path": "meshes/vir_gun_305_x1_001_2_vir_gun_305_x1_001_2.obj",
+      "hash": "dd7ca4bf76e142e320a15dd9e50de797a526a19bc833eb19f792770582a0fd64"
+    }
+  ]
+}

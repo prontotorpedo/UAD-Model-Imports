@@ -20,7 +20,8 @@ tribal_barbette_main,barbette,Based on the integrated barbette on the front of t
 vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 ##,,
 alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace class Battleship
-belfast_tower_main,tower_main,Based on the front tower of HMS Belfast
+belfast_tower_main_b,tower_main,Based on the front tower of  the modernized HMS Belfast
+belfast_tower_main_c,tower_main,A slightly narrower version of belfast_main_tower_b with a smaller barbette
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
@@ -99,16 +100,21 @@ bofors_gun_40_x6,gun,Resembles a sextuple Bofors 40mm AA gun. Unsure if it will 
 cali_gun_356_x1,gun,"A single turret version of the 14"" gun turrets used on later US battleships"
 cali_gun_356_x2,gun,"A twin turret version of the 14"" gun turrets used on later US battleships"
 cali_gun_356_x3,gun,"A triple turret version of the 14"" gun turrets used on later US battleships"
+county_gun_102a_x2,gun,"Based on the twin 4"" secondary guns found on cruisers such as the Leander class"
+county_gun_102b_x2,gun,"Based on the twin 4"" secondary guns found on cruisers such as the County class"
 county_gun_203_x2,gun,"Based on the 8"" guns of the County class Heavy Cruisers"
 county_gun_203_x3,gun,A hypothetical triple turret version of the County class turret
 courbet_gun_305a_x2,gun,A less tall version of dant_gun_245_x2
 courbet_gun_305b_x2,gun,"A less tall version of dant_gun_245_x4, made to fit two barrels"
+courbet_gun_305a_x3,gun,A less tall version of dant_gun_245_x3
 daring_gun_114_x1,gun,A hypothetical single turret version of the Daring class turret
 daring_gun_114_x2,gun,"Based on the 4.5"" gun used on the Daring class Destroyers"
 daring_gun_114_x3,gun,A hypothetical triple turret version of the Daring class turret
 dunkerque_gun_130_x1,gun,"A single barreled version of the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
 dunkerque_gun_130_x2,gun,"Based on the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
 hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2
+laudon_gun_350_x2,gun,Based on plans for the twin turret of the Ersatz Monarch class Dreadnoughts
+laudon_gun_350_x3,gun,Based on plans for the triple turret of the Ersatz Monarch class Dreadnoughts
 mackensen_gun_350_x2,gun,"Resembles the main guns used on the Bayern class battleships, as well as the Mackensen class Battlecruisers"
 mackensen_gun_350_x3,gun,A triple turret version of mackensen_gun_350_x2
 mont_gun_152b_x1,gun,A slightly thinner version of mont_gun_152_x1 with lifeboats on top

@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "g3_tower_sec.json",
-    "hash": "af56dc93438e833b99097828e926a7406b2afe7003ad296cbe62370506658a20"
+    "hash": "c00a40ceccf7929312f9e089bbbd17e6aa8a0122db917b4c542964bdda15fba8"
   },
   "dependencies": [
     {
       "path": "meshes/Nel_Deckhouse_A2_001_0.obj",
-      "hash": "9dc9bffcd528ffbd701b3c9ae62003b8494de2d64175046b277616f4140c75ef"
+      "hash": "22ebcbec9129999b7b191ac581676004018d32f546bc1f0ef71d9ab09e6d66b4"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_1.obj",

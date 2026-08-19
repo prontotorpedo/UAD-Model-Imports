@@ -1,132 +1,168 @@
 {
   "main_file": {
     "path": "king_edward_hull.json",
-    "hash": "fbea71ac0436d4652ce8c3218732ee84b6ed38320ca29ca2396dc6a02967242f"
+    "hash": "a32abaf30972bcc0ae468f09bd3cbbc5fe47dc1cfa05da41e40652d66eaa3d98"
   },
   "dependencies": [
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_0.obj",
-      "hash": "d350de7a320ee61124d80efc4c5f2568155f5f4ab24fcbffab9b1dc32ad0ace0"
+      "hash": "e88c5060d7b220b7b6f49d9ceace63e7102756f95400c0ca47f1b12ba146f9b3"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_1.obj",
-      "hash": "be7685cd45d25458079391498871f84692c84c2a138b4add6b9d422c1b4a613a"
+      "hash": "677956f859eaa54f738a081168a1ac9f50c13c41f4375efd14c33220ce74f720"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_10.obj",
-      "hash": "773b6adae61ca64a94cd797829253d4c04a95cd1cc5d7ebad7b439175eabe289"
+      "hash": "e5a7e48a66d1e0688ebbe798bf9e8e7a27c9e5f07bca9b6469331b259eee25a2"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_2.obj",
-      "hash": "6f98fce8ae49ceb0c00bf287aba0ebb95e168743839ed7791671b20cf246fe0d"
+      "hash": "85b143dabf31b3965fd8612498f7d800a6abe0d1269b9e9494d9076d5b25c46b"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_3.obj",
-      "hash": "d4385b928aae84830c29d855adc082d70821acd44c5f3b735bdd33f14d27c8fc"
+      "hash": "2f0eb6381efe9153ee0553c6d401f02283beadf88308b5b433642d219780572a"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_4.obj",
-      "hash": "d5d29e28cddd4e2fd6cafd0de227182e95d40a521e63d74186912fce0667dea8"
+      "hash": "f9bc3d937295c66b2add844ae104b268b7c1ee020c51ddf4ff78dc5c3fb10d4c"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_5.obj",
-      "hash": "07090d270e870ab59fda294f2d7d3361f77649dc540a15efbd6e7e27080f0584"
+      "hash": "442706b399ebc67d0d49c45f522ec2c72b93012d6ed84cee0c50921b178addde"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_6.obj",
-      "hash": "08b6c4ce88c4f3fa10df9a1f7333c2f9159f922b7a278ae776e44ba506118165"
+      "hash": "7fa86375fb922b3aeed1249c24009b9dc3caeeb27b8347f80b4a9b499979cbf9"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_7.obj",
-      "hash": "30c303a397e4687174dba4099430aa989a7e3762e8818731df82e3cf3df39627"
+      "hash": "b8fe4676b777e26cdf73d25e1de0383feca865fbc1dcf868c3b457c30caca84c"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_8.obj",
-      "hash": "e1a0013019c3f68cf476c5168fb6de5d17c862c705535def25e57e04731eae11"
+      "hash": "c4c20ac5226e14d179448e7adf293c9bd5e4568b77b23de76ff752491f2c001f"
     },
     {
       "path": "meshes/Br_Hull_Rostrum_Irresistible_A_001_9.obj",
-      "hash": "c0bc273b965d5ddc2479e0b95db1b0c576a4f0fdbe4edce0e138b6559279e726"
+      "hash": "17b3ebda4bdf3de67c81d05aa2330a024b04d6cf6d3446d698ff9efab1477f7f"
     },
     {
       "path": "meshes/Cylinder.obj",
-      "hash": "145c8364a80ddb6369ed82c2b7115e2a787c20ea85c7bde79b2c5766eb032a0b"
+      "hash": "5871afd2e56e56acd4fa66618ba0830a91ab09aac2a3544203816ae5e9ce72e4"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_0.obj",
-      "hash": "35f7c15a78416ab9c059fd18ce0180c10e4c6d341ad556f3989ebaad734c0bfa"
+      "hash": "afa436a5b0c9db895eff1c939bc318460a45707a226db7bc9e682a29905875ff"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_1.obj",
-      "hash": "537f4c9ba23fe63fa3e34c82f10334b07cda0ff18fdd96a6dc03646e6dc1ed0b"
+      "hash": "db306f290c634b84fecf0b94e4308651e86b27263d6d6daa57f3f350c19c7d38"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_2.obj",
-      "hash": "c5ace42427a69a5b279506a7c5756a940fbd6a686b3f9a60e0c5b7d9da69c7a4"
+      "hash": "39da9da1493c7c578c7a68c03ab0425f94a903e2ecec41b91228d32f09820340"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_3.obj",
-      "hash": "1ccfa86e3238cfae1f135ffe94f04d39f17667756db78eb6738fdfdd7148c8b7"
+      "hash": "fabc26885a423a2c0115422731e9aafca468d6526f0baba9f3872994569eff52"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_4.obj",
-      "hash": "97862f6e0557fcdf3c9bb82dc5ed8bad30fe508d309091db92eabc893a8d4813"
+      "hash": "b11821f8788cf9e66155e8bb47c62d9d4f5d234c8c0ea6ae937f56c01defcdff"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_5.obj",
-      "hash": "be0d10ef82649dedaf3729b0e9627f5ee3a46541d887c94188a83bb5d9335f6d"
+      "hash": "93e3ee1d2b1ebe3ac2c24446cd118195f59d85e17d1fc6970062167b33c21991"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_6.obj",
-      "hash": "cddb41b2d4f10246401fcb763e7bb6fb538c505f1d5400bbfa12f6b214f995b9"
+      "hash": "b82e91b10d08d35daf85307d6283da7ececc987e1f31b772f5e6e69d8cab895a"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_7.obj",
-      "hash": "2c474c68c31470f1603fd065611253b8024728af889baca27be2d4e31e9706f6"
+      "hash": "6b440f93f1ef18075228d7774ceb6a2c480a6c4d2dce77b055f8ff7fe4337288"
     },
     {
       "path": "meshes/Br_Hull_Midsection_Irresistible_B_001_8.obj",
-      "hash": "bf6b293b258e46244dbf596ba94c4c0a39b468c1277d6224f36dbf7391c57d60"
+      "hash": "c767aba4243c8bc94bdf55b8415cd9afaf91c1289ebee1a5772a8b3ef37557cf"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_0.obj",
-      "hash": "64481cb8590bb9a64882d20613d71af5d11cf8622eced363ae0de0b4e468165f"
+      "hash": "0a5f7a738b01d8b7206577ee2f640e53b2411e75d5234eb2b5634b0eff00a76b"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_1.obj",
-      "hash": "292677d1c365db86a3170daf4a1c879c61cd102866df2244dd4b5e64146dff93"
+      "hash": "96ebbaa9542e6039a0183c1b0607a4fa3041f0e4af2cf65af6f6c2e809f99a2b"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_2.obj",
-      "hash": "189f5b2473cdb7328296e41aa7e5c181011be764772f0ef19ce898a0015ae75b"
+      "hash": "bf9918aa8aafd7069730e8920b6046b26ce3587b07ff6121f9ee1cfbbda164bc"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_3.obj",
-      "hash": "c593f70600927b250219b34e83b5a79ef6530f25855a97097fcc828183dced7c"
+      "hash": "39cabc8f39ac0406bbf7fd4bd5353014f0106544f06a955f0480a4259bb87068"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_4.obj",
-      "hash": "61b43086e1afe70c47c88d741e773f64176d76c3b69d5261f4965d117c9a30b5"
+      "hash": "112a67a531f565f059d0e8a066b50f764d6b596ad6dc2a59e80c0404da000fba"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_5.obj",
-      "hash": "8abfbf9aa6b21e4d9bc51dcd65b145a204d90defdc20eab6b2a8f74668a7b85e"
+      "hash": "a249e9e4ec8b17e8bf6c82d2329e9141625c525ab4cd472753c040d462b07f96"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_6.obj",
-      "hash": "815c4288df6c0700891f3eccf87784791737b5a3427c4f4dcb2593f42d7fd0de"
+      "hash": "4bbf72d77ae720180b38f7e2e768d411b2b5cc526a600efdce0f37943e053579"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_7.obj",
-      "hash": "b97c638dae72aa194f2c71750de20bf8bb9b35070594a4f43a581565a4003f7a"
+      "hash": "07fea2bf7d6b3b3d0ba54a226be82a917f9c8fc64e14738169f95d8353ec523b"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_8.obj",
-      "hash": "71cadc3a3a24bfb28358ec269152fc4d3e2010b76fff6d37d99a34a9dfb6da0d"
+      "hash": "bb63daa8a5efdb4fd966bb0eb49112b90dc7bf61d2feb4cd310cd0591e0ad6cb"
     },
     {
       "path": "meshes/Br_Hull_Stern_Irresistible_A_001_9.obj",
-      "hash": "80504ec0e38b4493ebaf7872559949c1048fc5db6936d4b4576c2d56835c0bd3"
+      "hash": "e094e147c925eee988c4e9fae05749b2b65bed57a06810fa45d0c488608768f8"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_0.obj",
+      "hash": "ac803e2438ba521ab9a00ff7ad9d2cba89fc311569f696383b4a5bab03efc981"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_1.obj",
+      "hash": "37cd4969df3018274de86a9ad04e3f0a7c1140aa80f79d4c4beadfe97dc3a35a"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_2.obj",
+      "hash": "11a9f7d15973860662c862a769ba0d9af1fd2e5e67bb7ca2ed6534aa9632f812"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_3.obj",
+      "hash": "4af0fa94023709aa1b34d1e912d2921a882fbc3d268c8d9902cd1135578274e2"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_4.obj",
+      "hash": "f61259bcf0ea7ada203f758d9285e4877257f50f504199d6d252823ea164ff01"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_5.obj",
+      "hash": "2a73d6c1db07f19703c6e225ac5af914b7384fd83a15cae5fdae04bd4399dbc1"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_6.obj",
+      "hash": "24485b73cdaabb7e3f2279f8ed1794d2350100402e04136f9d162eb09f9157dd"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_7.obj",
+      "hash": "2350cba1bc4a8a200510d0e969dc3c1c9a25dd690dcbd6a0930384828e045a10"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_8.obj",
+      "hash": "c0099f18de0406162bd7bbbf27d343a5a949c5639e502e6dcff9a701e6738131"
     }
   ]
 }
