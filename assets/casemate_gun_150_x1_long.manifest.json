@@ -1,16 +1,16 @@
 {
   "main_file": {
     "path": "casemate_gun_150_x1_long.json",
-    "hash": "4104c942cced972feda6cb8beb9185c79e4fd526de753dc291ea186b0800b600"
+    "hash": "52414658f859b2b0d1c2f4f28804cb8f3a76461c8dfa69f8af242df1e3ed50b1"
   },
   "dependencies": [
     {
       "path": "meshes/VDT_side_gun_cal150_055_0.obj",
-      "hash": "928691e6016c00c97f524db643fc814d413c015f17fc8f7f1e68bacace6f332d"
+      "hash": "eb691af457d2991fc22d8de5149216dd610ab0983745f3d4b6c1d2756008e6ad"
     },
     {
       "path": "meshes/VDT_side_gun_cal150_055_1.obj",
-      "hash": "7ede0d9f9c7be54b5b6f6818fb078724c795017c7c403b8650cee5bf30c079a0"
+      "hash": "037d06c1aef8c49306c65bad4afbefd2aa55dd5b31232764c66c75fac9767189"
     },
     {
       "path": "meshes/casemate_barrel.obj",
@@ -18,11 +18,11 @@
     },
     {
       "path": "meshes/VDT_side_gun_cal150_055_2.obj",
-      "hash": "bae6b4c08bfa3c39dbe4f8e604742562d0a21fc852e9aab52e3d1c3d96f66441"
+      "hash": "1c41abbac0c2dd274ce28afa8dbedd82d871eb8e0601fdb26fd7ecce1073ecb8"
     },
     {
       "path": "meshes/VDT_side_gun_cal150_055_5.obj",
-      "hash": "f5890315035cacfc0553bb359f39c246f1d88c38e9bfd9debb488bd29e8f5068"
+      "hash": "1597ed784bdf735efd9336aecf3c1c5cdbc13047071841aff648dca552abc1ea"
     }
   ]
 }
