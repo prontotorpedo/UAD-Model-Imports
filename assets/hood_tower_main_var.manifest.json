@@ -1,44 +1,44 @@
 {
   "main_file": {
     "path": "hood_tower_main_var.json",
-    "hash": "a455383d292b4b50cd456eb576d7d6c1ea94affbd3d82b5724c6ea3d5e2caf8e"
+    "hash": "1b01b96c47e2f38ddd0eb136be635d02499210ea5d528b3b7438553b1b7453be"
   },
   "dependencies": [
     {
       "path": "meshes/Hood_Deckhouse_A1_001_0_Hood_Deckhouse_A1_001_0.obj",
-      "hash": "911992bf7ad31aa6ce2e16bfe4eb51c71bac0d0dff6173060c3eb9a0e4ec31e1"
+      "hash": "08dd84380e3b767fcac74d0bf42f086481ca71e39a6473af74c6793f4de1b91e"
     },
     {
       "path": "meshes/Hood_Deckhouse_A1_001_1_Hood_Deckhouse_A1_001_1.obj",
-      "hash": "07a43b9554541b9f1c1d01f79fc5c09ef3eeea6c114bf7235b5b325d589d1624"
+      "hash": "e6fe7e58ace1054dbd4d4481f849d485c1172a1936e910bae027a3e5b2bd311d"
     },
     {
       "path": "meshes/Hood_Deckhouse_A1_001_3_Hood_Deckhouse_A1_001_3.obj",
-      "hash": "031e618f4989b17945022ef35a4fa9663a37c04fffb97dc33e61d968f20dc1c6"
+      "hash": "324b13dca19442888690af5e687b59ef3d09dfc34653ad7822840b9eff6d2bcf"
     },
     {
       "path": "meshes/Hood_Deckhouse_A1_001_4_Hood_Deckhouse_A1_001_4.obj",
-      "hash": "d54e255b1056023883f5a1e30bd7437ffc53a8353d5138966430bdd309cfddfc"
+      "hash": "2182c0c5b0dc91857d141b78b344cf3283076c648940166570d5404591a0561f"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_1_KiGe_Deckhouse_С1_001_1.obj",
-      "hash": "9d11bb8ee6899181b3a4bb6cecd21116eb62b06e89496ddcacb0d583167c77bb"
+      "hash": "c769fa4acd6d703ed45d77c3a40acfd7ec4b9b126646e9f1ba4a6bfdf99cbb0d"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_3_KiGe_Deckhouse_С1_001_3.obj",
-      "hash": "a3c96075508fab6aae0e44c8785d93f7aae0132e44c25e6b57e77c66ada9d297"
+      "hash": "6a8b6508336f7cb7f287554db7d474cf8267477433a503fc57954c7034ec280b"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_4_KiGe_Deckhouse_С1_001_4.obj",
-      "hash": "eed7aaaceebb429b2c264fdf77d4231375fa8f92189a314524b6fcc46e8d73bf"
+      "hash": "3ea5501aef959bda2e1301b2a7e810ae4d450c8c15ffad9043b30f8a17bc512a"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_6_KiGe_Deckhouse_С1_001_6.obj",
-      "hash": "032e12c3a881498151a15825808ca946b618a8b8788ca80880e1d7152d01d207"
+      "hash": "8873b068b289b6758b99da52611107ef6b7e162cc8e5c41ccde779fb3564b746"
     },
     {
       "path": "meshes/KiGe_Deckhouse_С1_001_7_KiGe_Deckhouse_С1_001_7.obj",
-      "hash": "3cb2861ff62ae7b95cbe2311f6c2692ad2581089a34e4d06d436de7fa461a133"
+      "hash": "2063156123bfef0f59901f1c7ecf06f83c7e097b45978cb272225e084e4714af"
     }
   ]
 }

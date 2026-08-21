@@ -6,7 +6,7 @@
   "dependencies": [
     {
       "path": "meshes/vir_gun_305_x2_001_3.obj",
-      "hash": "ba59df4b0f531d34c8fa9e1afbf6aca910237c0fe350415d8867352b395aa5c3"
+      "hash": "9cdc83defd9e2b4a030a0addc01af4b413cfe208b317efc1ee7076f0062cc4e0"
     },
     {
       "path": "meshes/vir_gun_305_barrel_001_0.obj",
@@ -14,7 +14,7 @@
     },
     {
       "path": "meshes/vir_gun_305_x2_001_0.obj",
-      "hash": "013cb520a41fa6d54806555140f8c921325d5dfd877f7d929e320ea86cbdfbdf"
+      "hash": "a2ec2d5745b34877d1218950c65bae1d726a07184cd35d086121eb5c96ac3b51"
     }
   ]
 }

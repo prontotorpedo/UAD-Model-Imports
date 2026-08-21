@@ -13,6 +13,7 @@ moga_torpedo_l_x4,torpedo,A reversed version of moga_torpedo_x4
 moga_torpedo_l_x5,torpedo,A reversed version of moga_torpedo_x5
 vw_torpedo_x3,torpedo,Triangular shaped triple torpedo launcher based off of the ones found on the British V&W class destroyers
 ##,,
+dd_barbette_mid,barbette,A generic barbette meant for use in the midsections of destroyers
 nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a
 tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
 tribal_barbette_main,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers
@@ -22,6 +23,7 @@ vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace class Battleship
 belfast_tower_main_b,tower_main,Based on the front tower of  the modernized HMS Belfast
 belfast_tower_main_c,tower_main,A slightly narrower version of belfast_main_tower_b with a smaller barbette
+bertin_tower_main,tower_main,Based on the front tower of the Emile Bertin class Cruisers
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
@@ -45,6 +47,7 @@ vanguard_tower_main_b,tower_main,A version of vanguard_tower_main without the si
 warspite_tower_main,tower_main,Made to resemble the main tower of HMS Warspite after her modernization
 ##,,
 alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace class Battleship
+bertin_tower_sec,tower_sec,Based on the rear tower of the Emile Bertin class Cruisers
 cali_tower_sec,tower_sec,A version of arizona_tower_sec_b with a cage mast
 cali_tower_sec_b,tower_sec,A version of cali_tower_sec with a deck for a funnel mount
 dunkerque_tower_sec,tower_sec,Based on the rear tower of the French Dunkerque class Battleships/Battlecruisers
@@ -69,6 +72,7 @@ alsace_hull_b,hull,A version of alsace_hull_a with extra cutouts in the raised d
 austria_bc_hull,hull,Based off of a design concept for an Austrian Battlecruiser in the mid-late 1910s
 braunschweig_hull_a,hull,Based on the hull of the Braunschweig class Battleships
 braunschweig_hull_b,hull,Swaps the fore and aft casemates of braunschweig_hull_a for torpedo launchers
+cavour_hull,hull,Based on the hull of the battleship Conte di Cavour
 clev_hull_a,hull,Flat cruiser hull based on American cruiser concept designs
 clev_hull_b,hull,Stepped cruiser hull based on American cruiser concept designs
 cv_test_hull,hull,"A generic carrier hull, not meant to be used seriously"
@@ -100,6 +104,11 @@ bofors_gun_40_x6,gun,Resembles a sextuple Bofors 40mm AA gun. Unsure if it will 
 cali_gun_356_x1,gun,"A single turret version of the 14"" gun turrets used on later US battleships"
 cali_gun_356_x2,gun,"A twin turret version of the 14"" gun turrets used on later US battleships"
 cali_gun_356_x3,gun,"A triple turret version of the 14"" gun turrets used on later US battleships"
+casemate_gun_76_x1_unshielded_short,gun,A shorter barreled version of casemate_gun_76_x1_unshielded
+casemate_gun_152_x1_short,gun,A shorter barreled version of casemate_gun_152_x1
+casemate_gun_150_x1_long,gun,A version of casemate_gun_150_x1 with the barrel from casemate_gun_152_x1 installed
+casemate_gun_150e_x1,gun,A version of casemate_gun_150_x1 that has a barrel capable of elevating
+casemate_gun_152e_x1,gun,A version of casemate_gun_152_x1 that has a barrel capable of elevating
 county_gun_102a_x2,gun,"Based on the twin 4"" secondary guns found on cruisers such as the Leander class"
 county_gun_102b_x2,gun,"Based on the twin 4"" secondary guns found on cruisers such as the County class"
 county_gun_203_x2,gun,"Based on the 8"" guns of the County class Heavy Cruisers"
@@ -147,6 +156,10 @@ vanguard_gun_380_x2,gun,"Resembles the 15"" gun turrets on HMS Vanguard"
 vanguard_gun_380b_x2,gun,"A 15"" Vanguard gun with a mounting platform for AA guns on top"
 vdt_gun_200_x3,gun,A triple turret version of vdt_gun_200
 vdt_gun_cal150_x2,gun,A model of a twin casemate gun
+worc_gun_152_x1,gun,"A single barreled version of the 6"" gun found on the Worchester class Cruisers"
+worc_gun_152_x2,gun,"A twin barreled version of the 6"" gun found on the Worchester class Cruisers"
+worc_gun_152_x3,gun,"A triple barreled version of the 6"" gun found on the Worchester class Cruisers"
+worc_gun_152_x4,gun,"A quadruple barreled version of the 6"" gun found on the Worchester class Cruisers"
 vw_gun_120_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
 vw_gun_120b_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era Argentine Destroyers built in Britain"
 vw_gun_120c_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era British Destroyers"

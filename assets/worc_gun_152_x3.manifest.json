@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "worc_gun_152_x3.json",
+    "hash": "f757126bdabe5f4fc3acda3e3bef95f56d4ceb0427248bd51977f112b4f381bd"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/152_TripleTurretBottom.obj",
+      "hash": "420dec87216ea0591f6d03cf502afef9c571502815bc58aa33a28a808334511e"
+    },
+    {
+      "path": "meshes/worcester_gun_152_barrel_x1.obj",
+      "hash": "00797ec5bd5a0b1d335e659aa8f7baf75b39881a4beeaaa23004800cda6ee91d"
+    },
+    {
+      "path": "meshes/152_TripleTurretBody.obj",
+      "hash": "af73a6e17185672718f03862eeb35d8b06aa97161cc336c0248823c8b2c0d313"
+    },
+    {
+      "path": "meshes/152_TripleTurretRing.obj",
+      "hash": "24700bf91c14607241b6ea0245247798e0cff6f1d64c7130d826d6be388a3108"
+    }
+  ]
+}

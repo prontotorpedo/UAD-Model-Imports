@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "casemate_gun_76_x1_unshielded_short.json",
+    "hash": "102ec6ee27dbc39a43059be723a52cfd4904b4eb8012b0ce2cb03715a7997fa6"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/casemate_barrel.obj",
+      "hash": "45b0723f86af2e958e52375fe56727bfffa90db3915f6d8c064500b4a9226f33"
+    },
+    {
+      "path": "meshes/Cr_Cannon_T_Turret_A_001_0.obj",
+      "hash": "7ae05c245903cd07a40658a6a0ee29ca447f13cc86ec1cc9b4a5d766dc8362e5"
+    },
+    {
+      "path": "meshes/Cr_Cannon_T_Turret_A_001_3.obj",
+      "hash": "3d28a67fd162227aa37c4c3178533fe1e7bc407194f5423dccf6af8701b9fb78"
+    }
+  ]
+}

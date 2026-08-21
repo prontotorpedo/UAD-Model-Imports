@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "casemate_gun_152e_x1.json",
+    "hash": "b93fdd01547bc137e97e12fb9106a68b0ca1e494036a10b861386a090dec26cb"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_A_001_0.obj",
+      "hash": "3dbcd7cb7960309f4491ecd18edd9f08a9459b613d506fd16b9fb81e28d9bd14"
+    },
+    {
+      "path": "meshes/casemate_barrel.obj",
+      "hash": "ec3027fbfb296c57fc5482ec3ce8447be880e32b6616d79b4a7043337288aa46"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_A_001_1.obj",
+      "hash": "275b80504cb127df6685a92e719b665c3ca24b6be87bf2e5498c773c3f3eda9d"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_A_001_4.obj",
+      "hash": "bc54f24363ea9f7e60f7068181b0fa7ee32771789661525ec9ce4b2ed1abd258"
+    }
+  ]
+}

@@ -1,24 +1,24 @@
 {
   "main_file": {
     "path": "nelson_barbette_a_tall.json",
-    "hash": "14fa46ff032161d63af33281a2b23aac3b279892e5a74907a6f3aa3301fda995"
+    "hash": "dd0992cfb28e5668a46f8286bd8fb71611ad4d4c604a469609311e2fb26a3abc"
   },
   "dependencies": [
     {
       "path": "meshes/Nel_Barbette_gun_406A_001_0.obj",
-      "hash": "c1bb955fe826d3c9bfa0465c4f3c0b40ebb56151c033e7a80500db2393017cff"
+      "hash": "068bdd22ad1f69e5aaa6638c7163c54c253939e39e4899842898db162c8814d7"
     },
     {
       "path": "meshes/Nel_Barbette_gun_406A_001_1.obj",
-      "hash": "40dbafaf6336731cd837fad5bb52aab869f3810ede3d9aa0a941ede9717118b0"
+      "hash": "578aaace0d72349fa1d4aadc2fb6fba5a3ac1c9397059621379a27711ee25cf5"
     },
     {
       "path": "meshes/Nel_Barbette_gun_406A_001_2.obj",
-      "hash": "1b86ab32d5a88e1b0557a1ad7f5060fe60b0c10418f8545a179582e107335a7f"
+      "hash": "1f03a29c6f0bd7ba811c7b3b5ff3c71d4767566fd2a1de991467b05711b14f2c"
     },
     {
       "path": "meshes/Nel_Barbette_gun_406A_001_3.obj",
-      "hash": "fc61a9c0b25e1ab73b01aa0be4c662755b30ef14de390d71dafd3b1fd7b282b2"
+      "hash": "fa9d215d375cfe3b33735a42476e9149cb3f90a17de49f92707e7368f68586e7"
     }
   ]
 }

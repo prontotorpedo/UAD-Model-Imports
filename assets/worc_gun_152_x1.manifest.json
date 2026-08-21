@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "worc_gun_152_x1.json",
+    "hash": "1a2fb214860f6dd318e8758b21249e2284fd1cdc5a949fdfa56e95c089bc5e99"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/152_SingleTurretBottom.obj",
+      "hash": "6a18bc346b25de3b79307e38efdbc98473dadfa364060b962e14741e8bdc2d61"
+    },
+    {
+      "path": "meshes/worcester_gun_152_barrel_x1.obj",
+      "hash": "18f27c4d3d0c977ab47cdd1d3f8ab889ef82d0fd2b176c1ef6f372611194d6d1"
+    },
+    {
+      "path": "meshes/152_SingleTurretBody.obj",
+      "hash": "f6948865ac849c3c6e2bfffb7d99f7d2e8661280acb302ab1299d026c2fe03e0"
+    },
+    {
+      "path": "meshes/152_SingleTurretRing.obj",
+      "hash": "f06366c7333a326f5817405dd0492f69eb8ec10e80960e5c3e6727bc05e3069a"
+    }
+  ]
+}

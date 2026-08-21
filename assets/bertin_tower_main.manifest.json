@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "bertin_tower_main.json",
+    "hash": "fa0d9df281dda20dbfe06bee65c92b739ef544e9812d47eee87197b724a5bded"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_0_Rish_Deckhouse_A1_001_0.obj",
+      "hash": "bbc7ab79ec12cc130d3fe1ad3a4607b4490920270ac57983194dbef04e2594f3"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_1_Rish_Deckhouse_A1_001_1.obj",
+      "hash": "44289dc1a8e0783da62717ab49649398fa844a2ca6260916838c86ead7fb7e81"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_3_Rish_Deckhouse_A1_001_3.obj",
+      "hash": "06080e83e746e3f2365112e4f8cf81523f9aee382ef5bdbd7e3203151566a23d"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_4_Rish_Deckhouse_A1_001_4.obj",
+      "hash": "b62e7c5900fc9161293974b2192f4200514e7106bc8370a1252a0fddde045cf3"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_5_Rish_Deckhouse_A1_001_5.obj",
+      "hash": "6b27db764d7a9e18f317b3776e2e83dbe7696dfdf790d7a9932a1ae9d63ada30"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_6_Rish_Deckhouse_A1_001_6.obj",
+      "hash": "f02e7eab7aaaf6c81bf78117f7dbee49ff5a5eef77d1b6e9fe7ee2d4a5370401"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A1_001_4.obj",
+      "hash": "9fc4cce43e25e03d281f2669bb40b0fc418209ebbb30b0c659c853382d26ff35"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "dd_barbette_mid.json",
+    "hash": "cba3f48f8b82beccd25e1b24efc1201ddfd881925b79525dabe4f93f0a2cb4a4"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_0.obj",
+      "hash": "f496bf61025569e51ad3bfef940cab1db14f66f425dc7fdfe8084bae115830d3"
+    },
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_1.obj",
+      "hash": "b982739a2d2fc226dd099c444fb5408010c4e97a638422d83e7a01f5bf86255f"
+    },
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_2.obj",
+      "hash": "491447362c4b2ee8f4706e8123e13e40f3f58a5a1e7e77eb5577472338cfaa91"
+    },
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_3.obj",
+      "hash": "607f28868f5e58ab357b65da8484e3548aadc24f7567b0faa48d6839dafdc2b5"
+    },
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_4.obj",
+      "hash": "4ee873a6f4b767fc120c7928499420a5687f080801f958f172fc62f295488018"
+    },
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_5.obj",
+      "hash": "d0b7291b4b4f2e6a47b143ee23a97e57b77ca0974da857d6d05cb90a8a8441f4"
+    },
+    {
+      "path": "meshes/Dr_Deckhouse_destroyer_B_001_6.obj",
+      "hash": "6d4f6099e3c17f75af9a3b8946edc3295c7d650e14246c9f15f7d3dc4429b063"
+    }
+  ]
+}
