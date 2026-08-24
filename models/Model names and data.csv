@@ -20,6 +20,10 @@ tribal_barbette_main,barbette,Based on the integrated barbette on the front of t
 ##,,
 vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 ##,,
+1934_tower_main_a,tower_main,Based on the front tower og Germany's Type 1934 Destroyers
+1934_tower_main_b,tower_main,A version of 1934_tower_main_a without funnel mounts
+1934_tower_main_c,tower_main,A version of 1934_tower_main_a without the forward barbette
+1934_tower_main_d,tower_main,A version of 1934_tower_main_a without funnel mounts and the forward barbette
 alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace class Battleship
 belfast_tower_main_b,tower_main,Based on the front tower of  the modernized HMS Belfast
 belfast_tower_main_c,tower_main,A slightly narrower version of belfast_main_tower_b with a smaller barbette
@@ -46,6 +50,7 @@ vanguard_tower_main,tower_main,Resembles the main tower of HMS Vanguard
 vanguard_tower_main_b,tower_main,A version of vanguard_tower_main without the side barbettes
 warspite_tower_main,tower_main,Made to resemble the main tower of HMS Warspite after her modernization
 ##,,
+1934_tower_sec,tower_sec,Based on the rear tower of Germany's Type 1934 Destroyers
 alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace class Battleship
 bertin_tower_sec,tower_sec,Based on the rear tower of the Emile Bertin class Cruisers
 cali_tower_sec,tower_sec,A version of arizona_tower_sec_b with a cage mast
@@ -147,6 +152,9 @@ teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnough
 teg_gun_305_x3,gun,"Resembles the triple 12"" guns used on the Tegetthoff class Dreadnoughts"
 tribal_gun_100b_x2,gun,"Generic twin gun for DDs and CLs. Loosely based on the 4.7"" guns of the Tribal class Destroyers"
 tribal_gun_120_x2,gun,"Based on the twin 4.7"" guns of the Tribal class Destroyers"
+type_1936_gun_150_x1,gun,"Based on the single 5.9"" guns on the Type 1936 Destroyer"
+type_1936_gun_150_x2,gun,A twin turret version of type_1936_gun_150_x1
+type_1936_gun_150a_x2,gun,"Based on the twin 5.9"" guns on the Type 1936 Destroyer"
 usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war"
 vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard"
 vanguard_gun_133b_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard, slightly longer than the other version"

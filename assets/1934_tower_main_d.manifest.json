@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "1934_tower_main_d.json",
+    "hash": "2529d70d69ec7f71d36886be992575d2f06681cbf214f4c874ba954ae56e2782"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/1934_Deckhouse_ForeShort.obj",
+      "hash": "29f403f4cbd109600edb3e1e91e0da94448ebcc636300e909ec667502ef4aba8"
+    }
+  ]
+}

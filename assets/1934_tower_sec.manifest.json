@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "1934_tower_sec.json",
+    "hash": "e9501e4bfa9de86569a9ec762be1be8f2b4e65a1a3de8a75f3d68f82d8383e92"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault2.obj",
+      "hash": "853e185db69e70c96e587c64a16313f65726631538d9f19899e2a15fd2bd8577"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault1.obj",
+      "hash": "eec1f226ffd555bc03cf9a5095fa1db061a721e230e444b6a634f2a6fea45b2f"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault.obj",
+      "hash": "230eecd4bcd171bdb307b31ba1140cce1796bf295499678a1d7d472efb87d371"
+    }
+  ]
+}

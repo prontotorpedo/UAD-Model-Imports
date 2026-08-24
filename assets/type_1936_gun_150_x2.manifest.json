@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "type_1936_gun_150_x2.json",
+    "hash": "170f165c8d798768615d5dc61e52e16a04b3cd5b87b64b723bec2ad831230a1b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Spee_gun_150_x2_001_0.obj",
+      "hash": "3d7acb8cc567791ce125a82464c9b4270450379bca77370b9a8c34cd7d1afef1"
+    },
+    {
+      "path": "meshes/Spee_gun_150_x2_001_1.obj",
+      "hash": "081d048a9b4a313ec49c3e60441a24b4d2bfa36615552692a8ff11bedf1a922d"
+    },
+    {
+      "path": "meshes/Spee_gun_150_barrel2_001_3.obj",
+      "hash": "8b2f507d8253a548c176fb80f6bb8877c680d2693d95cfa7ce1cf7737b837767"
+    },
+    {
+      "path": "meshes/Spee_gun_150_x2_001_2.obj",
+      "hash": "db571caef7778336a151d1f928cc02b838411db1f271a3f439f844183ed5e3d7"
+    }
+  ]
+}
