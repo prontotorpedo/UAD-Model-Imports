@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "baltimore_gun_203_x1.json",
+    "hash": "26b32649b57f7c88299271e76fbe3f08ff6af695ea2cede234cc4ac09509f45f"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/203_singleTurretRing.obj",
+      "hash": "1a4979f88a7c8123e99d419cb980c32e1054b2c58ab24f5d68735c27115d10a1"
+    },
+    {
+      "path": "meshes/baltimore_gun_203_barrel_x1.obj",
+      "hash": "7d7b7b7bad15a0915cf08ad9d04438dc1d11c144f664a4f9f23a5211d360263f"
+    },
+    {
+      "path": "meshes/203_singleTurretBody.obj",
+      "hash": "b0f36fb4f9f39e14567b3ce8fd7e6e173f097df5f1234beeeec102f614d97ab0"
+    },
+    {
+      "path": "meshes/203_singleTurretRoof.obj",
+      "hash": "f7e640ec3967232d3b3f51543a030c74d9bbe6380a95ec0767685156c6349247"
+    },
+    {
+      "path": "meshes/203_singleTurretInterior.obj",
+      "hash": "5ab73788d53033df605da5454e83f2121ed214e42d4c8c97f11aa336c314707f"
+    },
+    {
+      "path": "meshes/203_singleTurretRaft1.obj",
+      "hash": "f5eb0f51186f3506d82fd8cf13ff55db437be99e3c9c40a1841ecc73b9d37351"
+    },
+    {
+      "path": "meshes/203_singleTurretRaft2.obj",
+      "hash": "8aedcf174f1ca58a95ba7d821082a14c7b928f81f667a3a2ba3689be6a970885"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "1934_tower_mid_a.json",
+    "hash": "5d2f71d047c574a0c34fc3af00be6f7df787196ef308805f01bf89e73adf0c07"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/1934_Deckhouse_MidDefault.obj",
+      "hash": "2c2bd5d1c6a0690062fbefd9016baac9a221418c237cc28d2d6128fec2a878b7"
+    }
+  ]
+}

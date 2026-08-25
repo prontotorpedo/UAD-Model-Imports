@@ -13,6 +13,8 @@ moga_torpedo_l_x4,torpedo,A reversed version of moga_torpedo_x4
 moga_torpedo_l_x5,torpedo,A reversed version of moga_torpedo_x5
 vw_torpedo_x3,torpedo,Triangular shaped triple torpedo launcher based off of the ones found on the British V&W class destroyers
 ##,,
+1934_tower_mid_a,barbette,Resembles the middle superstructure on Germany's Type 1934 Destroyers
+1934_tower_mid_b,barbette,A version of 1934_tower_mid_a without the boats on the deck
 dd_barbette_mid,barbette,A generic barbette meant for use in the midsections of destroyers
 nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a
 tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
@@ -97,10 +99,16 @@ vanguard_hull,hull,Resembles the hull shape of HMS Vanguard
 ##,,
 agamemnon_gun_b_305_x2,gun,"The turret shield of agamemnon_gun_305_x2 is made slightly longer and wider, covering more of the turret base"
 agamemnon_gun_b_305_x3,gun,"The turret shield of agamemnon_gun_305_x3 is made slightly longer and wider, covering more of the turret base"
+baltimore_gun_203_x1,gun,"A single turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
+baltimore_gun_203_x2,gun,"A twin turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
+baltimore_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
+baltimore_gun_203_x4,gun,"A quadruple turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
 bertin_gun_152_x1,gun,"A single turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x2,gun,"A twin turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x3,gun,"A triple turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x4,gun,"A quadruple turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
+bismarck_gun_380a_x3,gun,A wider version of bismarck_gun_380_x3
+bismarck_gun_380a_x4,gun,A wider version of bismarck_gun_380_x4
 bofors_gun_40_x1,gun,Resembles a single Bofors 40mm AA gun
 bofors_gun_40_x2,gun,Resembles a twin Bofors 40mm AA gun
 bofors_gun_40_x3,gun,Resembles a triple Bofors 40mm AA gun
@@ -109,6 +117,7 @@ bofors_gun_40_x6,gun,Resembles a sextuple Bofors 40mm AA gun. Unsure if it will 
 cali_gun_356_x1,gun,"A single turret version of the 14"" gun turrets used on later US battleships"
 cali_gun_356_x2,gun,"A twin turret version of the 14"" gun turrets used on later US battleships"
 cali_gun_356_x3,gun,"A triple turret version of the 14"" gun turrets used on later US battleships"
+cali_gun_356_x4,gun,"A quadruple turret version of the 14"" gun turrets used on later US battleships"
 casemate_gun_76_x1_unshielded_short,gun,A shorter barreled version of casemate_gun_76_x1_unshielded
 casemate_gun_152_x1_short,gun,A shorter barreled version of casemate_gun_152_x1
 casemate_gun_150_x1_long,gun,A version of casemate_gun_150_x1 with the barrel from casemate_gun_152_x1 installed
@@ -124,6 +133,10 @@ courbet_gun_305a_x3,gun,A less tall version of dant_gun_245_x3
 daring_gun_114_x1,gun,A hypothetical single turret version of the Daring class turret
 daring_gun_114_x2,gun,"Based on the 4.5"" gun used on the Daring class Destroyers"
 daring_gun_114_x3,gun,A hypothetical triple turret version of the Daring class turret
+des_moines_gun_203_x1,gun,"A single turret version of the 8"" gun used on the Des Moines class Heavy Cruisers"
+des_moines_gun_203_x2,gun,"A twin turret version of the 8"" gun used on the Des Moines class Heavy Cruisers"
+des_moines_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Des Moines class Heavy Cruisers"
+des_moines_gun_203_x4,gun,"A quadruple turret version of the 8"" gun used on the Des Moines class Heavy Cruisers"
 dunkerque_gun_130_x1,gun,"A single barreled version of the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
 dunkerque_gun_130_x2,gun,"Based on the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
 hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2
@@ -137,6 +150,10 @@ mont_gun_152b_x3,gun,A version of mont_gun_152_x3 with lifeboats on top
 mont_gun_152b_x4,gun,A slightly thicker version of mont_gun_152_x4 with lifeboats on top
 nelson_gun_b_152_x2,gun,A version of nelson_gun_152_x3 without the lifeboats on top
 nelson_gun_152b_x3,gun,A version of nelson_gun_152_x2 without the lifeboats on top
+pensacola_gun_203_x1,gun,"A single turret version of the 8"" gun used on the Pensacola class Heavy Cruisers"
+pensacola_gun_203_x2,gun,"A twin turret version of the 8"" gun used on the Pensacola class Heavy Cruisers"
+pensacola_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Pensacola class Heavy Cruisers"
+pensacola_gun_203_x4,gun,"A quadruple turret version of the 8"" gun used on the Pensacola class Heavy Cruisers"
 pompom_gun_a_x4,gun,Generic quadruple anit-aircraft gun. Takes inspirations from pompoms and atlanta_gun_28
 pompom_gun_b_x1,gun,"Resembles a single barreled 40mm ""Pompom"" AA gun"
 pompom_gun_b_x4,gun,"Resembles a quadruple barreled 40mm ""Pompom"" AA gun"

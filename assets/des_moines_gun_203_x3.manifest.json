@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "des_moines_gun_203_x3.json",
+    "hash": "6773bc7b13639b2b3c88f2df09a29fb4bc75b0dc466401cde2976aa7ac224de6"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/203_TripleTurretRoof.obj",
+      "hash": "279ca25cedd076d3d3e988936de11faf82b33aa7b145db9a1f2b4a3158c3162d"
+    },
+    {
+      "path": "meshes/203_TripleTurretRing.obj",
+      "hash": "2e71b20ba48db44ea82fba4d44d82f72612be19c4a0dc7920cc83aa396fc5f81"
+    },
+    {
+      "path": "meshes/des_moines_gun_203_barrel_x1.obj",
+      "hash": "f0a76b2f6bf19e707e0d5f8e9c2e5a7fcf88412e987823a7fa4cf4187b251e76"
+    },
+    {
+      "path": "meshes/203_TripleTurretBody.obj",
+      "hash": "8b612c6567204dbbe8e4c16457c3472dc84de88a8f84c932fde68b2936102fa1"
+    },
+    {
+      "path": "meshes/203_TripleTurretRaft1.obj",
+      "hash": "343b5e34a4a26e8bd45da1c9ebd041901b0375d31c924b3638fc8ae24b6e6a1c"
+    },
+    {
+      "path": "meshes/203_TripleTurretRaft2.obj",
+      "hash": "8ec441bfe2ed2cca0043017fca0aac45389d8c8d34ad9a0b2d2051d4d8c9fdbf"
+    },
+    {
+      "path": "meshes/203_TripleTurretInterior.obj",
+      "hash": "c7aa46137a1e6e0a48e2ca270847fec3b85ecb79b7d334eb28aed800af938fc7"
+    }
+  ]
+}

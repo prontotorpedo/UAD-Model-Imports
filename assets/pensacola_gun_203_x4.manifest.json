@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "pensacola_gun_203_x4.json",
+    "hash": "62f102ebb7e15e9ea9fe1228103bca67dbb33af439f4fc1078bf8911750c82d4"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/203_QuadTurretRing.obj",
+      "hash": "251835cfed684780f2cb290f6169e09bf08b3e995b49819d314294d7df5a79c1"
+    },
+    {
+      "path": "meshes/pensacola_gun_203_barrel_x1.obj",
+      "hash": "a0fca8d90785094bb52bb424f70e05e29d4351446d9eb30808e6cf2a87efde0b"
+    },
+    {
+      "path": "meshes/203_QuadTurretBody.obj",
+      "hash": "1354979d63aad628bbadf0b03832fbd1cc22ef187a839017faf9f3d2609c9c57"
+    },
+    {
+      "path": "meshes/203_QuadTurretInterior.obj",
+      "hash": "adc06a930036c3cbc217938dafa3e4f48a62a187b33e450571ebf71e7b16baf4"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "pensacola_gun_203_x1.json",
+    "hash": "2c0372f36d6629ec0ff86cdaf963db724c93a19ec40142be78f97a5246904be7"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cube.obj",
+      "hash": "dd68136216aa4226c67ce35446e4d633a6fb95a194b0e8ca9f497f14b7260dc7"
+    },
+    {
+      "path": "meshes/pensacola_gun_203_barrel_x1.obj",
+      "hash": "8d3f747b57b0641d112d1282f2ac1409030ede4860e1e9a9030bd8ce27eb796e"
+    },
+    {
+      "path": "meshes/203_SingleTurretBody.obj",
+      "hash": "ba5f80d50cf16de420634eda48871ddd5f750268e12768a056939b96fb5dd032"
+    }
+  ]
+}

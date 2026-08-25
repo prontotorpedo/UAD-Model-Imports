@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "pensacola_gun_203_x2.json",
+    "hash": "13792c22bb44c3b39ae7c9214c4765576305ead3c465108520783da9f324068b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/203_TwinTurretRing.obj",
+      "hash": "60286015663542b89e916808f69667e7cddc5fe7803f3f71124f920dae27ed6c"
+    },
+    {
+      "path": "meshes/pensacola_gun_203_barrel_x1.obj",
+      "hash": "67996adaaa8ec9f276f7e0f487c50669e2b28a096882a806d93cd8de85933745"
+    },
+    {
+      "path": "meshes/203_TwinTurretBody.obj",
+      "hash": "464e9c28175a76b5abd5f0202b34c6469555a17cba002fb9c6aa048e54ba2c5e"
+    },
+    {
+      "path": "meshes/203_TwinTurretInterior.obj",
+      "hash": "44f8a827c8824edc44f36e3be8f0cf5ad0e995a12e6db303e0845a5a5bb91268"
+    }
+  ]
+}
