@@ -96,6 +96,7 @@ neptune_hull,hull,Based on the hull of HMS Neptune
 renown_hull,hull,Based on the hull of HMS Renown
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
 vanguard_hull,hull,Resembles the hull shape of HMS Vanguard
+weymouth_hull,hull,Based on the hull of the WWI Town class Cruisers
 ##,,
 agamemnon_gun_b_305_x2,gun,"The turret shield of agamemnon_gun_305_x2 is made slightly longer and wider, covering more of the turret base"
 agamemnon_gun_b_305_x3,gun,"The turret shield of agamemnon_gun_305_x3 is made slightly longer and wider, covering more of the turret base"
@@ -107,8 +108,14 @@ bertin_gun_152_x1,gun,"A single turret version of the 6"" gun turrets used on th
 bertin_gun_152_x2,gun,"A twin turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x3,gun,"A triple turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x4,gun,"A quadruple turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
+bismarck_gun_380a_x1,gun,A thinner version of bismarck_gun_380_x1
+bismarck_gun_380a_x2,gun,A thinner version of bismarck_gun_380_x2
 bismarck_gun_380a_x3,gun,A wider version of bismarck_gun_380_x3
 bismarck_gun_380a_x4,gun,A wider version of bismarck_gun_380_x4
+bismarck_gun_380a_short_x1,gun,A thinner version of bismarck_gun_380_short_x1
+bismarck_gun_380a_short_x2,gun,A thinner version of bismarck_gun_380_short_x2
+bismarck_gun_380a_short_x3,gun,A wider version of bismarck_gun_380_short_x3
+bismarck_gun_380a_short_x4,gun,A wider version of bismarck_gun_380_short_x4
 bofors_gun_40_x1,gun,Resembles a single Bofors 40mm AA gun
 bofors_gun_40_x2,gun,Resembles a twin Bofors 40mm AA gun
 bofors_gun_40_x3,gun,Resembles a triple Bofors 40mm AA gun
@@ -156,6 +163,8 @@ pensacola_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Pen
 pensacola_gun_203_x4,gun,"A quadruple turret version of the 8"" gun used on the Pensacola class Heavy Cruisers"
 pompom_gun_a_x4,gun,Generic quadruple anit-aircraft gun. Takes inspirations from pompoms and atlanta_gun_28
 pompom_gun_b_x1,gun,"Resembles a single barreled 40mm ""Pompom"" AA gun"
+pompom_gun_b_x2,gun,"Resembles a twin barreled 40mm ""Pompom"" AA gun"
+pompom_gun_b_x3,gun,"Resembles a triple barreled 40mm ""Pompom"" AA gun"
 pompom_gun_b_x4,gun,"Resembles a quadruple barreled 40mm ""Pompom"" AA gun"
 qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
 qe_gun_114b_x2,gun,The qe_gun_114_x2 without the ring around the base of the turret

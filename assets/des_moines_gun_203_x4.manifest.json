@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "des_moines_gun_203_x4.json",
-    "hash": "29982b3b42b8663c37ce35ef4432cb7bc365de9d6d4a83c1c50d6b068004a02c"
+    "hash": "96ce8dd8478a817f827ed486973a91ff70639121167c7957ec629d1b2b09c411"
   },
   "dependencies": [
     {
@@ -13,12 +13,8 @@
       "hash": "c0f059ac0dd06679eac7905ef64e0debc1b6460ef39d831b30451b6ea46a84ef"
     },
     {
-      "path": "meshes/des_moines_gun_203_barrel_x1.obj",
-      "hash": "afced290243cbdf398c7ac17dced15017ad2b343847c5abc52ead9713a2410b8"
-    },
-    {
-      "path": "meshes/203_QuadTurretBody.obj",
-      "hash": "6c46aa0b06e1761d75f3edfc2b71bb38583d5aa8318aa5a3f4ae54a9cc97c38e"
+      "path": "meshes/203_QuadTurretiInterior.obj",
+      "hash": "5283cf677cd723967f8dc134a17d2582cc3c461ee9f1488d43a900d9a1efcdef"
     },
     {
       "path": "meshes/203_QuadTurretRafts1.obj",
@@ -29,8 +25,12 @@
       "hash": "817e1469f3baa3e51025cb3771fb1926a8a73b4c6b32feaf1508b0fe15213240"
     },
     {
-      "path": "meshes/203_QuadTurretInterior.obj",
-      "hash": "9ec58f2b170959d2e1b1bd6ee5238b32d9003b8afe99a662427ab0cbab33e268"
+      "path": "meshes/des_moines_gun_203_barrel_x1.obj",
+      "hash": "26032e50374e435ebef80a6ae074422cdc7154832e1816222ad4f35543343c94"
+    },
+    {
+      "path": "meshes/203_QuadTurretBody.obj",
+      "hash": "0bb0a1f499b12fd3100e20fabba4c3b27905b01626a080161b0506e05a42c146"
     }
   ]
 }

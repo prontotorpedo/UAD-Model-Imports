@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "belfast_tower_main_c.json",
-    "hash": "aa7c88ffbb4277319dab922d50fd3c3e4a7cd907a378bba48693153fb75a5faa"
+    "hash": "7445b22fe80e7cdf7e6b5f6d0328aa96c89a425df5eb3d098ed08ed630ba96c2"
   },
   "dependencies": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "path": "meshes/Dido_Deckhouse_D1M_001_1.obj",
-      "hash": "51ee292bbaf4b116b050b4c547990c45c0b795761055f7db04a350980d73e6cf"
+      "hash": "3f2b1f754bc509bf4c91c0e7e9e189694503dd9e027b5ea76b63cbc61190153d"
     },
     {
       "path": "meshes/Dido_Deckhouse_D1M_001_2.obj",
@@ -18,7 +18,7 @@
     },
     {
       "path": "meshes/Dido_Deckhouse_D1M_001_3.obj",
-      "hash": "3d4605261ba75098d4588121353b02b743d775d5d184d1dc20e50e3d1a5c1a6a"
+      "hash": "a54ff6164e93c25735dc40617fbabf0bf6213dee0212e5cfd4d7bdc0510241ff"
     },
     {
       "path": "meshes/Dido_Deckhouse_D1M_001_4.obj",
@@ -34,7 +34,11 @@
     },
     {
       "path": "meshes/Dido_Deckhouse_D1M_001_7.obj",
-      "hash": "5c8f8f9ba6010a4e72ede0d48137cc821068e0bc7340e0bcf2e97b1cbdc9a814"
+      "hash": "14d28bbc5dd393755e9bc1eaa17f31587d2f5cfcbbbced94648a103e691cd5d3"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_2L_A_001_0.obj",
+      "hash": "4387e43090296d71e78f5893e0a3c263a051912525cbd9e898497b00ddad282b"
     }
   ]
 }

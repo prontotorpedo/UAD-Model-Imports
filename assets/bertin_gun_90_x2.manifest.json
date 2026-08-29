@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "bertin_gun_90_x2.json",
+    "hash": "4619f0dcb80ecdac3c4a30cfa3a063abb86eba4ef4e9112159ff39411f98b5da"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Spee_gun_150_barrel2_001_0.obj",
+      "hash": "7d13ee174857367113a83280029fb4d61d988c757a5483dcebd25ce249c6cbae"
+    },
+    {
+      "path": "meshes/Spee_gun_150_x2_001_0.obj",
+      "hash": "c8fdcaa7cf63bbc0f94f2ad968820dc6e890c0bae8c11f3731bd513ec316909f"
+    },
+    {
+      "path": "meshes/Spee_gun_150_x2_001_1.obj",
+      "hash": "0af84db471e04934f6ac1b46983674996b1530d2e1afb141c82cc8406f66842b"
+    },
+    {
+      "path": "meshes/Spee_gun_150_x2_001_2.obj",
+      "hash": "80c7538be7c9410978ef1a9b1e77325d24c54d0e86e7c62c7389093f80ff5f37"
+    }
+  ]
+}

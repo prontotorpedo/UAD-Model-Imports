@@ -1,128 +1,128 @@
 {
   "main_file": {
     "path": "usa_standard_bb_hull.json",
-    "hash": "1e385475137fa6a854fc37e46cf3bfea259566975076c2fd6a47fd46dd4fa4c9"
+    "hash": "caf6d29332be4b5c745eb8a20ce018180a171444893dc32d8bad772a8a8664fe"
   },
   "dependencies": [
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_0.obj",
-      "hash": "0798c66a1a887e11f163b72b8fc6fe42d63c88fe5d9501b980252292e661c6f9"
+      "hash": "308438cfaf7cdd5c875cca5ee132db0e871f32db21a5b8d1da26edc47ada15e9"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_1.obj",
-      "hash": "42c383d5f42eea9e87a01826a35dbd6cc5b6473e410ece3c630e7c75bc0c7e0d"
+      "hash": "c03d96d767a98286950b63a371d2167ffdc80a8cdd8d83bb44bb3be1873b5579"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_2.obj",
-      "hash": "b7a97910dab35f43d5aefff7d3cefc6d22f3db41011ebe47e0d69317d8b27ac6"
+      "hash": "8f4210ddde83407eafc9d93c6667c1f40ed962062e69e9e72cf65f877cfa04a7"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_3.obj",
-      "hash": "9bdcba77c3f484a845cae323107d50195e5157192a4d5eab790bb7215d663151"
+      "hash": "fdd49bab7d93497b7ecb1a04d254fd7f50a934c4dea57fb9e85fb9757a7e8104"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_4.obj",
-      "hash": "48bd0e14a31ab8397c6cd23fbcab9f2e1fcfef1700eaf3925fcacddb8dfa11c6"
+      "hash": "c7f590bc582f32fa3da68940b90b76dccfce3567ef5957235e3b9c99460259bb"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_5.obj",
-      "hash": "8183ee88bb8baee788c7267ddf5536fffebd135f866bd45b1985deaa841c14a8"
+      "hash": "bb9c7c1d4c66d351e7bbd60974bd5a4e8ebffb13564be6246deea83eb5ffce24"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_6.obj",
-      "hash": "611e18406ec77420fcab7ea1ca719a83547a4d4d59273e53abc0d4af2574b137"
+      "hash": "2b01ede5029cc87813b973bf638ec17657ce09b63ce49caca1f61784266c9350"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_7.obj",
-      "hash": "f536fa2dd39c48ab651721100980bfc8a431df3c75bb5881897bd288f6c0111d"
+      "hash": "1e52fc65d0a63deb45ebcd3704891f52a4341dc8bff8c7d86c6f4ea326a7aa8a"
     },
     {
       "path": "meshes/Ariz_Hull_Rostrum_A_001_8.obj",
-      "hash": "bcbf10482ed9a44bc7ce4c897dc3f140f4369917f30d7358c69851bac8bb3205"
+      "hash": "245e14cd8be572043fb5b235bcf39e8c27b0d1ac9f428a433b1e927593d7869f"
     },
     {
       "path": "meshes/Cr_Lifeboat_T_A(L)_001.obj",
-      "hash": "7ba68227da25f701810392533c32d4d282f595db6cb8712605ccfd8a8ea4b066"
+      "hash": "a79fcbfc7c5b289f8b7f0740566ff4c14259d068db83743c1e302858593a25d4"
     },
     {
       "path": "meshes/Cr_Lifeboat_T_A(R)_001.obj",
-      "hash": "f8279298b9b9a283c2e8d665d6a2c415de00b74c34e38f7361b27b9db0bc479f"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_0.obj",
-      "hash": "f9b66116bced5dd3073a8a74fb54de5dd80ffde3d4759f246413501967c59ceb"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_1.obj",
-      "hash": "784550fdacefb4c9c24bff1f232473ffed68d571c390f69af06bd9f23926f39c"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_3.obj",
-      "hash": "a3eb3ea7638c694c1eb14ef89de6f4412dc62b6a1a41e0c7ca51b9288320ad50"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_4.obj",
-      "hash": "d530b165fdfd104c852691282da17a03ca6675b050f791f977fa52bedddae988"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_5.obj",
-      "hash": "22f471841b7937760e2e943c3a95c7ecc0179ec20abd8b88136301ca08465b26"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_6.obj",
-      "hash": "e629eef19e5fc086068d340ea0c6d3a9769f3ee0a92cbce66205dedf97d72f23"
-    },
-    {
-      "path": "meshes/Tex_Hull_Midsection_WR3_001_2.obj",
-      "hash": "fb726332dc3f95f642637ab26899ca07884f7ce88272b2ded514a4a434a1a400"
+      "hash": "64ad9fb387659dfa5114e2b750748162a924bfa247b8bec4355375529f7c25bc"
     },
     {
       "path": "meshes/Cylinder.obj",
-      "hash": "f0c0b5341b7ec0b81d62f2a5cb2392f32cd3e086791580ff6c50d31af4c734c8"
+      "hash": "8bce5c628581be9d689eb4d60508d7baca637d34efde2720a655f92200d16c18"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_0.obj",
+      "hash": "04bfca895cf7c082dca16b6e96e10e34ddc888503252e5ca17c3a673bae75a8e"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_1.obj",
+      "hash": "2a55682d5410ccde65f098e14abd1c6092f97b984de013bc161e8537d37aa5c4"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_3.obj",
+      "hash": "b6e63bbe7d77bac8b66f1e09658e20f1a09d783d257e1f3bc1288c68994e546f"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_4.obj",
+      "hash": "8ab4e9cfb48c34048ad47d4c24645233c6cf77c22b81eb59af4a199acc40deb3"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_5.obj",
+      "hash": "274ab939c06e003d5505cbaf11e84340be08a231373c953705a5bd320009ee28"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_6.obj",
+      "hash": "b15987aa603adbc4a4907240b21dc9b8cd4663a03489cf161a223ac8ef3e94c5"
+    },
+    {
+      "path": "meshes/Tex_Hull_Midsection_WR3_001_2.obj",
+      "hash": "57389c7d61e11c4680753ab87a991d27608ea556f749df1fd928cffd4e8aa87e"
     },
     {
       "path": "meshes/Tex_Hull_Midsection_WR3_001_9.obj",
-      "hash": "98b6ac8538a5623a83568c32cc0ddac71cd19805403b5eb06d830ee6c74335f5"
+      "hash": "7dc1f93995a637c16e25f9ed7f29f7f377ab64267a326662c9b80a53a8425b90"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_0.obj",
-      "hash": "982c2bf7761668a34dd0edfcf8f56f48e600e2a952e858f02c245aec712baa6b"
+      "hash": "f60b37db957456984fd4340808f004c52cdffd059b0846ad4ee2ad6a01736eaf"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_1.obj",
-      "hash": "8fe497b33e253a2b37b9361662253f624a0f0da1358cf2b1d6f1ef2504308501"
-    },
-    {
-      "path": "meshes/Ariz_Hull_Stern_A_001_2.obj",
-      "hash": "cbb440078e0c24409823b5d7d1288e3f83024538d6447d25022f838eed9f3cec"
+      "hash": "3c6a1fe94591f1f6f7c2f1eeeccb2247f00bf0dbffb8a329edf77c4ba7570b1f"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_3.obj",
-      "hash": "97d755b013c383ea6b723a5dc0361bf63a6f54f4aa1d97bd4aa69b2c4cdaf4ad"
+      "hash": "0be001f39048e509cbbc206e08473e6193ef36869881a3b04506501826102403"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_4.obj",
-      "hash": "02331769b6d169456daaebb075f3d8a87a424e11def80a4441894d11f0bc7b45"
+      "hash": "f8dcbb6abe29394746d1273a18d1ba5985da53ad97c39a56552f2657ae06719c"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_5.obj",
-      "hash": "967461dcafdccfe9f3c8baa04da2285dec51f9ee9943b9046d889510f5181236"
+      "hash": "e8a82afb242ba37e47f422cca25068f6ec4029b0a7bc52c3173499dd5f29947d"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_6.obj",
-      "hash": "b56ad1e1d8f0d24deebf5f1766f9d21c211f87eb5bac6d59059416f544c67c1f"
+      "hash": "dc90c57c0abc3c9fd13afc49237aaca03d8f370991d0da2e06776094412cb1ce"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_7.obj",
-      "hash": "b29cd06e6bce9c34c5d826a21562befad5818859652bb8d2cecccb4f9d9e40fa"
+      "hash": "e640744d0fb2ff91b9181b2cfccef5bb5a7f9aed40539a936d3d30b2c0e9e696"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_8.obj",
-      "hash": "c720c563d7da6eb12bf9e095bbd1de7c898f7bb84c0a69a4762a9fb9aaa0cfe1"
+      "hash": "6de537d174f054069964501301601c49a660cc3dbd63d586686d63b90e1e0cb2"
     },
     {
       "path": "meshes/Ariz_Hull_Stern_A_001_9.obj",
-      "hash": "6edaf91cb83e8e0548fa460af8fd4b48cc31b83bd05d6e72aa74dd9c0ac927ce"
+      "hash": "710f33aaccdddcc23eee07841cb1c52c0b96274ccb131987872bf85bb5444be3"
+    },
+    {
+      "path": "meshes/Ariz_Hull_Stern_A_001_2.obj",
+      "hash": "5e3ba58b93f7001e8abed10d53d00683654116af40554c9a00250a9757fcfaf8"
     }
   ]
 }

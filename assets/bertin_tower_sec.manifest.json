@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "bertin_tower_sec.json",
-    "hash": "32157c2fecc3e128d9a010de39fce85db37c75bef1bc45cf3cb5fc7ef3839394"
+    "hash": "547eccc715e5dea25820e7d6c6788338b40c1ca3676e273e8aa6ae19bc3a79bb"
   },
   "dependencies": [
     {
@@ -10,11 +10,11 @@
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_1.obj",
-      "hash": "cc202a974924995a9f4210d1ccea60997331b106bdc29bfabb6e83f026ad6651"
+      "hash": "af8c8e989c8a96042ddf90ac4041e915cf52080877f67fd76a321d4b075359b6"
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_2.obj",
-      "hash": "b7100c2277952571fc3bf8a83d115659c99c37d8d62682f79077930537464e71"
+      "hash": "ddabcaa6bb8dd3c7a07d6e2f4f632fa7bdec8b2c80c9ec6c3f2035709eb5ab0b"
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_3.obj",

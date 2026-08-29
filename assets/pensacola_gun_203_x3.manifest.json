@@ -1,24 +1,24 @@
 {
   "main_file": {
     "path": "pensacola_gun_203_x3.json",
-    "hash": "0480344a5623983fd4c8f1f3d8db86448989a767b55dd8a778fd4916ff940667"
+    "hash": "d868a2f203c768548e55fba44d05c3adf8f1e7bd02c5a2c70c3df13c13fd8bde"
   },
   "dependencies": [
     {
       "path": "meshes/203_TripleTurretRing.obj",
-      "hash": "19d5acf8fceabffbc30c95c0b0994864a616c471d70e3bb640da73184cfd0adb"
+      "hash": "618eb79677f37be554b54cbf43c421235cc6eaab2fdfd8e8263697be9f23a682"
     },
     {
-      "path": "meshes/pensacola_gun_203_barrel_x1.obj",
-      "hash": "1cdda940056d5d5c6b40a801f16532b91eb616ac08a9d1bbbb4e19ea62035343"
+      "path": "meshes/baltimore_gun_203_barrel_x1.obj",
+      "hash": "3ef344924b1dadeefed90a45a7fc92198d0c6da59ca4e07f672d792504ea5f27"
     },
     {
       "path": "meshes/203_TripleTurretBody.obj",
-      "hash": "9401de355e9baffab9f4b075af68b2f5544ef5ca1f41c30e32cd1bec82f0862c"
+      "hash": "84da3169c1f5a1be340b71f9293aedc2a5e7220bc75a7a5227f77ed9610c0ba1"
     },
     {
       "path": "meshes/203_tripleTurretInterior.obj",
-      "hash": "ae5e8617353bd93652d5cae59eb46ba5ffc3db1df6a542300cf40375d47dd47c"
+      "hash": "34f7d854352858e18a617917bacef12a119269100f15ee559063e9ee0de911c3"
     }
   ]
 }

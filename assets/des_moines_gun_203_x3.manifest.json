@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "des_moines_gun_203_x3.json",
-    "hash": "6773bc7b13639b2b3c88f2df09a29fb4bc75b0dc466401cde2976aa7ac224de6"
+    "hash": "6df96c32f35ba38ab99f12a1b73400566a1b87343bfeeb1a9333e15a144d1ad7"
   },
   "dependencies": [
     {
@@ -13,12 +13,8 @@
       "hash": "2e71b20ba48db44ea82fba4d44d82f72612be19c4a0dc7920cc83aa396fc5f81"
     },
     {
-      "path": "meshes/des_moines_gun_203_barrel_x1.obj",
-      "hash": "f0a76b2f6bf19e707e0d5f8e9c2e5a7fcf88412e987823a7fa4cf4187b251e76"
-    },
-    {
-      "path": "meshes/203_TripleTurretBody.obj",
-      "hash": "8b612c6567204dbbe8e4c16457c3472dc84de88a8f84c932fde68b2936102fa1"
+      "path": "meshes/203_TripleTurretInterior.obj",
+      "hash": "6017e865e2e0dce31afa2e5b11ea6a51f27f45b94da4fce41f4cb8ca528a3347"
     },
     {
       "path": "meshes/203_TripleTurretRaft1.obj",
@@ -29,8 +25,12 @@
       "hash": "8ec441bfe2ed2cca0043017fca0aac45389d8c8d34ad9a0b2d2051d4d8c9fdbf"
     },
     {
-      "path": "meshes/203_TripleTurretInterior.obj",
-      "hash": "c7aa46137a1e6e0a48e2ca270847fec3b85ecb79b7d334eb28aed800af938fc7"
+      "path": "meshes/des_moines_gun_203_barrel_x1.obj",
+      "hash": "e7938fd768335db38cad1de2d7eedf4cb9254b04aacc1dd2f5f933e6770f596e"
+    },
+    {
+      "path": "meshes/203_TripleTurretBody.obj",
+      "hash": "885b49d64798130de58e33093fea0e8f6e27b24c2ecde5aad994c9dd1ec6b608"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "pompom_gun_b_x3.json",
+    "hash": "575ec4398e738478fe45bcd878916d659f877eaaf5a7a008184cc562f2f3f640"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Atlanta_gun_28_x2_main.obj",
+      "hash": "5b3800af9e495c6ff6ed31f48043aec258f0660d9cb22fb74d532ca61314a56e"
+    },
+    {
+      "path": "meshes/Atlanta_gun_28_x2_base.obj",
+      "hash": "02c1e98b6df3ffb0a46eafc295699c3a7fab79d95f06d9063755eca01c85299f"
+    },
+    {
+      "path": "meshes/pompom_barrel.obj",
+      "hash": "652b2e4550d53318e4ef67d778e7165245b53ebbd385615c0969ee07243ecf9b"
+    },
+    {
+      "path": "meshes/pompom_traverse.obj",
+      "hash": "479ce6d9ab1c253bee6b87ce5802e97564663e4373a1a7f3c942ea762997ba45"
+    }
+  ]
+}

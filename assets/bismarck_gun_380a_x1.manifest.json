@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "bismarck_gun_380a_x1.json",
+    "hash": "ee74217a136cb2b5bff65734231c1eac5cf2c0ad7f6aab54ba324c02654e92f1"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bis_gun_380_x1_001_0.obj",
+      "hash": "8fb6d4df00bc74fd19e7c635de8d0768b8425bc6fd75fe01507cf519385f33f2"
+    },
+    {
+      "path": "meshes/Bis_gun_380_barrel_001_0.obj",
+      "hash": "169dab223fb5eea67c5043e6e392c37c1c187109e94b0b63ad9c1f18c3300450"
+    },
+    {
+      "path": "meshes/Bis_gun_380_x1_001_1.obj",
+      "hash": "18e8b59e4a135841e15941dff441189b9efb6c2fce26aba00514e370fb2caec0"
+    },
+    {
+      "path": "meshes/Bis_gun_380_x1_001_2.obj",
+      "hash": "30adc01773e2a3438cb9863dc012572a77744c48b061b0523b18c7bc3766b8fb"
+    },
+    {
+      "path": "meshes/Bis_gun_380_x1_001_3.obj",
+      "hash": "77aa34c05bdb3d99cfad6e68b5853c3c5d080ee0bad0f2ff5565354c455fdc5c"
+    },
+    {
+      "path": "meshes/Bis_gun_380_x1_001_4.obj",
+      "hash": "971079404e5949d7edfb0192fb6964a5e53ea96e60f5d6004477a29e62da8556"
+    }
+  ]
+}

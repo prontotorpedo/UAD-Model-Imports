@@ -6,7 +6,7 @@
   "dependencies": [
     {
       "path": "meshes/152_SingleTurretBottom.obj",
-      "hash": "6a18bc346b25de3b79307e38efdbc98473dadfa364060b962e14741e8bdc2d61"
+      "hash": "0625b15e262e01902e9bbd61a157c8fb1c3a3b200881c73eb3a0849315102fe4"
     },
     {
       "path": "meshes/worcester_gun_152_barrel_x1.obj",
@@ -14,7 +14,7 @@
     },
     {
       "path": "meshes/152_SingleTurretBody.obj",
-      "hash": "f6948865ac849c3c6e2bfffb7d99f7d2e8661280acb302ab1299d026c2fe03e0"
+      "hash": "2eb1a73d7d3b0f5ebb0f538b0d91666038d3e8e1ede773fd672d5d5f1beda82d"
     },
     {
       "path": "meshes/152_SingleTurretRing.obj",

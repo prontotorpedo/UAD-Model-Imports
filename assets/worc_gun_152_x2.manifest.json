@@ -6,7 +6,7 @@
   "dependencies": [
     {
       "path": "meshes/152_TwinTurretBottom.obj",
-      "hash": "f8b48be488bb001f473d30c9c9c3d3b4175a2ecc9fc76970ad0528f05c6f4267"
+      "hash": "98f01cc9826f4bcae7dda557e23db80e20a4b315c448fbb61ec5b50c6a00990d"
     },
     {
       "path": "meshes/152_TwinTurretRing.obj",
@@ -18,7 +18,7 @@
     },
     {
       "path": "meshes/152_TwinTurretBody.obj",
-      "hash": "3e2959df792caaa940d0cf1631e90f18883218259ffe79b13aaebf7e2a606068"
+      "hash": "785b76ca8dd966481dac326a0816cb9ad019d053d2e935d416c4cdb456e88bd0"
     }
   ]
 }
