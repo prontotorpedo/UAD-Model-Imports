@@ -1,96 +1,96 @@
 {
   "main_file": {
     "path": "cali_tower_main_b.json",
-    "hash": "a51fa1542f99ab97f6ee5b11a1c6467ed55bb9b441d362f32f2c5715bf35133b"
+    "hash": "9072221970f0530541fb738f8eee26771b022b486b16bf98922e4fd1a63f7828"
   },
   "dependencies": [
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_0.obj",
-      "hash": "d2cd02fd3b0c59efbf1172d9b962a26adc327506dd35f49b7102b994c0d4432d"
+      "hash": "3f18e459d587a329111eba930ab9919b514ee4d731c5ad5d129cddc3d571752d"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_1.obj",
-      "hash": "0d3f4ec1937c3387fb3ccd14e621d6cb6c90d5169c5fcd830e641288d33923bd"
+      "hash": "ebde9cbe3bf7c886a684ebc86753620024d8f2c6272cb81cab569452d36f1fd7"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_2.obj",
-      "hash": "c612f9fc5a78c144adf151150c26bde9ba64671724bac6275ca4418d41896785"
+      "hash": "a7427054e8cccafbee4463f45e863e441c49e9a3d6be447af9f12e60d166163c"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_3.obj",
-      "hash": "daf6c1c535a0ef9c13785bf945e7c06ce67338ff94c81182b91b99fa37c6aeab"
+      "hash": "ef89a5179e88cedfded144b36a156a362e24777585101d5438bbe212076805cf"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_4.obj",
-      "hash": "02623cb4d0ee8cd1022e79adefa9c9805385e22db39079f1bde67bcdfac5421c"
+      "hash": "8eba397a0b96ff14bca12d658b3833a6e86facdc2045a533fcf7396d5e2f795a"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_5.obj",
-      "hash": "67902eb83e61ceeede1c623f6861951897a3b9e9170c85fdee34e17d457ac17a"
+      "hash": "cf24a2a22875097bebd3ff5d3111b2dd6aa11a1ced1517028789edf422ad012e"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_6.obj",
-      "hash": "ae0ee0d62b1c0603a0fd45fc94184e1755d79d1c97a2b9d114e8eed89bc45417"
+      "hash": "4ba1a4e7a671bcc13a3f894bbb7494bbdb12d640973fc48862099f0bc18f0837"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_7.obj",
-      "hash": "2a0f4e56bb0ee8fe601b27174e41e784af246a5335e6f70d750a6c4a65448b71"
+      "hash": "e97a98fad3e4f7797e527baa818c2d43efaaa8e2bea57961565d2c17079b7e37"
     },
     {
       "path": "meshes/Tex_Deckhouse_maine_WD1_001_8.obj",
-      "hash": "d23bea5715cb37fc5b7f5c1580b15d02fcd0c8101dd7c186fe4b15551a61fc41"
+      "hash": "ddbeb03bcf36f4643d55597b820b492829b2ee8d698fff8c5e0cc6c4f081005e"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_0.obj",
-      "hash": "f85a1f406e162bf52dbd878862eb032bdab1e893cd6eca26d3e9cad2fe2b427a"
+      "hash": "0fcc510bb867d9672ce4757d319008faac9fc15fac85e11160af957c959318f6"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_1.obj",
-      "hash": "f2c1d7d9cc3c438dcf4eeeba10edafc60415020e73019d73e652e37a65c2d79c"
+      "hash": "eaaefa40ac6d80663dc30a017f7deb6e683f15e93238ef9a83f7b9911921da2b"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_10.obj",
-      "hash": "223759699c89e806312ed06a5f998d5dc30fd01830455baf659f1a72efc1808d"
+      "hash": "a85537f589ec425083205598bc499669755d4c37b78ed3392068a9d92e409fb2"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_11.obj",
-      "hash": "782cf882726bd41737171eb40d6b77ae17ab8b7955e6aceca6f03038520ecf6a"
+      "hash": "f849b74c075a39387ff77ccb544b1cdbc7928de76b6f08250e84730968189fd2"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_2.obj",
-      "hash": "ac1b2c1dc5bc0e6622bae2e3ade09d3344f9fbd51f3f19ca33001e6b2606006e"
+      "hash": "2c77d50b1836b779f9d169aed3e074af884cc4d5ddaa507463263ffbbf6d311f"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_3.obj",
-      "hash": "44489c7e603e270b3f734cc449f1ba76cf0086b5069d97f6514cf0b865c4f670"
+      "hash": "eeaf2ab0eafe025892a33e50fc19e54bd52b478866c583d87cd24f6542a01209"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_4.obj",
-      "hash": "8b537100dac0c8fb94e66b9fc8e8a1103525dc4ac91704462ffc2a45942ab383"
+      "hash": "abd4085b3efe497891037f98458f0e8857b5bb93edb5730bd964190983f9eee9"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_5.obj",
-      "hash": "e410f812aa3abbdbe5aa4e5d78d94abbea06dc9e776c405c9bfa8cc21ae27b9c"
+      "hash": "fc08f7484bbd9b569ac2b20afab577af898261d49dca7fcb5893b7f6d7a9a2a8"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_6.obj",
-      "hash": "4fe60f76f207305555453d7ab10085e7acccbe1cf7ee006f0c413167a11900b3"
+      "hash": "f40f06ac95f0480da5174a34ec323f9042c7440c14efd3eaa995f35517c6e37f"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_7.obj",
-      "hash": "b7cd6646c406344d8a12ba4e95875c0fd9db5562bcda5b5617ee8c46857f3803"
+      "hash": "268a08fe695fe0f1d26ac33a90911ff88b36a33f0b5c5e9e10a902f2c61c37a4"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_8.obj",
-      "hash": "c20b90810dbaed2359bf74bb27f2fff75bb01949af70a39b7af1fb1070e421d5"
+      "hash": "f9182253269401b0497434571342d49ad2e72ceb78f13774a0d3cc00c1619dff"
     },
     {
       "path": "meshes/Pen_Deckhouse_maine_A_001_9.obj",
-      "hash": "905ba32c753f4164d50071fa1719aaf53fe2643c91c5c19b26befe4c173980c3"
+      "hash": "b88c8343ccafa7605f86639b2e2fe81253a78d3bd65c6da096e459e8bee0b313"
     },
     {
       "path": "meshes/Cylinder.obj",
-      "hash": "abc0e5bb5528abc3c78f9562754c54e996cf9e02b2cbfdee8e7a94cbd47281c4"
+      "hash": "bbea6a017a6906b0ecc029063ac54b327d34ce27373203a93db49125f5fc5a49"
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "dupleix_gun_203_x3.json",
+    "hash": "9ed2a5c5a7b53cf1e57b1b976db7b323b5f27559dbebd30d07b39becd7197784"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/USSR_gun_100_x3_001_0.obj",
+      "hash": "aa1b121858e4fc8206daf73cdbf018803903eb9d5065ffaed1f7aea97fc751ad"
+    },
+    {
+      "path": "meshes/USSR_gun_100_barrel3_001_0.obj",
+      "hash": "22716c9b8b31267913e391116f34d8f8d9be9bb2ccc69cebcb230ae8201bc0f4"
+    },
+    {
+      "path": "meshes/USSR_gun_100_x3_001_1.obj",
+      "hash": "952479ece95463f78e08e212aea7ece6452524d5dd255f986cee8672e09e7a19"
+    },
+    {
+      "path": "meshes/USSR_gun_100_x3_001_2.obj",
+      "hash": "0f49bed21acefcbfcade6f2723292d9e42224eae0b8828ee3a7d189ff03c4710"
+    },
+    {
+      "path": "meshes/USSR_gun_100_x3_001_3.obj",
+      "hash": "749a3cbe0549491a61278238e25e29e70112fca79d526fc4a65af2a9f9f8df24"
+    },
+    {
+      "path": "meshes/USSR_gun_100_x3_001_4.obj",
+      "hash": "361eafbfaebb313095d7e41334c528640f54e121ad24dce52cabd147933609eb"
+    }
+  ]
+}

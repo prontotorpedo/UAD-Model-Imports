@@ -31,7 +31,9 @@ belfast_tower_main_b,tower_main,Based on the front tower of  the modernized HMS 
 belfast_tower_main_c,tower_main,A slightly narrower version of belfast_main_tower_b with a smaller barbette
 bertin_tower_main,tower_main,Based on the front tower of the Emile Bertin class Cruisers
 cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
+cali_tower_main_a_var,tower_main,A version of cali_tower_main_a with a cage different conning tower
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
+cali_tower_main_b_var,tower_main,A version of cali_tower_main_b with a different conning tower
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
 g3_tower_main,tower_main,Based on the main tower of the unbuilt G3 Battlecruisers
 hawkins_tower_main,tower_main,Based on the main tower of HMS Hawkins
@@ -146,6 +148,8 @@ des_moines_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the De
 des_moines_gun_203_x4,gun,"A quadruple turret version of the 8"" gun used on the Des Moines class Heavy Cruisers"
 dunkerque_gun_130_x1,gun,"A single barreled version of the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
 dunkerque_gun_130_x2,gun,"Based on the twin 5.1"" gun found on the French Dunkerque class Battleships/Battlecruisers"
+dupleix_gun_203_x2,gun,Based on the main guns of the French heavy cruiser Dupleix
+dupleix_gun_203_x3,gun,A triple turret version of the guns on the French heavy cruiser Dupleix
 hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2
 laudon_gun_350_x2,gun,Based on plans for the twin turret of the Ersatz Monarch class Dreadnoughts
 laudon_gun_350_x3,gun,Based on plans for the triple turret of the Ersatz Monarch class Dreadnoughts
