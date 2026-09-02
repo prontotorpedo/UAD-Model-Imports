@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "dunkerque_funnel_b.json",
+    "hash": "06b6197062bac4f7f4a16fbecba2b00f7d34c4dbf3c9530b8e9ee03771b9e1d9"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/P_Spotlight_A_001_0.obj",
+      "hash": "3178ada61ac906a9f465def5bc5c80674e81046bdcd8da4de90e0d2a4df064d4"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_0.obj",
+      "hash": "3309c7f5f48c347b371e22f94025ecae057b0dc08ba65b9d179fc5c3e783eaf5"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_1.obj",
+      "hash": "bef29e1f1b73123bed1748e7a8f8c89aee0f5a0eb73d3fb1431ab250fd4f8335"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_2.obj",
+      "hash": "7768fd238ef383db2581fc468652ea5c10c0b6e143967bc2f1db2febbee738e6"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_3.obj",
+      "hash": "bf81bfde9a8534056bad11ebb11ccbe6193b7cb9fa7155f35feef0eef520ab94"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_4.obj",
+      "hash": "1d2d594d15655c9274ec3c693bc59eab3bec55dc25c153bd4759966af92fc29b"
+    }
+  ]
+}

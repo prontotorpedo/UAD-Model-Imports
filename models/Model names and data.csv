@@ -20,6 +20,8 @@ nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a
 tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
 tribal_barbette_main,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers
 ##,,
+dunkerque_funnel_a,funnel,Based on the funnel of the Dunkerque
+dunkerque_funnel_b,funnel,Has extra superstructure compared to dunkerque_funnel_a
 vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 ##,,
 1934_tower_main_a,tower_main,Based on the front tower og Germany's Type 1934 Destroyers
@@ -92,6 +94,7 @@ dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear
 hull_393_a,hull,"Based on Design 393, a plan for a hybrid cruiser carrier based on the Brooklyn class Cruiser"
 hull_393_b,hull,Design 393 with a symmetrical stepped deck
 hull_393_c,hull,Design 393 with an asymmetrical stepped deck
+iowa_hull_b,hull,A shorter version of iowa_hull_a
 iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoughts"
 king_edward_hull,hull,Based on the hull of the King Edward VII class Battleships
 neptune_hull,hull,Based on the hull of HMS Neptune

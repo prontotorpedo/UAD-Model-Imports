@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "dunkerque_funnel_a.json",
+    "hash": "87126fcb9827468a78f62ad3fd8c3401c79c1fe6de5c4c268a36ade913c509d4"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_0.obj",
+      "hash": "870f9e198961ebf4c1c6c5d939de0c04d4fccd916d5b83d71db285ebea9c3bc6"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_1.obj",
+      "hash": "76877b17aac3b2e6be7c93a91c05c01064be73ec0f884ef5c5b2b0faa50980da"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_2.obj",
+      "hash": "9af8019b1c350a98ac5f01f1f7e08927bd63c3b18cb0778a45ac5f2f8d15b1d6"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_3.obj",
+      "hash": "a744980f5896f8b44bda2515d6a1e6b14b5c8c6628566e20e3e6eb686a261825"
+    },
+    {
+      "path": "meshes/Bsh_Smokestack_Pola_1A_001_4.obj",
+      "hash": "de6316346d9c099e8ae68d0f265bb22c82ba0a69d415af932f07e4fc5fb40892"
+    }
+  ]
+}
