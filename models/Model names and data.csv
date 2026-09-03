@@ -94,10 +94,11 @@ dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear
 hull_393_a,hull,"Based on Design 393, a plan for a hybrid cruiser carrier based on the Brooklyn class Cruiser"
 hull_393_b,hull,Design 393 with a symmetrical stepped deck
 hull_393_c,hull,Design 393 with an asymmetrical stepped deck
-iowa_hull_b,hull,A shorter version of iowa_hull_a
+iowa_hull_b,hull,A shorter and thinner version of iowa_hull_a
 iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoughts"
 king_edward_hull,hull,Based on the hull of the King Edward VII class Battleships
 neptune_hull,hull,Based on the hull of HMS Neptune
+north_carolina_hull,hull,Resembles the hull of the North Carolina class Battleships
 renown_hull,hull,Based on the hull of HMS Renown
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
 vanguard_hull,hull,Resembles the hull shape of HMS Vanguard

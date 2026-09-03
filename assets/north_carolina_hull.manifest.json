@@ -1,0 +1,128 @@
+{
+  "main_file": {
+    "path": "north_carolina_hull.json",
+    "hash": "9614b154e1abb0f5e1ed1ea6079f5f1ee1e0d909ee0a2b6e74c9fee36b00719b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_0.obj",
+      "hash": "07c9e5ed07f33400369a33d3fa04daa338d78dbc1e3a8fa15367c2273f11de20"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_1.obj",
+      "hash": "10d98d28c34d0deed0e7c8b1e9571aa99b3f7cffe727331aa2c212075d03aca2"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_2.obj",
+      "hash": "8ae7745f1b0bf5e47b4c07e76f7db5ba20a4c784a3b38485a8ad676ff80e9d7c"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_3.obj",
+      "hash": "858da2a66186e72f2f21aee728e8b95ccbb027c56dac96d4a689e267192b6863"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_4.obj",
+      "hash": "c346912713172a0078ee6dda875c74208d6dc04108233b8f2b9f72b2afcd6e09"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_5.obj",
+      "hash": "effff1723579ad5ae7ea7b73990fbbcc9a5d1d75d7da27fd9d1dc1b3ac23d8e8"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_6.obj",
+      "hash": "2df4bfce47f7ae2ea867da9b8f4f6e38e3cd52a3ca3352bbbee6331c474232d3"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_7.obj",
+      "hash": "dbce62e8bf3bf92cd268addeddab2ac48a5cbc014cc1c86ce59e57c4896bae41"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Rostrum_A_001_8.obj",
+      "hash": "9e1148f57722d79d1274fe6c2ba3dd1a19c68236d1a0e2ebf08e9c0caafbdbdc"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_0.obj",
+      "hash": "3ee499fe80e727dc992fcc57281ecc0329172105a954b921a22d5d020ebffe68"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_1.obj",
+      "hash": "2ea03afc66a076c248d1500b4a815bc430771779e5b1cd976f086dfe1b6fca14"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_2.obj",
+      "hash": "068d0c7ac6b6cfb609f7c27b2f2658bd2c8036e646f3aab1901657e186c9e9b0"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_3.obj",
+      "hash": "4d08b58e4606ff4742d678ce01a2bac6c53c0b82f8e0f966ee6ece7f0c912a95"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_4.obj",
+      "hash": "fb7ff532c058ceffb53cfc457ba4bd1842bc0dbea5c4cbea3885ce7c3cf84abb"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_5.obj",
+      "hash": "7ee95b3126c794b6eebb7a99ce431376fac843353b2e85e2c57cc3d73c1f13bc"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_6.obj",
+      "hash": "cf6dd5495205311596a42259736950062fe3665d1f3b5540fc3de7a9072dc078"
+    },
+    {
+      "path": "meshes/Mus_Hull_Midsection_A6_005_7.obj",
+      "hash": "aa551bb60547f9f56b3072e54527c03380193f324dbcf605637c907440cabc1f"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_0.obj",
+      "hash": "f8233c53f4e6c12dc4fd48a6152bae23298fd713b5b15ef0d67ebd6903474bf3"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_1.obj",
+      "hash": "ec902eafa999aeaf74f86f7f0090ccf33691c0816f12f446f31bef4cad48b78e"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_2.obj",
+      "hash": "8d5b8f856a6ce57a76adc6cabe863e94b4f7e80d411d6ddd6d0f55dec34cfe3d"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_3.obj",
+      "hash": "de87ee93d96e1f500efbc029930b1ec46ea4ab6a218fd4f09fef9fabd1920fe1"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_4.obj",
+      "hash": "79f64230e56cc622333f069f6928a4f69ac18e6b83eb7aaf035403a2f5851a0c"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_5.obj",
+      "hash": "2caa2c2048c2e6c635618ebc77b504e6b0e8dd0d0297eb574c6c3bb64d5b556b"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_6.obj",
+      "hash": "85c15fe977b5073b101285e8d72abe044bd75288adef7972ac0076774246698f"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_001_7.obj",
+      "hash": "2c2a9bab1f55f99e17dee1b233f34771774eb7ea4bf507b2caf8119fd9658ad6"
+    },
+    {
+      "path": "meshes/Brook_Hull_Stern_B_001_0.obj",
+      "hash": "eaedf3fbb3d264354fbcfab71ef4590bb86bcee6f30b05788138508db9d38cae"
+    },
+    {
+      "path": "meshes/Brook_Hull_Stern_B_001_2.obj",
+      "hash": "1af50e280369794e513575ef38adfa3dd8176fdb21ced5406be7f37be414d571"
+    },
+    {
+      "path": "meshes/Brook_Hull_Stern_B_001_3.obj",
+      "hash": "e28bd61acca3f30105fb585547af991e892bd5c5ff77279e3eba8c906ca05538"
+    },
+    {
+      "path": "meshes/Brook_Hull_Stern_B_001_5.obj",
+      "hash": "1f9a68d28e101f12fba0a4aadb2d618f3b877a2e00d3963041aa2373b378cd99"
+    },
+    {
+      "path": "meshes/Brook_Hull_Stern_B_001_6.obj",
+      "hash": "d45e204489b1f5ef3a5d29e163da9bb22134df9ce069bdb01bf2a3493201cccc"
+    }
+  ]
+}
