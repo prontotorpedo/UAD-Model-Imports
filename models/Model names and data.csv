@@ -20,7 +20,7 @@ nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a
 tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
 tribal_barbette_main,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers
 ##,,
-dunkerque_funnel_a,funnel,Based on the funnel of the Dunkerque
+dunkerque_funnel_a,funnel,Based on the funnel of the French Dunkerque class Battleships/Battlecruisers
 dunkerque_funnel_b,funnel,Has extra superstructure compared to dunkerque_funnel_a
 vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 ##,,
@@ -159,6 +159,10 @@ laudon_gun_350_x2,gun,Based on plans for the twin turret of the Ersatz Monarch c
 laudon_gun_350_x3,gun,Based on plans for the triple turret of the Ersatz Monarch class Dreadnoughts
 mackensen_gun_350_x2,gun,"Resembles the main guns used on the Bayern class battleships, as well as the Mackensen class Battlecruisers"
 mackensen_gun_350_x3,gun,A triple turret version of mackensen_gun_350_x2
+midway_gun_127_x1,gun,"A single turret version of the 5"" guns used on USS Midway"
+midway_gun_127_x2,gun,"A twin turret version of the 5"" guns used on USS Midway"
+midway_gun_127_x3,gun,"A triple turret version of the 5"" guns used on USS Midway"
+midway_gun_127_x4,gun,"A quadruple turret version of the 5"" guns used on USS Midway"
 mont_gun_152b_x1,gun,A slightly thinner version of mont_gun_152_x1 with lifeboats on top
 mont_gun_152b_x2,gun,A version of mont_gun_152_x2 with lifeboats on top
 mont_gun_152b_x3,gun,A version of mont_gun_152_x3 with lifeboats on top
@@ -180,6 +184,10 @@ qe_gun_114_x3,gun,"Triple turret version of the 4.5"" ""pancake"" turrets found 
 qe_gun_114b_x3,gun,The qe_gun_114_x3 without the ring around the base of the turret
 renown_gun_380_x2,gun,A version of hood_gun_380b_x2 with a shorter rangefinder. Resembles various British battleship guns
 renown_gun_380_x3,gun,Triple turret version of renown_gun_380_x2
+somers_gun_127_x1,gun,"A single turret version of the 5"" guns used on USS Somers"
+somers_gun_127_x2,gun,"A twin turret version of the 5"" guns used on USS Somers"
+somers_gun_127_x3,gun,"A triple turret version of the 5"" guns used on USS Somers"
+somers_gun_127_x4,gun,"A quadruple turret version of the 5"" guns used on USS Somers"
 south_carolina_gun_305_x2,gun,Based on the main guns of the South Carolina class Battleships
 south_carolina_gun_305_x3,gun,Triple turret version of the main guns of the South Carolina class Battleships
 teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnoughts"

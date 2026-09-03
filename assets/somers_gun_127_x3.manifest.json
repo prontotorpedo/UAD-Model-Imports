@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "somers_gun_127_x3.json",
+    "hash": "a6107e3c084e6b28a62452ede1a8abbd984eb9feac646c54fa5bc9c5fbd14ea0"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/127_tripleTurretBlastBags.obj",
+      "hash": "7de51310e60b7ec5703dfa7d492ab870bdbddf0be5cbd18460db41d19e218b91"
+    },
+    {
+      "path": "meshes/127_tripleTurretRing.obj",
+      "hash": "3dba6f47128cb4ca357f4b64a29bd3df2b8e705c3154810d2d718477fb477410"
+    },
+    {
+      "path": "meshes/somers_gun_127_barrel_x1.obj",
+      "hash": "340a0fbdd5a16075baa67ae8b6191768ed6724d86ebe738da447b2747db7898d"
+    },
+    {
+      "path": "meshes/127_tripleTurretBody.obj",
+      "hash": "1a40395006f2b72c69d2d22e1c8acd0ada427b965b72b6a872058755a38ff6cb"
+    },
+    {
+      "path": "meshes/127_tripleTurretRoof.obj",
+      "hash": "145b8c38236dd239052235fae29739a8a7a8c85e4e717e9589531428366a8372"
+    },
+    {
+      "path": "meshes/127_tripleTurretInterior.obj",
+      "hash": "814a12f255644779b740831ccf20680ee0292e2ff09158e18066dd82bc2626bd"
+    }
+  ]
+}

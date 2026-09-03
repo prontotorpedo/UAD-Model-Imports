@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "somers_gun_127_x4.json",
+    "hash": "6b7e8bc4a1c48b2532c1898a8676a8f30cd0fec1aa88ef143733fc7470ae15df"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/127_quadTurretInterior.obj",
+      "hash": "fadd70efaea56a8891b1d5e6db18225974ebaea0b10a0fc6456061b66cf0b9b2"
+    },
+    {
+      "path": "meshes/127_quadTurretRing.obj",
+      "hash": "07c37d9d6a9e8f3d1990a56e14436a9c7e9124f177700c04e3fd160fa98b9a86"
+    },
+    {
+      "path": "meshes/127_quadTurretBody.obj",
+      "hash": "d2b700ee53d2ac7d08f563fe633f0e1aa491541f38d0d8864db4772ce27fb7cd"
+    },
+    {
+      "path": "meshes/127_quadTurretRoof.obj",
+      "hash": "a26d9281a5526ab47c28cf6ab388509cabe7be74919efea1dab75331c1e8b95b"
+    },
+    {
+      "path": "meshes/somers_gun_127_barrel_x1.obj",
+      "hash": "346b85f52650a9ab0be8471846d27f9010f2df94f8b1412cd626007ea8773dc4"
+    },
+    {
+      "path": "meshes/127_quadTurretBlastBags.obj",
+      "hash": "e283bcce63569da419e90acbcc1a83faa7814c3cedca12c3584c95a4fe07d4e9"
+    }
+  ]
+}

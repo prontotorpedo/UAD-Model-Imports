@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "midway_gun_127_x3.json",
+    "hash": "9b94f1f42e2c0ea441c458c4c0d8a70cee4848cb2589d367f72e7c76dff67cc5"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/midway_gun_127_barrel_x1.obj",
+      "hash": "0f50286bb9d64e130027264a6719cbf973ede07cf5e8919d9bf22846d4d4cf07"
+    },
+    {
+      "path": "meshes/127_tripleTurretInterior.obj",
+      "hash": "3e46f4c4b496527355ef3fcb696b4e00b3f9de27273aedb07338a223ccd9da6b"
+    },
+    {
+      "path": "meshes/127_tripleTurretRoof.obj",
+      "hash": "d2b8e89e5af1d457fbb4b2b5bf14ae7932dd46b8b6d3a74741559c54310eb7bf"
+    },
+    {
+      "path": "meshes/127_tripleTurretRing.obj",
+      "hash": "9c2c88ec11a30999530ad569e42c181a230f98fe78f16eb82d5ebb469bd01a08"
+    },
+    {
+      "path": "meshes/127_tripleTurretBody.obj",
+      "hash": "1af426f9c35e620392b7de50b3f7c73fa6b59834fd67067d6ba62ed4c75fb393"
+    }
+  ]
+}
