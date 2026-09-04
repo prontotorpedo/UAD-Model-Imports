@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "midway_gun_127_x2.json",
-    "hash": "9abc49d538c003787b69816d9f5a84833831d72f04dcccbbe0d43b8361fe09d9"
+    "hash": "e87b663fa48ea24d26109c2cf8364fded0c4c1d1b1aa847a12b92c3cff561731"
   },
   "dependencies": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "meshes/127_twinTurretBody.obj",
-      "hash": "4b4389f08ae241bc40f510683de9f279e8cd5c519aa829d7e7860f718a4a1ae3"
+      "hash": "71fe115efa324591293aec924a547bac0661a5b44b4c0f08958973509f521e69"
     },
     {
       "path": "meshes/127_twinTurretRoof.obj",

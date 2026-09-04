@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "somers_gun_127_x3.json",
-    "hash": "a6107e3c084e6b28a62452ede1a8abbd984eb9feac646c54fa5bc9c5fbd14ea0"
+    "hash": "e842d10d3320a32a76bff5779006a05b5eca96dd33976c0cc811c9e2248db3e2"
   },
   "dependencies": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "meshes/somers_gun_127_barrel_x1.obj",
-      "hash": "340a0fbdd5a16075baa67ae8b6191768ed6724d86ebe738da447b2747db7898d"
+      "hash": "9e12ef64afca42afcf7d5c4f8cb5715344f798f0b9d4f9e840b0d47b4059fcb3"
     },
     {
       "path": "meshes/127_tripleTurretBody.obj",
