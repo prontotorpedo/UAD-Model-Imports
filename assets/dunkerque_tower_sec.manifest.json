@@ -1,40 +1,36 @@
 {
   "main_file": {
     "path": "dunkerque_tower_sec.json",
-    "hash": "78122f35362d1a52f0c0e66f68e7124be33d26bd17aed2eba1e653d4d4a22c41"
+    "hash": "466a2f172317cacd526de88f8201ebf7441e2fb6e8b15a2951f745532810f6ea"
   },
   "dependencies": [
     {
       "path": "meshes/Rish_Deckhouse_A2_001_0.obj",
-      "hash": "a04e90a3b2554f61da3ed8ccc669507567d4e8c81e0e05b367f97a7f3c57f7ef"
+      "hash": "8f513ee21254e275738e7312af3b81c3842efaae41792efc85b019970d832e10"
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_1.obj",
-      "hash": "a23360e4fce7a40e78786897dc49f24e7ed7ebb4d9d3896c09533bb503cf9918"
+      "hash": "aa360fae5c490ba9e0eb6f4dbb361d6b2c408592cc25543ab5c62a3e1dec5b48"
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_2.obj",
-      "hash": "64d7d895acd2cce5edd8b37e0fec27f85f1689f4fa439588ee90e62bd6b8915f"
+      "hash": "e33cc1578126ae6703915cf02279ab1c6377034edf23f553a1b6ababab1adb1a"
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_3.obj",
-      "hash": "61114e9d5eef87e30d6001916f7c2fd91343867ff5dfa05a5166e2da8abe8027"
+      "hash": "a0abfb7d26702b6a6b2b3f8bceae588199e4e5f1d6fdde0eb502c7e59d6e785d"
     },
     {
       "path": "meshes/Rish_Deckhouse_A2_001_4.obj",
-      "hash": "744a1792f5fce5746a95cf3578c62f8a41ecbe09706945180391308a87f6b3bc"
-    },
-    {
-      "path": "meshes/Lyon_sec_tower_a.obj",
-      "hash": "87c2cdf0b551b77e0eb3c4a39025f82d4678bc08721c7faa6c1640093a2754d0"
+      "hash": "aaf786d847932e9eac09b554b6bd2a38f8c4dc94fc547963e7a0085493cc4088"
     },
     {
       "path": "meshes/Lifeboat_S.obj",
-      "hash": "6e4a7d8758b8ba5509bfda7a83f3533ff22c6e1a8d36f0c80165a5d3aea57599"
+      "hash": "60dd1662c5bc91c5b66c21970b74999e12e21893d41142f9a8d483bbc7714a59"
     },
     {
       "path": "meshes/Lifeboat_P.obj",
-      "hash": "b6810cee95d4925f19dfbfb33d3df336a7164ca68d6af1179afd5f9d9647f2bd"
+      "hash": "85bc5798963328e3e8fcb470ddc7855f87b1ed11ff98f845f3436ea892c83c66"
     }
   ]
 }

@@ -110,6 +110,8 @@ baltimore_gun_203_x1,gun,"A single turret version of the 8"" gun used on the Bal
 baltimore_gun_203_x2,gun,"A twin turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
 baltimore_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
 baltimore_gun_203_x4,gun,"A quadruple turret version of the 8"" gun used on the Baltimore class Heavy Cruisers"
+bertin_gun_90_x1,gun,Based on the single 90mm gun turrets on the Emile Bertin class Cruisers
+bertin_gun_90_x2,gun,Based on the twin 90mm gun turret on the Emile Bertin class Cruisers
 bertin_gun_152_x1,gun,"A single turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x2,gun,"A twin turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
 bertin_gun_152_x3,gun,"A triple turret version of the 6"" gun turrets used on the Emile Bertin class Cruisers"
