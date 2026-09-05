@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "aigle_tower_sec.json",
+    "hash": "5c9add65e9026d51461ea1c853d07682e24b3f2defc05fbec5996fecb689af57"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault2.obj",
+      "hash": "3af2f72af9db3ec03eb4e6862f319cbe5a8d21459649768ae629475e08ce9b8b"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault1.obj",
+      "hash": "7ff843fbe177c4379318c01cd85643685cfb2fea13af9b0658c4249b30e0d35e"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault.obj",
+      "hash": "5f38f784e5cd9e51205fa51fdade59cff91aae87504d53c16929afe1eeee7510"
+    }
+  ]
+}

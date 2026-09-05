@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "aigle_tower_main_b.json",
+    "hash": "9669b28bf29c695d5d4432c4ab4f6e51ae1efca86f6087964df0e5e5b79cf512"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/1934_Deckhouse_ForeShort.obj",
+      "hash": "c6960c577a4f91f6912d01e6b8b68711c86134f986ad9e8d95fa6c87c09b50a1"
+    }
+  ]
+}
