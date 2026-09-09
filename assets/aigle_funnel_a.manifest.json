@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "aigle_funnel_a.json",
+    "hash": "d8b479ebbc7c0aa0b98528dedf229c73f3aa906dffbfa1cbddff9d8986cc2b74"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_2.obj",
+      "hash": "e0283c8a256d624b62ed9bbbc2889a918344a32ec6fe74d989d23d5233a4a171"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_3.obj",
+      "hash": "4064646c6c0718446733d0fc1d1277954ef3a4b3b2db330950dd946e16d50a28"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_4.obj",
+      "hash": "e79b603da77e3f08035ebddbba4fdc0a8815c1d872108884e2868a7088bb46bc"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_5.obj",
+      "hash": "234a17e1fa2557f5a089936315c00c617de01ae0d0b73b2fecd1dfa98305f6a4"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault2.obj",
+      "hash": "2aa459b558a3acff9a8cb99349192378cab850e6133c9ec95ec32e01eec966dc"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault1.obj",
+      "hash": "c6e55ce0e828cae66f40f8dadd25d06e24ba0d104a97e6e3abf781933b52f7a8"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault.obj",
+      "hash": "4fdc9511bc973408020301d9f640d16523ce6f04c449771a05e11dc6873d345c"
+    }
+  ]
+}

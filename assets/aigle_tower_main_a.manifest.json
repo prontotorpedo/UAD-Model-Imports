@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "aigle_tower_main_a.json",
-    "hash": "01b71d27e2a1c40506817667d19eedc8201b29bde6b9cc974194cf9e66ed2476"
+    "hash": "94329668e33afb2922e5023292283d76f936b2648190dffd01ee7ceb2efab1c0"
   },
   "dependencies": [
     {
       "path": "meshes/1934_Deckhouse_ForeNoCraneBoat.obj",
-      "hash": "394a407f13977b109f39c84c9a71cf607b24aeb0904985689d8cbecefe35a836"
+      "hash": "8617e1951f91d8a804ee660a2f00f13b05894730ca78739f21268ff142a50f91"
     }
   ]
 }

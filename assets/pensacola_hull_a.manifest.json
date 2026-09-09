@@ -1,0 +1,96 @@
+{
+  "main_file": {
+    "path": "pensacola_hull_a.json",
+    "hash": "1a3b299afe6e3c0b09a5fa8f36c1f9e1ada89d413b10ba2ebafab907cac3ece7"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/PensaBow.obj",
+      "hash": "58193a5bba9685e0c2b74c7fdc7135926cd53e904d16cb321a19bcaab972e8dd"
+    },
+    {
+      "path": "meshes/PensaBow1.obj",
+      "hash": "33aaaeb3e8cdd6545ef85b8d34501cf5797a617db5a7fdce09ced70233fd26e2"
+    },
+    {
+      "path": "meshes/PensaBow2.obj",
+      "hash": "032ea4e10cc31669c501cc75479e422d070f6636a24a8e10157545472a531fe0"
+    },
+    {
+      "path": "meshes/PensaBow3.obj",
+      "hash": "c0d985e36fedd6f624245f93f64460c36295eb70093ef0ace557763f523f39f5"
+    },
+    {
+      "path": "meshes/PensaBow4.obj",
+      "hash": "869400b6c15768f0509a58c5cf5a91549c332f902b452114f53361664129cc36"
+    },
+    {
+      "path": "meshes/PensaBow5.obj",
+      "hash": "0fee01998427f89724e8bb323decf8526008b469cdc5219d97ec831003d95e1c"
+    },
+    {
+      "path": "meshes/PensaBow6.obj",
+      "hash": "2e4539e12494f5642ea2c58b5483edaf9e6587863e567c0a56e10ce66cb0438f"
+    },
+    {
+      "path": "meshes/PensaBow7.obj",
+      "hash": "b3efdf5d9a2894a4fc52821d5e93c3f00e25584cc1247f6d1cad44310c1da158"
+    },
+    {
+      "path": "meshes/PensaBow8.obj",
+      "hash": "6fd328ec52e9def52b0d8dc0782df1584391caf0bf22f5f1d865abef7f421e1c"
+    },
+    {
+      "path": "meshes/PensaMiddle1.obj",
+      "hash": "fb0992e321851e6e1dabf896c9b9deab7372a225690e1f8294598f872150e5b6"
+    },
+    {
+      "path": "meshes/PensaMiddle.obj",
+      "hash": "7f152f1ac2e86c1f8c976c3604f8f72d9bbda406c07b7b7433836445cb7aba4e"
+    },
+    {
+      "path": "meshes/PensaMiddle2.obj",
+      "hash": "a28a8dd4026148bdb0f381489c662d45960c00455c5fd3deb4a32a054f6a0a20"
+    },
+    {
+      "path": "meshes/PensaMiddle3.obj",
+      "hash": "3a9544bc71c5532c3efc0bab1e483a160fd8d529772fecb3755e730400f66932"
+    },
+    {
+      "path": "meshes/PensaMiddle4.obj",
+      "hash": "bbe7bfda6da045bd0ab3f74c90d8611374f8826a5404d67a145ff7dd3c725f61"
+    },
+    {
+      "path": "meshes/PensaStern.obj",
+      "hash": "dacf91340f23b9f6a963f309e4d74378c04f552b36d2a2a4c7535cb06b8a6682"
+    },
+    {
+      "path": "meshes/PensaStern1.obj",
+      "hash": "02c5f5cd2658633b51eb3abd4f65205bddf0caf06f01e1c2b5fa49c6c0d4487b"
+    },
+    {
+      "path": "meshes/PensaStern2.obj",
+      "hash": "93b478876f2e79f35c129675eabc8e73357fbd2058a2a5da1ce91c806ff3d71b"
+    },
+    {
+      "path": "meshes/PensaStern3.obj",
+      "hash": "411d087d935d73fba6d170c4026f68c36091a5e83bf3d96f8824b07357aaaa9e"
+    },
+    {
+      "path": "meshes/PensaStern4.obj",
+      "hash": "157130bedcd34b7e56cc64df28779c26107ecb5eabb45aff6fe8e30c8aa22649"
+    },
+    {
+      "path": "meshes/PensaStern5.obj",
+      "hash": "809697e594a102faf61792b69e7656429308588265dafcd6bb85dc8df109bcea"
+    },
+    {
+      "path": "meshes/PensaStern6.obj",
+      "hash": "f327ac2a322f2d871e4a3053a539464eba200a9a137912942bb9db0cdbfe22e5"
+    },
+    {
+      "path": "meshes/PensaStern7.obj",
+      "hash": "0534b1fcb77b1f39f3ad7662e177d74a1b7bcf423948167ce832208311e9a809"
+    }
+  ]
+}

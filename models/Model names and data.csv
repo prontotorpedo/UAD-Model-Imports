@@ -20,6 +20,11 @@ nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a
 tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
 tribal_barbette_main,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers
 ##,,
+aigle_funnel_a,funnel,Based on the funnels of French destroyers such as Aigle
+aigle_funnel_a_var,funnel,A version of aigle_funnel_a without the main gun mount
+aigle_funnel_b,funnel,A shorter version of aigle_funnel_a
+aigle_funnel_b_var,funnel,A version of aigle_funnel_b without the main gun mount
+aigle_funnel_c,funnel,A version of the aigel funnel without any extra superstructure
 dunkerque_funnel_a,funnel,Based on the funnel of the French Dunkerque class Battleships/Battlecruisers
 dunkerque_funnel_b,funnel,Has extra superstructure compared to dunkerque_funnel_a
 vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
@@ -45,6 +50,9 @@ hawkins_tower_main_short,tower_main,"Based on the main tower of the C, D, and E 
 hood_tower_main_b_barb,tower_main,A version of hood_tower_main_b with an integrated barbette
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
+omaha_tower_main_a,tower_main,Resembles the main tower of the Omaha class Cruisers
+pensacola_tower_main_a,tower_main,Resembles the main tower of the Pensacola class Heavy Cruisers
+pensacola_tower_main_b,tower_main,A version of pensacola_tower_main_a without the integrated barbette
 queen_mary_tower_main,tower_main,Resembles the front towers of the Lion and Queen Mary class Battlecruisers
 renown_tower_main,tower_main,Based on the main tower of HMS Renown after modernization
 scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships
@@ -69,6 +77,9 @@ fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the C
 g3_tower_sec,tower_sec,Based on the rear tower of the unbuilt G3 Battlecruisers
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
+omaha_tower_sec_a,tower_main,Resembles the rear tower of the Omaha class Cruisers
+pensacola_tower_sec_a,tower_sec,Resembles the rear tower of the Pensacola class Heavy Cruisers
+pensacola_tower_sec_b,tower_sec,A version of pensacola_tower_sec_a without the deck superstructure
 queen_mary_tower_sec,tower_sec,Resembles the rear towers of the Lion and Queen Mary class Battlecruisers
 renown_tower_sec,tower_sec,Based on the rear tower of HMS Renown after modernization
 scharn_tower_sec,tower_sec,Resembles the rear tower of the Scharnhorst class Battleships
@@ -102,6 +113,7 @@ iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoug
 king_edward_hull,hull,Based on the hull of the King Edward VII class Battleships
 neptune_hull,hull,Based on the hull of HMS Neptune
 north_carolina_hull,hull,Resembles the hull of the North Carolina class Battleships
+pensacola_hull_a,hull,Resembles the hull of the Pensacola class Heavy Cruisers
 renown_hull,hull,Based on the hull of HMS Renown
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
 vanguard_hull,hull,Resembles the hull shape of HMS Vanguard

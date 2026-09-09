@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "aigle_funnel_c.json",
+    "hash": "4896b36e679bf2beda0da1b4371444b037f6064b30c11a5d7a783a1e5b94c653"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_0.obj",
+      "hash": "096f8bf5411ad887b4e22a25f5d24e08b55b3c7bc0fb36f0ba7bcadb2ed069a9"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_1.obj",
+      "hash": "bb27b9f66635abce5a99974d84529294758e3c55aabd338d18a9fd45dfedcc24"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_2.obj",
+      "hash": "ebcfa6d507d919320fca499b9913dbe7046372254276bb7de1133f2491b681dc"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_3.obj",
+      "hash": "fd0d3f3de6e5218c8ade26136db0b23b6797b15c556349b30179ddaaab520d03"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_4.obj",
+      "hash": "56efef1b45e1a99731d6ca732d229c8defcb9d9d851e551f64df338cd3d8bcbb"
+    },
+    {
+      "path": "meshes/Dr_Smokestack_1A_001_5.obj",
+      "hash": "9915e04b5c296dcc61f1aa42fecf55a25102226ea2e263f9e6f7257424444875"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "pensacola_tower_sec_b.json",
+    "hash": "2e1993c2e736edb1cfb5dfa1f4cacee7b5e40c528d0a8da92ec92f8ac18d6670"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/pensacola_tower_sec_barbette_mast.obj",
+      "hash": "282798185dbee7ddc6f603c4c76818b2e38b9e24d86c7f7bd9afcdc15f04a16d"
+    }
+  ]
+}

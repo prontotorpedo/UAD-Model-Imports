@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "omaha_tower_main_a.json",
+    "hash": "6ba4c9fea800eee797307c71713430f7187171b6a98c65c6541f077e60474ca6"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Omaha_main_tower_a.obj",
+      "hash": "cbdf1f13413f7c19c8a0e58a5a5e50f87ac536343c777a1d638ed57157350e88"
+    }
+  ]
+}

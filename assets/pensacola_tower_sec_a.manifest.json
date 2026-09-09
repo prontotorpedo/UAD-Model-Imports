@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "pensacola_tower_sec_a.json",
+    "hash": "7b0d7f26aab25e111d796bef94e18b4f781e4b335a2eb8ce66a27291e7f40b96"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/pensacola_tower_sec_default.obj",
+      "hash": "62b7083fd9ca23ef3d9951e4088418918bee211976b4a558ecc2643ab70f96ce"
+    }
+  ]
+}
