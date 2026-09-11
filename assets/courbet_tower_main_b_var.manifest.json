@@ -1,0 +1,44 @@
+{
+  "main_file": {
+    "path": "courbet_tower_main_b_var.json",
+    "hash": "2635ae51dfa9095caae829dea2bfe223173efef5cd0dd5bcb98dcfa6012d8be2"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_0.obj",
+      "hash": "9fde97de1fec0e4c5cf553f24a120b92222526bb14327db669530dc6c9c1d6d6"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_1.obj",
+      "hash": "d52a362c2baf9ced881d3a386597b7c57020989dac2e928b33dabed399071f33"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_2.obj",
+      "hash": "0ab84362f49b6ce4bd04e146ffe9e167ccdca81295aedfd108ba35b47ee58b82"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_3.obj",
+      "hash": "97f95c13483003e2e57484ba023d7c2c1a9dd44732ab0f7a532239a4c6be7b08"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_4.obj",
+      "hash": "4a5d164d58bca6f0953a3788f816f385299bce42dfaaa077706e1e142786ae0a"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_5.obj",
+      "hash": "9fd7dc3ef9332be5229a9d635b2bd65d52babee407024a8e601bcfb15059d824"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_6.obj",
+      "hash": "669a4c95f10d3d9e5a25965e80c9f6a6390a756fbf96f1e8decf990fa60bad95"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_7.obj",
+      "hash": "fb8102a7d4f1e76791a7530136698ab7a82e28e7f27c35bd5cd049cec70106b9"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_L_A_001_0.obj",
+      "hash": "3c51b04a98fcd2cc6e544673416dbbc80208aff2a84ed13181d2e9e4515d94c2"
+    }
+  ]
+}

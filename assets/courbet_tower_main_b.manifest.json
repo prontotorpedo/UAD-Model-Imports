@@ -1,0 +1,64 @@
+{
+  "main_file": {
+    "path": "courbet_tower_main_b.json",
+    "hash": "51b49fc0007ce6f80116d4362c9a862dd3634c417cfa73e7441209403a804536"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_0.obj",
+      "hash": "2214ecb3d2e96c6cd9841c3c4ed16c6058d1028dc668ca8be8761c997df55a37"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_1.obj",
+      "hash": "d2a1faec93a43659f56dfd1bc3cfa2fe6124dcd1cca105d34d2c17bb30d57030"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_2.obj",
+      "hash": "be26d6829e3ae22436ae28950b6c6b668fe37aa304e044ad0d35db681e8857bf"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_3.obj",
+      "hash": "3e2ff13b36389f071b5de0706f14abf13764ce3bc00bd91364ecbe974015d5d6"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_4.obj",
+      "hash": "1f65f11b20d73427b54bd5b370778e8ece68f9b1c26eb147f5626aedf0f38d52"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_5.obj",
+      "hash": "f85fe7e0770976e8dcf93f0bb3f99c4d42bd588bae2703ef6818fe79cd68f6de"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_6.obj",
+      "hash": "70e2017d69d69b505023bc18ebbee674f937677fe76636794df8bcd2fef2dd9b"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_7.obj",
+      "hash": "1d45ccd797ac05cd9cef0e0959694e5b484ca167f32b1d5c30ad9cd69b69bb7a"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_0.obj",
+      "hash": "9da302d5c752c06a0f9e2b4d8acb80b30662d693f9ca7af8b9d1869edba34448"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_2.obj",
+      "hash": "5f7019893c373a77767a6ce8b41dc7f7b2ebfefb9323aac6dac5892fc9403510"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_3.obj",
+      "hash": "6f41b3e938bbe0be2695ab9a41f37ec1a74db2fd0da97779ccbc43ce948f85dc"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_4.obj",
+      "hash": "dd9945b67a5ac220011e28636802f92095d29179cefdedecb14f2a609f9d67c5"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_5.obj",
+      "hash": "27e91b49d0cfbc130bc99ea194313d2ee96f5607d1b4c2f93bc2dc645698d278"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_6.obj",
+      "hash": "00c854b102cc219d0e346dc4589f32e908dafae084c1fb0f4c63ff1f57f9742e"
+    }
+  ]
+}

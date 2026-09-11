@@ -43,6 +43,10 @@ cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast
 cali_tower_main_a_var,tower_main,A version of cali_tower_main_a with a cage different conning tower
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast
 cali_tower_main_b_var,tower_main,A version of cali_tower_main_b with a different conning tower
+courbet_tower_main_a,tower_main,Based on the main tower of the Courbet class Battleships
+courbet_tower_main_a_var,tower_main,Based on the main tower of the Courbet class Battleships after their reconstruction
+courbet_tower_main_b,tower_main,A version of courbet_tower_main_a without the integrated barbette
+courbet_tower_main_b_var,tower_main,A version of courbet_tower_main_a_var without the integrated barbette
 fargo_tower_main,tower_main,Based on the main tower of the Fargo subclass fo the Clevland class Light Cruisers
 g3_tower_main,tower_main,Based on the main tower of the unbuilt G3 Battlecruisers
 hawkins_tower_main,tower_main,Based on the main tower of HMS Hawkins
@@ -100,6 +104,7 @@ braunschweig_hull_b,hull,Swaps the fore and aft casemates of braunschweig_hull_a
 cavour_hull,hull,Based on the hull of the battleship Conte di Cavour
 clev_hull_a,hull,Flat cruiser hull based on American cruiser concept designs
 clev_hull_b,hull,Stepped cruiser hull based on American cruiser concept designs
+courbet_hull,hull,Based on the hull of the Courbet class Battleships
 cv_test_hull,hull,"A generic carrier hull, not meant to be used seriously"
 dd_hull_long_nose,hull,"The generic DD hull, but with a longer raised deck"
 dd_hull_thin_a,hull,A generic DD hull built using akizuki_hull_parts

@@ -1,0 +1,60 @@
+{
+  "main_file": {
+    "path": "courbet_tower_main_a_var.json",
+    "hash": "467061bd645ef323afe80292306acb3fdb167fa821c8404375328221c08ff129"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_0.obj",
+      "hash": "3936c76bb514c3b4623682c9fd7db6e5868bda1233918712a84ccebbf682120f"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_1.obj",
+      "hash": "d6e94969d46137be674b2778fd64f679444c607755f8f690f456cd351d8325cb"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_2.obj",
+      "hash": "f331d9d97a870f44936ad9c0002072f0a41592133fdd195e7bbb95502a70b4aa"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_3.obj",
+      "hash": "44771bbace80b530d3b6843ad18c4b313dda1d873d7372c632e9ec18b912efd2"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_4.obj",
+      "hash": "34403850b0a1232b2bf75b75ea03fbbe612010d86faa7cfd28de6ec27ef69383"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_5.obj",
+      "hash": "c22afcade4e3ebaaf0492030cb685284a169b2f3f320652f3044a8c7aae594cc"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_6.obj",
+      "hash": "911d0ef46da0e1bdfff389f517aaccbe39891953831839eb442ed15a98dae7a2"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_7.obj",
+      "hash": "3a125f2cd28cc11ba879b7d9083ba105a0a4e1a3edf278c8d10538977c211b45"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_0.obj",
+      "hash": "3ff4465217acc48c5474450b0a48cbf7fe37613be1380a0b5ccf89890843d1ab"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_1.obj",
+      "hash": "887ba42e5b4db1eb6f1fb7a6d28d8d4a7535c82e033a4c0e276ea7804e8b1d78"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_2.obj",
+      "hash": "a9243bd31d5a74264909ee89e85713324a1a5c5fdc8c52e79815985aedf6faca"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_3.obj",
+      "hash": "03f0c0a3cfb9c7beca7457e4d34126224f47e1c78b5b06753b7c2b6c49e319ed"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_L_A_001_0.obj",
+      "hash": "638265e2cc2b70224d710a608c34ec13c13a4b1280a5c50b1621a82864335439"
+    }
+  ]
+}

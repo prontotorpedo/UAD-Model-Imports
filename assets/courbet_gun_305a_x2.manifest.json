@@ -1,24 +1,24 @@
 {
   "main_file": {
     "path": "courbet_gun_305a_x2.json",
-    "hash": "9bc625451a12f5f37baae4c7aeccc48ba19a561d014becb97006263d29f10fad"
+    "hash": "1a8363eeac41305ff13880faf84bc89ad1c3de3dc5a6a99330bc009bf0ba4065"
   },
   "dependencies": [
     {
-      "path": "meshes/Dant_gun_cal245_A_barrel_001_0.obj",
-      "hash": "6ec030f54843a83cc9f568f7c2a517a268bdbdc4ab650be277d64eb88e7d8b3e"
+      "path": "meshes/dant_gun_cal245_a_barrel_001_0.obj",
+      "hash": "c0a3737163291ecb224aec5d2265aa40d82b914ee8fb0c70ff2b5b197ab6bbb3"
     },
     {
       "path": "meshes/Dant_gun_cal245_A_x2_001_0.obj",
-      "hash": "e0a5fcaa21d5b0a86cfee97b6a8026f4fcbb8e3346be679de3a4f0607cc6bc2d"
+      "hash": "b359057f1090e36bcf2732a144f51c26c922b3e7057245720deaa80f67729ff4"
     },
     {
       "path": "meshes/Dant_gun_cal245_A_x2_001_1.obj",
-      "hash": "dab0c07c57ad763d0ec3b8198016e4565b4066c249a0f3daada8f6462a2f299f"
+      "hash": "6fdd6646dbe9de5615e96017d0713f96fc1b68db1f5caa4f9edf99052aad0dbf"
     },
     {
       "path": "meshes/Dant_gun_cal245_A_x2_001_2.obj",
-      "hash": "3fc5800e950d548edc24d207726ecd08fc588427750c77a8401f6cef2b587909"
+      "hash": "e51f6aea9dbc58476a96860c754ed7e7c28f937d001d6d21357aec5257ea776e"
     }
   ]
 }

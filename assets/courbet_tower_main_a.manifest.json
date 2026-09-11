@@ -1,0 +1,80 @@
+{
+  "main_file": {
+    "path": "courbet_tower_main_a.json",
+    "hash": "0d3283b0fdf342e2b047dae79653d3111032d49941a789c8acdeadd6b3c42a6e"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_0.obj",
+      "hash": "710d31f57ff3248f6fe2a9c1ceb20c1e3ea7ab34aab93eb7b6fc806d0041154c"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_1.obj",
+      "hash": "2f07f48e1dd0393dcd0d324106e0a7eb404c85983a22890457c3e19853ecac52"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_2.obj",
+      "hash": "aad4853a5efac7d331b3e4ac867c4b64fef7d686713e29275ede5d0249235b55"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_3.obj",
+      "hash": "e4be68224a2d4b66fdc1aaf42a16b3c97648762f65d2910ce5fbd090c69e2d24"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_4.obj",
+      "hash": "5bd9a54195b0f640c41048530962d37bd85b49382d1d937ce52a294a7dc8e714"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_5.obj",
+      "hash": "43bedf941790dddb2bc9dc35a39a8215aeec9ed96e0be957c66711c38607a581"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_6.obj",
+      "hash": "64693e7c263e13c45bec2fc8403971eb094eb7982184c03cef0fd05f09232b90"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_B1_001_7.obj",
+      "hash": "b03890e11b32049985f0f484ef823e3624c5d68b74937a98a1ee06392f003a0b"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_0.obj",
+      "hash": "d1dcbf96dff71eb44ab93da36d5aa0b19b84835bb133de9b0024b9b51921d7a6"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_1.obj",
+      "hash": "b795ed3bbcf1c6d18fc8a4ee2f5408eba05eb396353fe6cc2edc0d3c9645d03d"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_2.obj",
+      "hash": "18e577a3b4e8bf6e7364d4a10c5d9597a220cd9cde9417aec63f30946c4c9b1c"
+    },
+    {
+      "path": "meshes/Dant_center_gun_Barbette_A_001_3.obj",
+      "hash": "f3304c2f3eafa9185b5cfd8e6d34c600111ae31e0fb95814c6a3b94b3c123a3a"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_0.obj",
+      "hash": "c4109a4b05d3a90d1ad312e869cdeb1161b72a0fd95e76401cbbb21a1ae2d9c0"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_2.obj",
+      "hash": "18786746e2283ec85b26490734a3e873918f8fb5e57f51e6e45214561a2979ed"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_3.obj",
+      "hash": "13684a1edd49596753c32ad13bccc25e6eec7b1935a49459c2c4c68204c86955"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_4.obj",
+      "hash": "744cedb9269eaf13a9a3687f33ad742af6dfd2118d69313a2c2533ac23f10968"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_5.obj",
+      "hash": "6f44de9ac18b4bd2ab893ba11ee780a97315010e4d766c44b1df38a1180cd970"
+    },
+    {
+      "path": "meshes/Dant_Deckhouse_maine_A1_001_6.obj",
+      "hash": "ca07714b5b8b75069f1d4d3d41e0e9edd12e975da6c2572813cc639b138abb5f"
+    }
+  ]
+}
