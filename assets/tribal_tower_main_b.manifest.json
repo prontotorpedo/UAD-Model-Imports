@@ -1,52 +1,52 @@
 {
   "main_file": {
     "path": "tribal_tower_main_b.json",
-    "hash": "7ff61cc32d5976640cfc6efd61b28171361c1cb9393e12e599d9f190a8ca6645"
+    "hash": "9fbaa60870e0511faa5c3bc418f7e7ddaca46dd56b9746e32214de608f8388bf"
   },
   "dependencies": [
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_0_Dr_Deckhouse_Tribal_A1_001_0.obj",
-      "hash": "f6217c231902d26c2c2abf85a59dfd6e2ab1d655a78f12abd0df4560ff760a38"
+      "hash": "09c17ac18f3948347c28d2d317baafa2d365a284b0c1fbabc88d1feabcc62f13"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_10_Dr_Deckhouse_Tribal_A1_001_10.obj",
-      "hash": "5f6c280893ee37735092bea9d74d0a79d276127420b6668fcb9b5dd50287676f"
+      "hash": "381cb70d791b8636e3036e931403a34e2c77a0dea129b403536ee8e29675bd2b"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_1_Dr_Deckhouse_Tribal_A1_001_1.obj",
-      "hash": "ec8531e9b55d819b4d3fe78f399978dfd2ffd47390c77bccbbd523610d252590"
+      "hash": "dbcf37b415a6e44f8a8a29f4939f1684778ebdb7121cd0cb65527491b166b9da"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_2_Dr_Deckhouse_Tribal_A1_001_2.obj",
-      "hash": "474b2972fcf9b8dc675d7edc3ee41a6ab659b7046804fcff2e4826262b65bee0"
+      "hash": "3e56fb009ed53aed4bc08b7759b7609bcf8e1aeeddc63218da3cf3d14e677202"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_3_Dr_Deckhouse_Tribal_A1_001_3.obj",
-      "hash": "6ec29c0794812f8abc71550488b73065258bb10232b793f884c068bfd582056b"
+      "hash": "7d7ab85699ed219bc116ca19bf52e9dba27d33f61fb5a700b611ddb1cc832807"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_4_Dr_Deckhouse_Tribal_A1_001_4.obj",
-      "hash": "92588f763f695b8f804e679001c41af66e8869724c55279792f43e5f03333a73"
+      "hash": "bc276761e029fd8a61c041ffb44f17df9078066913c9933aaf4dae4aee4400c5"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_5_Dr_Deckhouse_Tribal_A1_001_5.obj",
-      "hash": "200576a48757fd4029c8786849378085e6e411cc29a2581c611b655d4f6a5ee6"
+      "hash": "d81131dd032d4af91efb919ca6401878769f4747b82752c70d7d6537341e5c48"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_6_Dr_Deckhouse_Tribal_A1_001_6.obj",
-      "hash": "4be4b89df3ad370a1ee881a894baafdbabc9bcb58464c142e55f406a51cbdaf0"
+      "hash": "a78d62cf3aa973207730560945e4c232dd7f1e1c739c872594f401bd7941dd57"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_7_Dr_Deckhouse_Tribal_A1_001_7.obj",
-      "hash": "7ec097d0c57147d2d2ea59a9c99ed36ada000374866a14aa2fd33c3da714053e"
+      "hash": "1b5ca693d9e3244091d1af3f133c6750092707323639e9b363ce238878f1ca51"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_8_Dr_Deckhouse_Tribal_A1_001_8.obj",
-      "hash": "00fb68d9456329779d9d97d53d0fa1d100b72ed830c808a880d7d36bcada0533"
+      "hash": "575e2f77f1f7b650acf1141eced1ddc87b132657f22eaff9460cd3ae36523167"
     },
     {
       "path": "meshes/Dr_Deckhouse_Tribal_A1_001_9_Dr_Deckhouse_Tribal_A1_001_9.obj",
-      "hash": "cbbbccf738c2834a02dfea8bc90eb4b13a6a0b8b85f30d1401514ca357309975"
+      "hash": "04afee588fdc0539b1de3778b28a71283e4c84ab6fcbe050641cc5ea22315a2b"
     }
   ]
 }

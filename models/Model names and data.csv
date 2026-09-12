@@ -15,10 +15,14 @@ vw_torpedo_x3,torpedo,Triangular shaped triple torpedo launcher based off of the
 ##,,
 1934_tower_mid_a,barbette,Resembles the middle superstructure on Germany's Type 1934 Destroyers
 1934_tower_mid_b,barbette,A version of 1934_tower_mid_a without the boats on the deck
+aigle_barbette_a,barbette,A version of aigle_funnel_a with funnel mounts instead of funnels
+aigle_barbette_a_var,barbette,A version of aigle_funnel_a_var with funnel mounts instead of funnels
+aigle_barbette_b,barbette,A version of aigle_funnel_b with funnel mounts instead of funnels
+aigle_barbette_b_var,barbette,A version of aigle_funnel_b_var with funnel mounts instead of funnels
 dd_barbette_mid,barbette,A generic barbette meant for use in the midsections of destroyers
 nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a
-tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
-tribal_barbette_main,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers
+tribal_barbette_a,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers
+tribal_barbette_b,barbette,Based on the gun mounts on the funnels of the Tribal class Destroyers
 ##,,
 aigle_funnel_a,funnel,Based on the funnels of French destroyers such as Aigle
 aigle_funnel_a_var,funnel,A version of aigle_funnel_a without the main gun mount
@@ -64,7 +68,7 @@ scharn_tower_main_b,tower_main,"A version of scharn_tower_main with slightly lar
 schill_tower_main_a,tower_main,"Based on the front tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
 schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette"
 tiger_tower_main,tower_main,Based on the front tower of the battlecruiser HMS Tiger
-tribal_tower_main,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching"
+tribal_tower_main_a,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching"
 tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to resemble the main towers of some V&W class destroyers
 vanguard_tower_main,tower_main,Resembles the main tower of HMS Vanguard
 vanguard_tower_main_b,tower_main,A version of vanguard_tower_main without the side barbettes
@@ -91,7 +95,8 @@ scharn_tower_sec_b,tower_sec,A version of scharn_tower_sec with a spot for mount
 schill_tower_sec_a,tower_sec,"Based on the rear tower of the Knesebeck, a tier VIII German cruiser in World of Warships"
 schill_tower_sec_b,tower_sec,"Same as schill_tower_sec_a, but with an enlarged barbette"
 tiger_tower_sec,tower_sec,Based on the rear tower of the battlecruiser HMS Tiger
-tribal_tower_sec,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s
+tribal_tower_sec_a,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s
+tribal_tower_sec_b,tower_sec,A slightly smaller version of tribal_tower_main_a with a reprofiled front section
 vanguard_tower_sec,tower_sec,Resembles the rear tower of HMS Vanguard
 vanguard_tower_sec_b,tower_sec,A version of vanguard_tower_sec without the side barbettes
 warspite_tower_sec,tower_sec,Based on the rear tower of HMS Warspite
@@ -165,6 +170,8 @@ county_gun_203_x3,gun,A hypothetical triple turret version of the County class t
 courbet_gun_305a_x2,gun,A less tall version of dant_gun_245_x2
 courbet_gun_305b_x2,gun,"A less tall version of dant_gun_245_x4, made to fit two barrels"
 courbet_gun_305a_x3,gun,A less tall version of dant_gun_245_x3
+courbet_gun_305b_x3,gun,"A less tall version of dant_gun_245_x4, made to fit three barrels"
+courbet_gun_305b_x4,gun,A less tall version of dant_gun_245_x4
 daring_gun_114_x1,gun,A hypothetical single turret version of the Daring class turret
 daring_gun_114_x2,gun,"Based on the 4.5"" gun used on the Daring class Destroyers"
 daring_gun_114_x3,gun,A hypothetical triple turret version of the Daring class turret
@@ -232,7 +239,8 @@ worc_gun_152_x1,gun,"A single barreled version of the 6"" gun found on the Worch
 worc_gun_152_x2,gun,"A twin barreled version of the 6"" gun found on the Worchester class Cruisers"
 worc_gun_152_x3,gun,"A triple barreled version of the 6"" gun found on the Worchester class Cruisers"
 worc_gun_152_x4,gun,"A quadruple barreled version of the 6"" gun found on the Worchester class Cruisers"
-vw_gun_120_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
+vw_gun_120_x1,gun,Generic single gun for destroyers and cruisers
+vw_gun_120a_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on V&W class destroyers"
 vw_gun_120b_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era Argentine Destroyers built in Britain"
 vw_gun_120c_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era British Destroyers"
 ##,,

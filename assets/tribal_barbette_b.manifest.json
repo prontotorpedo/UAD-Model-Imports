@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "tribal_barbette_b.json",
+    "hash": "425a78c810feaa8bef4874e8b65346fea69a1c1f3c15e389d99ed2e8f7954138"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_0.obj",
+      "hash": "f49be62ea1228c3ce66e62ce9fbb9725edad418be733b084981335449023b342"
+    },
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_1.obj",
+      "hash": "4cdcb73e967c76e25780d537cc774aba0bba180686ba22ed6143eb21b017fe9a"
+    },
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_2.obj",
+      "hash": "b305fad7eea0d5391b0423e96297a81c6f07293ff47f264748d4981996f8a788"
+    },
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_3.obj",
+      "hash": "8c77a6a896edec88f525c0afea80c3aa7ab7dd8c60017cd746dddef992115334"
+    },
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_4.obj",
+      "hash": "edeb00fa5aabfd5f66ec5245decb79d88e507a29b86ddd633adcf80820aacac8"
+    },
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_5.obj",
+      "hash": "031dddf89a5badb072d50bdc9d9263b1bc42117cab651507bfca385c204c823e"
+    },
+    {
+      "path": "meshes/Dr_Barbette_Tribal_C1_001_6.obj",
+      "hash": "0e1a8444c784bc37b1a2282ee2f33f5745cdb556e7452adef759b1e89f5e3ed4"
+    }
+  ]
+}

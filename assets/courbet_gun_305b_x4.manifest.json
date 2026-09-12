@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "courbet_gun_305b_x4.json",
+    "hash": "2a150761c5d4423f76086b394a3477aa6a5d2ff639ecb4fb39468c5822953126"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dant_gun_cal245_A_barrel_005_0.obj",
+      "hash": "2902b2ef0caddd6efa6f6b2dd29c92dad184d90787ec8c586454110ac2e6ce0d"
+    },
+    {
+      "path": "meshes/Dant_gun_cal245_A_x4_001_0.obj",
+      "hash": "8d743bdfdc8e5dfdbd70b8850fd9a0cea9e6062811006d33aa4b850a5b0208e2"
+    },
+    {
+      "path": "meshes/Dant_gun_cal245_A_x4_001_1.obj",
+      "hash": "39ec7787765aa64d5092acdf949385f3de91758d4a5b0ad407d01b62a9016bfb"
+    },
+    {
+      "path": "meshes/Dant_gun_cal245_A_x4_001_2.obj",
+      "hash": "e241b20e5125ea29db2d4e588bfb89eb2e18167cb77f84b8d45737677a2d6589"
+    }
+  ]
+}

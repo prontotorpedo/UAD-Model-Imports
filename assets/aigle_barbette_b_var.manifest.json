@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "aigle_barbette_b_var.json",
+    "hash": "df81b0d7619706ee2567867f1e3da59094af8ee7aa5216dc4dd57be6be0e9540"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault2.obj",
+      "hash": "a1769b7dd2cc76f372f2a1cef1dddadebbfbcab16a3062b5fdccb960c87d6ebb"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault1.obj",
+      "hash": "a90599ac7ad5b99a1df17fb813b55273eff505ebcccf43f2ddc9f7d176211b92"
+    },
+    {
+      "path": "meshes/1934_Deckhouse_AftDefault.obj",
+      "hash": "1143d5366def41ee5ce7d403a2aa60682da650c790f1ea080876fa6b1d373cdf"
+    }
+  ]
+}
