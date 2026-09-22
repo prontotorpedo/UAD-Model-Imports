@@ -1,36 +1,36 @@
 {
   "main_file": {
     "path": "teg_gun_305_x3.json",
-    "hash": "f742fdae3011d1a4a72eb41e9bf05922b493a485e67263fda1bfc44df27d170d"
+    "hash": "d266c8eae58cbbcca063d3b72e0ac2610860700d0cd25506512043ba237116fa"
   },
   "dependencies": [
     {
       "path": "meshes/vir_gun_305_barrel_001.obj",
-      "hash": "e6235bad203223ec0337e6a49bb27cc4840dc8272b42f30ca4c6b4b21f77ef8f"
+      "hash": "90f923f87d0cd666de121ba4d675be7759ba38b337748dcdfd78e82e4523de30"
     },
     {
       "path": "meshes/vir_gun_305_barrel_002.obj",
-      "hash": "4a1a5a2dad6edbe0be00d73f1bfb9b431201d2ea33132fb38403ebf8fac5d293"
+      "hash": "ceb319ba5cd27a5b1f01d48698e2ad4c34c0ba2a031ee3ad47c501679ed8bbef"
     },
     {
       "path": "meshes/vir_gun_305_barrel_003.obj",
-      "hash": "45fde87447e88adde81b620aad2214ae14954f0057511dfd855d01651480b09e"
+      "hash": "002dcf2de580fa7feca904ad5972dee7c1375e59c57c45f6443dde93bf30485c"
     },
     {
       "path": "meshes/vir_gun_305_003.obj",
-      "hash": "a43a566479c3e397083f1a24275774548f5d583ec6bc28987e3e57644b82d62e"
+      "hash": "b010ee04897aa0df5af9d8f42fa8753f3311fb90b1ac697c82e92384aa2e90b8"
     },
     {
       "path": "meshes/vir_gun_305_x2_001_0.obj",
-      "hash": "14892e57b0d52a66c2143cd117817b7b026f9656038bf270516771dd3519163c"
+      "hash": "940d67e3bb117a0e8461bdd4b0530bf4e5e0f50521cdf8df6d537167508046f2"
     },
     {
       "path": "meshes/vir_gun_305_x2_001_3.obj",
-      "hash": "ab22d96c59e15f496dae4f4ba7b98174efaf8dbdced2543c6dfd8de1139431f4"
+      "hash": "3a429259980078445d1d8786854d1b83e690e30b82e0e281b04d890a1f17cca0"
     },
     {
       "path": "meshes/vir_gun_305_x2_001_1.obj",
-      "hash": "dd30fb965de876a2e3ffbde54458b55d4b1bd991dac596ea6e7d73176108d002"
+      "hash": "a143a6dd9094c74d95c7b6e8290eed2578f1e4c7a4df2e4e05061cd1869dddc2"
     }
   ]
 }

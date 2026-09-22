@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "teg_tower_main_a.json",
+    "hash": "bdb9865effd6f0bf5e120ee8897d6c71936b197f5041caeb9faff31ff0116a47"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_0.obj",
+      "hash": "54b879ce10b8c197936a294bc3df568814a65274a24436f16b2271a6448aa68a"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_1.obj",
+      "hash": "1b40f63f120f6be90bc68d3aa894cecdbf4acae9b34fe9d50b429b4e336fe9f9"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_2.obj",
+      "hash": "d4f097b04b04a9dabe3c655098194a8111470b50bf8bb41d6d63bfb73e535e67"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_3.obj",
+      "hash": "8d5a6122261be71b1d286d499c77f25010a7bdaafe7df277afa79ff376a14b0b"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_4.obj",
+      "hash": "4bf75f1f04b38259465f0f1abf9e7ce1a04fd3f8f0fcc903e5d4e4cb5eb772b9"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_5.obj",
+      "hash": "18f4b825c1a6e63a8c168f350c093b1f5a9d6066d803d129a7cc7c43b68990d4"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Marat_A2_001_6.obj",
+      "hash": "0a03b54f98905b026ede6e0e377473eca3c0d55e3de077f639465fa47bcbe0a8"
+    }
+  ]
+}

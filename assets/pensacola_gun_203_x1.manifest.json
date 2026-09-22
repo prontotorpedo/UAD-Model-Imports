@@ -1,12 +1,16 @@
 {
   "main_file": {
     "path": "pensacola_gun_203_x1.json",
-    "hash": "153a12185208c98db1b97402be28ea1f68c07ef0075a5d8a45e94be7fd49bdd9"
+    "hash": "773ef1aa84f1c26a752775437aa048d960d1c1bf96e450707fa62d0fedacea08"
   },
   "dependencies": [
     {
-      "path": "meshes/Cube.obj",
-      "hash": "4e6672df901559e9992b800841a54584262fa4bee258841a0805a94bfd9a8769"
+      "path": "meshes/203_SingleTurretRing.obj",
+      "hash": "719e6304bb2f425fae622ef9017f83a5384615af1d900907de22290459f60f6d"
+    },
+    {
+      "path": "meshes/203_SingleTurretInterior.obj",
+      "hash": "a42f7e0c6da091a9be29fa02eacc0ff4bebf07d4a69ba1757049ff2176705f23"
     },
     {
       "path": "meshes/baltimore_gun_203_barrel_x1.obj",

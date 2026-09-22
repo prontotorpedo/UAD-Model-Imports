@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "vanguard_gun_380_x3.json",
+    "hash": "19bf782a32226c167356c314df38eeb3045e0ad46221751159fb428d7cc82223"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood_gun_380_barrel_001_0.obj",
+      "hash": "22399e263fb8f387c93719bbe0f39eeeed64dbb0c272aeead60150ee83eee9a7"
+    },
+    {
+      "path": "meshes/Hood_gun_380_x2_002.obj",
+      "hash": "14a96657ce2ed230663b8591107533e36484f87cfe8a2c4558e19c666690a515"
+    },
+    {
+      "path": "meshes/Hood_Deckhouse_A1_001.obj",
+      "hash": "0afd5a409405f76be819bc1a519580bc642219a4488aa1074e11b39427711e36"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "qe_gun_114_mount.json",
+    "hash": "3cf5ee653d5c3622c32ac5ecc03cc12051b21735384c3281df7be962c227dfba"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/QE_pancake_133_mount_001.obj",
+      "hash": "00b8d77fabd4b100c62b391680e7cfd8d9209b8d34d963d8dfa86d50a65bc869"
+    }
+  ]
+}

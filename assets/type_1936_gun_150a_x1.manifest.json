@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "type_1936_gun_150a_x1.json",
+    "hash": "6bfda5186321c8ba32e4998f850dc601f8af942ab27121ffcaef4681adc8e6ac"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/150_TwinTurretBody.obj",
+      "hash": "6029e6cca177eb1f5f4a8faa6580c9909abe993b5a016d7d8fff867e3b11b8fe"
+    },
+    {
+      "path": "meshes/1936a_gun_150_barrel_x2.obj",
+      "hash": "f5f6e13da7db0bdc8b293b1e2493d88fbca5717bd1a4e7aa7bca3a8510c79854"
+    },
+    {
+      "path": "meshes/150_TwinTurretInterior.obj",
+      "hash": "d9f12c63a1947bc8537c959bf1ef36e1122afde290f15dc2266317515eab6823"
+    },
+    {
+      "path": "meshes/1936_TwinTurretRoof.obj",
+      "hash": "e522e823cf430511782c500635382fb7a7d3b163f4f0bf07c620869aebe3f3c7"
+    },
+    {
+      "path": "meshes/150_TwinTurretRing.obj",
+      "hash": "8cfe94ccea7a2e83ce3d01777f8aae819c9043daf0546235e76f7ac999ba4764"
+    }
+  ]
+}

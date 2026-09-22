@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "courbet_hull.json",
-    "hash": "3badb98d7b77d947851741b591f02f19f77656d263326bcc483f77431ce90013"
+    "hash": "31bf81ae411880fb9e0c3b223ebe07da51b24e736f8b0d9bc9dc109ca89a3d3e"
   },
   "dependencies": [
     {
       "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001_0.obj",
-      "hash": "1ed964544e64e8e1900e5baeb68280d1f77deb893100b08163fd6173078b5570"
+      "hash": "c9357e6fe20dcbc35ca8e553dad1e1ffe1b2352d7cee8547a0446384386fee1f"
     },
     {
       "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001_1.obj",
@@ -18,7 +18,7 @@
     },
     {
       "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001_3.obj",
-      "hash": "1fe69cf683374b81908b8487b8ff8b072d87fba1ebba82854ad12e4e6b881003"
+      "hash": "28926d7f9e9d387f4ffcfa412e7795e6698bc8668f02c20fb7817bf91553c5e6"
     },
     {
       "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001_4.obj",
@@ -26,7 +26,7 @@
     },
     {
       "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001_5.obj",
-      "hash": "5cd15574ed07f8fa55b63ddd916ed4dcc55c36840d4f3c61045b944f595f18c1"
+      "hash": "eb354225627a1e3d3c2522159db5145147d8abcc3eefa6736f549165ff9517d3"
     },
     {
       "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001_6.obj",
@@ -54,7 +54,7 @@
     },
     {
       "path": "meshes/Bsh_Hull_Midsection_Dredn_BC2_001_1.obj",
-      "hash": "dca80fd9fa3413f7568c7bae067e39f41bdc2c935ca86e80636b6830be103e28"
+      "hash": "f1a3363c27931f3171d9b63a227843f7d3d1f4575575372ee8c164ef56795d09"
     },
     {
       "path": "meshes/Bsh_Hull_Midsection_Dredn_BC2_001_2.obj",
@@ -114,7 +114,7 @@
     },
     {
       "path": "meshes/Bsh_Hull_Stern_Dredn_AD1_002_1.obj",
-      "hash": "55355e6c775974a6dc7120c7723ad52bff4c032f28e299857f0c41d5bcba86b6"
+      "hash": "362347c0ac127c2f4fddca96120b21ca963061f746809e9716487bbf2e86f0f8"
     },
     {
       "path": "meshes/Bsh_Hull_Stern_Dredn_AD1_002_2.obj",
@@ -146,7 +146,7 @@
     },
     {
       "path": "meshes/Bsh_Hull_Midsection_Dredn_D3_001_5.obj",
-      "hash": "993dbf43f91ce6471d505044ab2e5f5aa2b3ebef17c0eb2c6bd26e3614f6e06d"
+      "hash": "0d8395e39cec1dad553e089df994492a54c9c0c80a046804aa2400c0cebc6b0e"
     }
   ]
 }

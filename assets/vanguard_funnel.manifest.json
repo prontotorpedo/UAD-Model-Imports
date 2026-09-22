@@ -1,20 +1,24 @@
 {
   "main_file": {
     "path": "vanguard_funnel.json",
-    "hash": "8aa888436a3600ad2313f320483fe77e5df6907c6363e0423a2bf117f12576a9"
+    "hash": "fded11641f95478280f957d15a9e9f25e9d46f7b7a1955eb7b43e308eebff6c9"
   },
   "dependencies": [
     {
       "path": "meshes/Bsh_Smokestack_Pola_1A_001_0.obj",
-      "hash": "074c19a06e9927f134f9aa16fca457e9d757b1e5be06cd5ee5ff8a848412d74b"
+      "hash": "dd1aa8910fe576b449c46184697057121d5e60c52ca2158f904f2361d16a9289"
     },
     {
       "path": "meshes/Bsh_Smokestack_Pola_1A_001_1.obj",
-      "hash": "e8cf5d827fac0609aeaeba15083a318127348718048ddb1fdd54b066ee672b77"
+      "hash": "613575b2b41a0206928015973f19d8f6ce6b47ee183ae180c18a23712f20be97"
+    },
+    {
+      "path": "meshes/KiGe_Smokestack_2B_001_0.obj",
+      "hash": "e1c5f4cf1249e7e1a89585cb1c0d2b7ef291903518e1fdf02b9175f9c1a0e9c4"
     },
     {
       "path": "meshes/Bsh_Smokestack_Pola_1A_001_2.obj",
-      "hash": "b777fcfde95a57f485bfac5296f2c268b6db61622335be1b95d2b1a06b7a7dee"
+      "hash": "f26cf1bcb8fc47e9a837196fce606d688ec02ce719f074dfdeabda6ab127bd98"
     }
   ]
 }

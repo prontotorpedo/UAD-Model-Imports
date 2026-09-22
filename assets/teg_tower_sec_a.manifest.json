@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "teg_tower_sec_a.json",
+    "hash": "6e096856b713790570f030b34fad1f7f8baeee94d8fb6db4d351ce52f76580ff"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_0.obj",
+      "hash": "5b6b497f86284adcb62c639bcf38ca58710f59a2e94b4f2df05befa14c5e88b1"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_1.obj",
+      "hash": "cf1021587f40414c790c8720a89c62f18ae998edb7c0ffa81aa228a6c3426834"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_2.obj",
+      "hash": "04e12f3d8965dbd7d087ff4c4a3c66f8fa66356ad43cfc70ed05203b4d640d7d"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_3.obj",
+      "hash": "54418dc634a862b68de120a0d495020b53ef39767783275ca3204d59edda7908"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_4.obj",
+      "hash": "d8c185bf7ee51094ff9d1bf5a76a1ca330603c2ee20b5f340cedfba1dbd92f0b"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_5.obj",
+      "hash": "7f9fe642b859f315a7a8ae5be9efdd34cd9a946732388142c5034f7d02d5be71"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_7.obj",
+      "hash": "bb9ab13a330fc621c45f2a2271aa731fa297cf6b1d06d3a8a319830be5bcd3e1"
+    },
+    {
+      "path": "meshes/Cr_Deckhouse_Emden_B_001_8.obj",
+      "hash": "619d4a5cb3a3356912715b11442e9923c411d404b0ab4e3362dda6f0298fa143"
+    }
+  ]
+}

@@ -6,15 +6,15 @@
   "dependencies": [
     {
       "path": "meshes/Hood_gun_380_barrel_001_0.obj",
-      "hash": "a4b01927046b3d878918fa5a5208a736ae05b18ee55d2e52e96a1079eab509f4"
+      "hash": "22399e263fb8f387c93719bbe0f39eeeed64dbb0c272aeead60150ee83eee9a7"
     },
     {
       "path": "meshes/Hood_gun_380_x2_002.obj",
-      "hash": "3e7c06a0cffeda8a43bdf4bf598a79241eb87e0f22e3d683ce1f765ef130cc55"
+      "hash": "46a62f7901aeb624150390ec46ef7b29823f6b8290f67277411af56ae76978e6"
     },
     {
       "path": "meshes/Hood_Deckhouse_A1_001.obj",
-      "hash": "a665d8827934a5ecddecb5b512660f939f53a3cd5ba90ee37d11d1ef1ee2458d"
+      "hash": "0afd5a409405f76be819bc1a519580bc642219a4488aa1074e11b39427711e36"
     }
   ]
 }

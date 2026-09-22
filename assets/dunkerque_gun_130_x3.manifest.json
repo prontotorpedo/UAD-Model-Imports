@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "dunkerque_gun_130_x3.json",
+    "hash": "cd4227b6a4a8a670119e0a6683ff70de77e5d4eedf384e5d6793caa21389b5a0"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Rich_gun_cal130_x2_barrel_001_0.obj",
+      "hash": "db0879d7039570ebcc1489cb45edf92c27433da783b68d7feb2493fec65ee285"
+    },
+    {
+      "path": "meshes/Rich_gun_cal130_x2_001_0.obj",
+      "hash": "2c8388e06e327e1baa737908ca586e1a2109ad10e0f269da79bba628c2479373"
+    },
+    {
+      "path": "meshes/Rich_gun_cal130_x2_001_1.obj",
+      "hash": "eb3e9edbd2134120c39851409b737075a603a9e1f774cdfb27b9e8996bf88f99"
+    }
+  ]
+}
