@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "king_george_catapult.json",
+    "hash": "850d96dd2d2e86c44fc6d8dc60b2808867752b8fdf93709c481b9590872805ba"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/KGV_Catapult_Base.obj",
+      "hash": "5c75e8d68a5f081a85a135900d9cbed5ba114d71c88b0b15703e34518b04ff5b"
+    },
+    {
+      "path": "meshes/KGV_Catapult_Rails.obj",
+      "hash": "5e50c47929bb9a3e2bb14e4b1d16608a963d2b25539ac0a46fe350690a633aea"
+    },
+    {
+      "path": "meshes/KGV_Catapult_Tracks.obj",
+      "hash": "6d26f0f126c8a4b47d41dd02dde9399b29d535e7bd7bd049fb703aa24e49f1e6"
+    }
+  ]
+}

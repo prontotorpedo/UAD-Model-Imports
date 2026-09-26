@@ -1,36 +1,36 @@
 {
   "main_file": {
     "path": "bayern_tower_main.json",
-    "hash": "95923f0b4ac32f47fbb3027bf79a735d8488d39a262e754965f869ec2ff42f2b"
+    "hash": "13186e0b2bec81808c89c675e80c004f3671b1ef03da991097f23fca3b68725e"
   },
   "dependencies": [
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_0.obj",
-      "hash": "2db3f9b5ff18546b7c9f36bd1cbf172ce706cab9cf87ccaa40884a4312496d95"
+      "hash": "9b1d1613e1a2be3be3e1e9cd3315984a55d3bae6feb15b3627197d8fa1b053ff"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_1.obj",
-      "hash": "719c8f13ad5f893e7599f38dee282eb83f7c8c5876fd39cf8d79b0993d923095"
+      "hash": "8328230ef278e33370dacad45a01230354ca8c65d5412c502dd237a2fbaf60a7"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_2.obj",
-      "hash": "c210b6b07fd1f3049dc22c0f3ded0c82c041dd5467612544baa0fa77cb515d21"
+      "hash": "b84c621a72be2039bfab383c93b6e4137db44687643ff7407baaf9fb4a0bde6b"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_3.obj",
-      "hash": "bfe78fabd81cb5b11b1718dff4a5bb24a16c56c02ffdb76c71d91bb3f2de41e7"
+      "hash": "18102fae95a17a9b9278e825278fdb59de00bf6452899e17becdcc301ffe7333"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_5.obj",
-      "hash": "c260e18930c7f267d93345fa425fea4d5c86254bd9a0e32174ad2a322bac6002"
+      "hash": "0227afc161f2eb7a826d116b2cf1a23593c3df753e383616e085ee9ca0fa8c25"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_6.obj",
-      "hash": "e5cc91a6e0f2a86af4b2e4a51a96f9219c530c7aae4a25aa69a6d07a5d9c71ac"
+      "hash": "91007215aeb1308c3d436901c1ee5080f3c77d2e1680244b374d441d5ca9b8a4"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_7.obj",
-      "hash": "e30302676498060888f2c362a69d498024e60de1f2ea85fcc33444307fe29d11"
+      "hash": "235d835a7872200c15c9ba0f14e9bfd239332167bb239236522a6dbe1349ef0e"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_8.obj",
@@ -38,7 +38,7 @@
     },
     {
       "path": "meshes/VDT_Deckhouse_maine_A1_001_5.obj",
-      "hash": "aabb05d2a833bdc2861f2160f750052ab6ba084379caad44e0367fc7554f60f7"
+      "hash": "822c56de263d9c27634e3d13927be22e7ce6b8fae7708b80aa5f0d2c4712bc45"
     }
   ]
 }

@@ -41,7 +41,10 @@ vanguard_funnel,funnel,Resembles the funnels on HMS Vanguard
 aigle_tower_main_a,tower_main,Based on the front towers of French destroyers such as Aigle
 aigle_tower_main_b,tower_main,A version of aigle_tower_main_a without a barbette
 alsace_tower_main_a,tower_main,Resembles a hypothetical main tower for an Alsace class Battleship
-bayern_tower_main,tower_main,Based on the main tower of the Bayern class Battleships
+baden_tower_main,tower_main,Based on the main tower of the German battleship Bayern
+bayern_tower_main,tower_main,Based on the main tower of the German battleship Baden
+baden_tower_main_var,tower_main,A main tower for a theoretically modernized Baden
+bayern_tower_main_var,tower_main,A main tower for a theoretically modernized Bayern
 belfast_tower_main_b,tower_main,Based on the front tower of  the modernized HMS Belfast
 belfast_tower_main_c,tower_main,A slightly narrower version of belfast_main_tower_b with a smaller barbette
 bertin_tower_main,tower_main,Based on the front tower of the Emile Bertin class Cruisers
@@ -60,6 +63,8 @@ hawkins_tower_main_short,tower_main,"Based on the main tower of the C, D, and E 
 hood_tower_main_b_barb,tower_main,A version of hood_tower_main_b with an integrated barbette
 hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana
+northampton_tower_main_a,tower_main,Based on the main tower of the Northampton class Heavy Cruisers
+northampton_tower_main_b,tower_main,Based on the main tower of the modernized Northampton class Heavy Cruisers
 omaha_tower_main_a,tower_main,Resembles the main tower of the Omaha class Cruisers
 pensacola_tower_main_a,tower_main,Resembles the main tower of the Pensacola class Heavy Cruisers
 pensacola_tower_main_b,tower_main,A version of pensacola_tower_main_a without the integrated barbette
@@ -77,11 +82,13 @@ tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to
 vanguard_tower_main,tower_main,Resembles the main tower of HMS Vanguard
 vanguard_tower_main_b,tower_main,A version of vanguard_tower_main without the side barbettes
 warspite_tower_main,tower_main,Made to resemble the main tower of HMS Warspite after her modernization
+warspite_tower_main_b,tower_main,A version of warspite_tower_main without the integrated barbette
 ##,,
 1934_tower_sec,tower_sec,Based on the rear tower of Germany's Type 1934 Destroyers
 aigle_tower_sec,tower_sec,Based on the rear towers of French destroyers such as Aigle
 alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace class Battleship
 bayern_tower_sec,tower_sec,Based on the rear tower of the Bayern class Battleships
+bayern_tower_sec_var,tower_sec,A rear tower for a theoretical modernized Bayern class Battleship
 bertin_tower_sec,tower_sec,Based on the rear tower of the Emile Bertin class Cruisers
 bismarck_tower_sec_a_funnels1,tower_sec,A version of bismarck_tower_sec_a with a flat spot for funnel mounts
 bismarck_tower_sec_a_funnels2,tower_sec,A version of bismarck_tower_sec_a with a funnel box
@@ -99,6 +106,8 @@ fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the C
 g3_tower_sec,tower_sec,Based on the rear tower of the unbuilt G3 Battlecruisers
 hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana
+northampton_tower_sec_a,tower_sec,Based on the rear tower of the Northampton class Heavy Cruisers
+northampton_tower_sec_b,tower_sec,Based on the rear tower of the modernized Northampton class Heavy Cruisers
 omaha_tower_sec_a,tower_main,Resembles the rear tower of the Omaha class Cruisers
 pensacola_tower_sec_a,tower_sec,Resembles the rear tower of the Pensacola class Heavy Cruisers
 pensacola_tower_sec_b,tower_sec,A version of pensacola_tower_sec_a without the deck superstructure
@@ -138,6 +147,7 @@ iron_duke_hull,hull,"Represents the hull shape used for British 13.5"" Dreadnoug
 king_edward_hull,hull,Based on the hull of the King Edward VII class Battleships
 neptune_hull,hull,Based on the hull of HMS Neptune
 north_carolina_hull,hull,Resembles the hull of the North Carolina class Battleships
+northampton_hull_a,hull,Based on the hull of the Northampton class Heavy Cruisers
 pensacola_hull_a,hull,Resembles the hull of the Pensacola class Heavy Cruisers
 renown_hull,hull,Based on the hull of HMS Renown
 usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates"
@@ -203,6 +213,7 @@ dunkerque_gun_130_x3,gun,A triple turret version of dunkerque_gun_130_x2
 dupleix_gun_203_x2,gun,Based on the main guns of the French heavy cruiser Dupleix
 dupleix_gun_203_x3,gun,A triple turret version of the guns on the French heavy cruiser Dupleix
 hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2
+hood_gun_380b_x3,gun,A shorter version of hood_gun_380_x3
 laudon_gun_350_x2,gun,Based on plans for the twin turret of the Ersatz Monarch class Dreadnoughts
 laudon_gun_350_x3,gun,Based on plans for the triple turret of the Ersatz Monarch class Dreadnoughts
 mackensen_gun_350_x2,gun,"Resembles the main guns used on the Bayern class battleships, as well as the Mackensen class Battlecruisers"
@@ -268,3 +279,7 @@ vw_gun_120b_x1,gun,"Generic single gun for destroyers and cruisers. Based off of
 vw_gun_120c_x1,gun,"Generic single gun for destroyers and cruisers. Based off of the 4.7"" guns on WWII era British Destroyers"
 ##,,
 banana,special,A banana for scale (note: banana is not to scale with a normal banana)
+king_george_catapult,special,Based on the midship aircraft handling facilities on the WWII era King George V class Battleships
+usn_catapult,special,"A generic aircraft launching catapult, based on the ones found on US Navy ships"
+usn_catapult_short,special,A shorter version of usn_catapult
+usn_catapult_tall,special,A taller and longer version of usn_catapult

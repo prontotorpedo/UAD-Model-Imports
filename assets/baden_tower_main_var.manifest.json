@@ -1,0 +1,44 @@
+{
+  "main_file": {
+    "path": "baden_tower_main_var.json",
+    "hash": "72d5b0f0341fd6b50cdcbd3c3d025baa82f8227bcd6141cbb01defaba4f0fabb"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_0.obj",
+      "hash": "b64949d849c18616681a380bac97f55d31ec44249b4176d236aadd277afdb163"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_2.obj",
+      "hash": "ed9e5106b43dceb1c6554855d25cdfeb7ef13caace42602a05b763395c3932ba"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_3.obj",
+      "hash": "e9f9c094574520beadb19fb403f787a4d24606f373febf958415f0fdfebdd910"
+    },
+    {
+      "path": "meshes/Bis3_Deckhouse_A1_001_0.obj",
+      "hash": "0c98e14efec8994041776ba1a73533b3b3bf881551c79ae2e6443d3594382499"
+    },
+    {
+      "path": "meshes/Bis3_Deckhouse_A1_001_1.obj",
+      "hash": "d5ee5b519f8f8a4e2761f04ddb3467afd554a7c657ef5bc17d9b6a828a08e6e0"
+    },
+    {
+      "path": "meshes/Bis3_Deckhouse_A1_001_2.obj",
+      "hash": "90807fa736d90ee4dc6f72fd5b40f953ca76a0098757b35f1fcf36b86f644ab8"
+    },
+    {
+      "path": "meshes/Bis3_Deckhouse_A1_001_3.obj",
+      "hash": "80846e1e5d2039f2475ac83f0d4baa61551bad5f828df939cb7691e6df76123b"
+    },
+    {
+      "path": "meshes/Bis3_Deckhouse_A1_001_4.obj",
+      "hash": "90795fd905f6b61c293914baa4fe5722266202534449349c20e0fc2cd19c00db"
+    },
+    {
+      "path": "meshes/Bis3_Deckhouse_A1_001_6.obj",
+      "hash": "72faa6200ee48b8d12ac70708d6f61e554b8cdb38a1793f260c03242b9ea3f17"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "usa_catapult_tall.json",
+    "hash": "4356300dc62e20b6d0eb1973b45ed41acafeceffe72870fe00e67ac1b3a55f5d"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cube.obj",
+      "hash": "32e3efe7c685aa09eed8a8cfe19efeec83fc06443ad9756df4a4cca29bee48ed"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "northampton_hull_a.json",
+    "hash": "5433083705f6c593a6f7ec47a1760b945e24fa867962b46fab7ae9ea430c8b1e"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Northampton_Hull_Rostrum.obj",
+      "hash": "2429a73d2b272f5a3ac1ee75513b65a3f72dc800c042281125e16aa68d717816"
+    },
+    {
+      "path": "meshes/Northampton_Hull_Midsection.obj",
+      "hash": "bdfd6b600397a8b243f75255351f35230238b1d87f20af91cd4d33637e51b903"
+    },
+    {
+      "path": "meshes/Northampton_Hull_Stern.obj",
+      "hash": "d99082fe3565ddde4f39d491ceba2fd20e241ca68c517e4a5e99ea60cb0b98b9"
+    }
+  ]
+}

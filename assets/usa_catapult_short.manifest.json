@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "usa_catapult_short.json",
+    "hash": "774959423afb8ae9c97e40bcdef87f6e98557cf615cb4a1e302049c7472043e8"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/generic_catapult_usn.obj",
+      "hash": "dbf90a0eb83aa92b5d86d03664b866907ceb21680ccfa25f0d35c3f7f72c6701"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "northampton_tower_sec_b.json",
+    "hash": "23fc4a1580aa80d2c73929c7bcd88f71213ae2bd3afbef04776e384bf0611fcf"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cube.obj",
+      "hash": "a03e2474b22b9ccc343622154bbca9cbd505bd13f45dab6b7bd7ea45d51566c2"
+    }
+  ]
+}
