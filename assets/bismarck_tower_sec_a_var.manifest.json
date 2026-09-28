@@ -1,44 +1,44 @@
 {
   "main_file": {
     "path": "bismarck_tower_sec_a_var.json",
-    "hash": "e28781bf9e6bfcc684c54ae063982e7010d6157441f30b5576f83336b4606e90"
+    "hash": "a8de43c5159ee15403ca02c099faba7fce789961444fcd470c6104bdb2c2a85f"
   },
   "dependencies": [
     {
       "path": "meshes/Bis_Deckhouse_A2_001_0.obj",
-      "hash": "876c4a23eedf7b51d3a47c8188f2413422ed68981aa7a1eb7abe9f3e556d9735"
+      "hash": "ff7892a00f6428b377e63d9cd5445316d2390c4fa2cae880721f4844e43c0dba"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_1.obj",
-      "hash": "c64e9586c7bd7a7c708dbb67f34864909b8924ab6a304a9fae2787b0ef33a154"
+      "hash": "6fa02de4765f70f081475cc03e50e38e807f9e198f492a2d9596f7816b8b29cb"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_2.obj",
-      "hash": "073aa581bc8ceb5eba2ec719e3c9e71ca30b4f5c09b13716439ae82970de90da"
+      "hash": "f67a2f595e18028b9ab60d54560e3f5d739906c6abccc0307bc076981f7b40c8"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_3.obj",
-      "hash": "ac12f6abda190c24ed36b7b63374fb63bcc54cb0bd76579bbafbd0042ca50824"
+      "hash": "b0de503a7830d48557db667ee438dfb2f4d682b02a62418e93201813852427ef"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_4.obj",
-      "hash": "addb625447d4955bae943eac42137bde9d506075a5ef76a207c288c15ac4dc35"
+      "hash": "07c8224be6482e68e612f558ee83e8de3757cb6b19700a345fbc57a645f58590"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_5.obj",
-      "hash": "3cf6e3ac6bea3ef7025fd0241a4e92b1b90b36c0735237f501b8dcdfaf048cca"
+      "hash": "3951c0a9bb18a402b192ca034969c6baac0e0652445e73c792cd439a098608f5"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_6.obj",
-      "hash": "e34038d0dc01522dad985ecf2e917f7a1b623d62e9c3194da2628e3e7603f135"
+      "hash": "87d28863ab488bee6d11aedf70c8d847b0193482181cb45ee9a5a1489a644015"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_7.obj",
-      "hash": "7ffc44bb437c8208fb905d6a98b2dc0b15272263d84c40058b33fb406265eeb7"
+      "hash": "73592462b514c76239a08659ddd13065a1a70feef8f708c7fee79396ec5a84e6"
     },
     {
       "path": "meshes/Bis_Deckhouse_A2_001_8.obj",
-      "hash": "71b95013139eb51767f7ada39f4c745fa2f61b1f7157f1c6e1ef2c06ed545686"
+      "hash": "e491798fbe3157462c894bbc2aae88244b0c73cd2d71f8a9079eac726c805947"
     }
   ]
 }

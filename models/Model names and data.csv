@@ -280,6 +280,6 @@ vw_gun_120c_x1,gun,"Generic single gun for destroyers and cruisers. Based off of
 ##,,
 banana,special,A banana for scale (note: banana is not to scale with a normal banana)
 king_george_catapult,special,Based on the midship aircraft handling facilities on the WWII era King George V class Battleships
-usn_catapult,special,"A generic aircraft launching catapult, based on the ones found on US Navy ships"
-usn_catapult_short,special,A shorter version of usn_catapult
-usn_catapult_tall,special,A taller and longer version of usn_catapult
+usa_catapult,special,"A generic aircraft launching catapult, based on the ones found on US Navy ships"
+usa_catapult_short,special,A shorter version of usn_catapult
+usa_catapult_tall,special,A taller and longer version of usn_catapult

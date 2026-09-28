@@ -1,12 +1,28 @@
 {
   "main_file": {
     "path": "northampton_tower_sec_b.json",
-    "hash": "23fc4a1580aa80d2c73929c7bcd88f71213ae2bd3afbef04776e384bf0611fcf"
+    "hash": "f9aeea8a7f4ffd97a3eb6d7cf17f4207ed7cbd55b5c3eaa24b8f4f5fb4086aba"
   },
   "dependencies": [
     {
-      "path": "meshes/Cube.obj",
-      "hash": "a03e2474b22b9ccc343622154bbca9cbd505bd13f45dab6b7bd7ea45d51566c2"
+      "path": "meshes/Northampton_tower_sec_mod.obj",
+      "hash": "54637e5a165f5d925b1bcd0bad2d7c2dcdbdc96db2837a57aa017b26242c5a16"
+    },
+    {
+      "path": "meshes/TorpCovFL.obj",
+      "hash": "1c24280f83db01fa7a8f2931a7ba5c27c522fee4f807544889514c8f51efa2b0"
+    },
+    {
+      "path": "meshes/TorpCovRL.obj",
+      "hash": "192fac86a85dbc80784bea3c34f4c6c0addda61b2a82d2885943d404b6be73d3"
+    },
+    {
+      "path": "meshes/TorpCovFR.obj",
+      "hash": "768e06d92607f53678738fb429732b7f6af0b792e6709c07e1db9ce3593e28e1"
+    },
+    {
+      "path": "meshes/TorpCovRR.obj",
+      "hash": "d0cf3e50c735dd5f3d2760f16b298369c10b7378a9fa318e642bdec7ab003a37"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "main_file": {
     "path": "bismarck_tower_sec_b_funnels2.json",
-    "hash": "ce3477c7e9b9d51df127f5df0bd426b630f2e141bb94306a1e41c4970d8a3dfd"
+    "hash": "bddeec1e2db0ff041fa639a1bbaa1e5152491b089fc5b58b4087a149292413d2"
   },
   "dependencies": [
     {
       "path": "meshes/Bis_Deckhouse_B2_001_6.obj",
-      "hash": "d9b5005c4357ba4cf26f4f1d9248c7df9e2dd9f2106b17c17b7bb33b21a25ed6"
+      "hash": "524dc3b49286fab5844378fa92eec9494a7f74066fa3af56950ba5fb43e4967e"
     },
     {
       "path": "meshes/Bis_Deckhouse_B2_001_4.obj",
-      "hash": "f82ff60333596363e144bb06a523c5cdc6cdc2c8f5d1e80140a916041e681b37"
+      "hash": "b9b9c51f5142fe4483b4b4bd184e4c68cc727111087c292c56d80cda45ab93eb"
     },
     {
       "path": "meshes/Bis_Deckhouse_B2_001_3.obj",
-      "hash": "a42002f2752568c6b8b0e74870dd857bcbbd155e7ac73c790030f90d96a8db48"
+      "hash": "4b4ecc5af20ec80ee9753ad6bb1ed7357682a6b25aecdbf8c71c90eccce3f9e6"
     },
     {
       "path": "meshes/Bis_Deckhouse_B2_001_2.obj",
-      "hash": "c526dc3099d4a53ea46eb27d31bb38180a45bdf2bb8e77b83683a694d0c8494a"
+      "hash": "8fb7c5dcf1a1b91a239ec5534ecb3b065ec4e07c974462b3da82e2770b08f11c"
     },
     {
       "path": "meshes/Bis_Deckhouse_B2_001_1.obj",
-      "hash": "1d790ae724f0e0bfa0bf155f287efcc07d61d1c0946009a1341cc087a6fea64f"
+      "hash": "6a92bd11fa1bf3e1defabc96c90da7da2ceb873d1278b22837d8ab1bd6ec1c3b"
     },
     {
       "path": "meshes/Bis_Deckhouse_B2_001_0.obj",
-      "hash": "4f18a633ee8a13955d9f6d3d5db32b444f392acb7cb053012afbcfde3b0b9660"
+      "hash": "c76aaf99470c94699ee39456143213641f32364b03dfa5518df6500b65185a00"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_1.obj",
-      "hash": "5edb0892e2ffba6ff67a5c409d25e135df1b4ed1301e776387d3f85c68c54ed0"
+      "hash": "347caf85f314e743100262ae5d433d4a617abcd40ba7d13488198766d7a24a66"
     }
   ]
 }
