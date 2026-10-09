@@ -1,28 +1,24 @@
 {
   "main_file": {
     "path": "g3_tower_sec.json",
-    "hash": "c00a40ceccf7929312f9e089bbbd17e6aa8a0122db917b4c542964bdda15fba8"
+    "hash": "147a359b908865d660d04c24b23eb99b4b8a5db4650044dc1991d1b502ec16fd"
   },
   "dependencies": [
     {
       "path": "meshes/Nel_Deckhouse_A2_001_0.obj",
-      "hash": "22ebcbec9129999b7b191ac581676004018d32f546bc1f0ef71d9ab09e6d66b4"
+      "hash": "81fb6b109e455485d3d8583f28a62233977a16e421f9cf9716820bccbc6c9ee1"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_1.obj",
-      "hash": "cf3f2863cb1c8ff2d2a1a75068eabfc5375a011fb9902f825bf574282813c3d5"
+      "hash": "5f5c9df6861d551832e9993a5243dbefa0d554cfb31acc63550a4e8821abcf02"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_10.obj",
-      "hash": "34fb38ddb736ad45e498bd68718a75e5d5dc80feadfd88d97fd71fd6660aea61"
-    },
-    {
-      "path": "meshes/Nel_Deckhouse_A2_001_11.obj",
-      "hash": "99f540464d305bd95248a56194f774100c19715c0989e59b48ef61b2c5f1c5b2"
+      "hash": "b7b2174695f4461acedf56727d5f1461e07a2e9aa8918c96059dc81982a33bf8"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_12.obj",
-      "hash": "98880aac1e94261efc82dae711b38e0371eb1f890f9834339faa0bdace95509f"
+      "hash": "67f4b959f4f16925cd64c2b6f695ec007a047cdc745394fc6076d09b73a589f1"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_2.obj",
@@ -30,31 +26,31 @@
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_3.obj",
-      "hash": "2ba8478dbb9e2a04bd1b1756fd51315276774afdb5d12a69b8130dbf57810b2c"
+      "hash": "1ccffd5289ab6fbc2fc6480f8a3782c8efe79ae19db5bd28a78d22b87da1583a"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_4.obj",
-      "hash": "5a635bfe8e7e78ad8de156065229ce94840f40e6f50d5b0a6079142e19e10ce5"
+      "hash": "15fe6687b2218025b6826bb600b9216c183b1ed6c7863e0dea47a86400988e15"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_5.obj",
-      "hash": "0c250972a3adbc23014788e700f07cf290f1b8a7d8d2358a87d0f9325443a9fc"
+      "hash": "ef63a0c9106d27e9c757199e341944ac7df7b03112cae5b1bffa1c00b4bd82e8"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_6.obj",
-      "hash": "2459853eaeb738c2ea582de1c3994de1bda7379dffd39a39ea00972a5a40c426"
+      "hash": "4a7f1b96763b90ae6615f3db55950827d6d8067965636338c5fa80a63f25f0cd"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_7.obj",
-      "hash": "b3106144cef449029c73556d3268055d13d866e92ec05edd0242855ff030892d"
+      "hash": "1778ed0d0aaa7093efa6c6e15751f619a69d78da8ba0406b20de53106bf8f25e"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_8.obj",
-      "hash": "841acb1a93597e4be67f19492f069abf28537de01c941d75a05d32d78cecfebb"
+      "hash": "02fcbedad041c25475fb8152ef1e287b0202ed922312666228fc0c82518f719b"
     },
     {
       "path": "meshes/Nel_Deckhouse_A2_001_9.obj",
-      "hash": "1e25ddb38e73b2d14aad23f829f078da046f562634ed389084efc48db05c7e65"
+      "hash": "95014f3bd335bb298d8a133ab60a044332496e7c0ff84efc1fdcd03187365fd6"
     }
   ]
 }

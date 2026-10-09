@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "casemate_fairing_a.json",
+    "hash": "b8ec47c602c686254ee4bb946ecab5b8962946243364820c125d05fa9abf06ad"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Casemate_Fairing_A_001.obj",
+      "hash": "250942ddfd3fb2d83ac4067b8807a7bf0ff5ea83db85b7f6d7fbd7990fd1eab1"
+    },
+    {
+      "path": "meshes/Casemate_Fairing_A_002.obj",
+      "hash": "62ec44774488adda542cfb5bc811b3faff7ae0ff71d76943c7227ff73614e593"
+    },
+    {
+      "path": "meshes/Casemate_Fairing_A_003.obj",
+      "hash": "66b27a2bbb04eaa5a9dd193747ef2aa0808da66351c34c3232381a135c51738d"
+    }
+  ]
+}

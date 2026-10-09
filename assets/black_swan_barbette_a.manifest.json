@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "black_swan_barbette_a.json",
+    "hash": "6b1fda7aefd0e7d70144ff5fee3d272237dcc6bef1b3b7e15e04c7591516d251"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_0.obj",
+      "hash": "ebf3ec2202c1968c8c7b510e079d7faa3b7b6f2aeaf6ed43888cb9ea16aaef41"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_1.obj",
+      "hash": "1589e7c3b175a5949974dd517ebcf1da0255f095e56ce6ad01858dcc175c0d60"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_4.obj",
+      "hash": "2ed0157aaeb44bb773a19641a605660bd10ff80528a47dc4260fa1063977b4cb"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Aki_2Z_002_7.obj",
+      "hash": "e363da629e1e52e95eb726c34da5db8afd9797d588f94ea779c714677a371a84"
+    }
+  ]
+}

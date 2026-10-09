@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "hipper_tower_sec.json",
+    "hash": "c39b41882eacf829e524d4600947a76a5510ccd79d73e6af618c19b5eeca5c00"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_0.obj",
+      "hash": "ade00bff1234b3f2a3c92196c1471b785f857822b44f69659f6a9b41bbc8230c"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_1.obj",
+      "hash": "047181bf392ed247266b9c8f399f4876704d764ec9b9cb8c9a6b7162be132fea"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_2.obj",
+      "hash": "3ffa464b8c4ad439ffcfc740cf93813592fc1428f890fbea5a5a0d3dd9210e95"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_3.obj",
+      "hash": "8d933e75a5448e64ce0ab9ce875fb92fdc025c396da77690e4c8c441a52aaecf"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_4.obj",
+      "hash": "da8bee111d2044fdedfcbc2131345ce5c797a7e8656091246ef598342877c418"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_5.obj",
+      "hash": "a6875e6fd73424bb8cf5ded23fb42b02fb2b1b5f691e5413666ec1a672750150"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_6.obj",
+      "hash": "503923fc7ce0711789c5056a5321751235ee47b9dd0f70c14bcdec8fb0a6a283"
+    },
+    {
+      "path": "meshes/Bis_Deckhouse_A2_001_7.obj",
+      "hash": "7dff1e83c43e38e4b9ff674aa491f8022f6814f0c9aab0ba3eb984dd27c63871"
+    }
+  ]
+}

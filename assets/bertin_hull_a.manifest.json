@@ -1,0 +1,128 @@
+{
+  "main_file": {
+    "path": "bertin_hull_a.json",
+    "hash": "9b037152d658f0b415dbc9b67fa8efad438116a0bb4a2b9c76be2e08c42b4250"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_0.obj",
+      "hash": "3e1ed43d830dacfd2ec751b96496c606a703b517e6d2c4150b6d6d79d887b208"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_1.obj",
+      "hash": "9fea77a72d87e177ea5be85d82b40b3ac114eb8e2bb9b2cf40da30b5a5d3abc2"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_2.obj",
+      "hash": "0274d1bed7e401196c61ba5726d6c0e0b4d0b7b05952690d65eef9c21a29d8c0"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_3.obj",
+      "hash": "07d2a6e981c7eabf6bf7af10c4d7e603c37929907d46af1ec30dc41fd7feadc0"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_4.obj",
+      "hash": "3fba92ee4ded4e845aa5cf0b282dbcaff26587b3e382bb713744b9457c2b6ab0"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_5.obj",
+      "hash": "cd7b705b2ec77a2c791d092edfa4736ad4994366f171dc2168a6db3a9dfcd597"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_6.obj",
+      "hash": "53992b5203878509716f5fb3b40092fbef9c2ee7dcd752010a032e4781b5a772"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_3B_001_7.obj",
+      "hash": "51c713fe90386a1ee9ccbaa33abf8421a8efd7c70c0c37433d594613b4edcc91"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_0.obj",
+      "hash": "58831095a4091b6ee974ceeb05392d1626029019bd84982d18dca912b83fee31"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_1.obj",
+      "hash": "81a3b81fec0220fb3644142f07ef4cf69d7c0c5709185691cd788490db0e2604"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_2.obj",
+      "hash": "7441780a5c1acb8ae25d73df75581eb3fb84b349a83d36a89c1347ef3d5ab396"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_3.obj",
+      "hash": "77b1fd6944e0f1590b8bc76b9b591acf014d144506a1f52973fd50bbde1604ba"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_4.obj",
+      "hash": "5bd5bbe537f7b407e5f0293583989d25d734a7fe2be466e467315c381b310d7d"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_5.obj",
+      "hash": "bda2cd9b02a9e8098c174b08cf8b174844a607c062b57bd81da806f7684e96f9"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_6.obj",
+      "hash": "9db77d4d626c8297400698117b51a804d67d1b3fdc846b097edc6875923c73aa"
+    },
+    {
+      "path": "meshes/DidoX_Hull_Rostrum_A_001_7.obj",
+      "hash": "204d847d2f60a55dd5c51df9561d7d3066e9b72f8a3d28bd7c6e072213d6d79c"
+    },
+    {
+      "path": "meshes/Bertin_Hull_Rangefinder.obj",
+      "hash": "8819f8419b8d7a8e5990d3a991796424bd1ba05403daa950c92d5f1f3f429252"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_2A_001_0.obj",
+      "hash": "81d8949274412870316838e0050258a3c037081c40458afb8c153f614dc56a32"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_2A_001_1.obj",
+      "hash": "3380724bc68c1ec6f46b078751fc3a86ba4d463ee0e15578d966fa06a3a9fae8"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_2A_001_2.obj",
+      "hash": "f382557a20d0fd96ef0c696feb6a1dab23372601ed894871417c07d84b78a4ed"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_2A_001_3.obj",
+      "hash": "bee9a2128716adbcd46d0f227cd97ae5c92094bc2d59718ec327d7c884b7bcda"
+    },
+    {
+      "path": "meshes/Dido_Hull_Midsection_2A_001_4.obj",
+      "hash": "1c41711c0d135582a0e2bd8834baf1512e61580be6c022f791265f28fb422bbf"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_0.obj",
+      "hash": "bf394634de05cb533bc33fbd169cd64306b72eb1f62495836475d7ed5497dffb"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_1.obj",
+      "hash": "6b26860ff8a728e561f3930cb40d18d1d051e15306ac17b7f7a1bd87d23f9350"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_2.obj",
+      "hash": "dd040243c8c4cbace01fe5d753749e4b5982666cf9c6c02754171e6361adef05"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_3.obj",
+      "hash": "f70bb5e7c0e187c5b9664a90c6ade868c9511f60f7b026d834292a99aac4a861"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_4.obj",
+      "hash": "7063cde73d3764fc5c4856410e39957ac5e776de53b60ef6ce68e0d5d83af840"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_5.obj",
+      "hash": "c9728a0c18d012365350f48cdda1f471fc04c4d80d9947ca9cf836d08bc688e0"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_6.obj",
+      "hash": "56e25d2f64c239a44da0d2c45cb014e2f6b84be0f6ab80436679917afc610ac8"
+    },
+    {
+      "path": "meshes/Dido_Hull_Stern_A_001_7.obj",
+      "hash": "c17e7ffca957f2c7cff5706d297743b31950ac2b744125786c8116a0042bd5f8"
+    }
+  ]
+}

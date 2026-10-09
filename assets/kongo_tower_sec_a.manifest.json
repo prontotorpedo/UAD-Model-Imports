@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "kongo_tower_sec_a.json",
+    "hash": "db04a1b74ea4056200bdb343e86baca412e7bd1d52267fa939e3bdc50cd1d236"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_0.obj",
+      "hash": "3e36fd884b8a00e0d6c9a887ba3e3603a83ec89cb209bd7fce56221e79dbaec2"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_1.obj",
+      "hash": "0fc65800a965761c7e2fd27c30a8220e030baa519b8df4e54e4b5e4ccf260ef8"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_2.obj",
+      "hash": "27fafaba62cf00cab983776b3e6bde456add8a6ddc5fbfc1d7e6d0e0b61c71ec"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_3.obj",
+      "hash": "a7883fd525fa0b07b50518ba1b691711c5fd16c11420c3ef7ce687d6a655f6ad"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_4.obj",
+      "hash": "574ccae29b4133f7060cbb3fd7ec9d920a831f1291c425f60c4c8c8e1e9ff4cb"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_5.obj",
+      "hash": "64c96d45af174c8dd2c31b9afbfee62af4abcfb4ad23a18c4ec68e249dc8bdca"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_6.obj",
+      "hash": "d33fa80a3745af85a0c7dbfacccbda812e07df742785f56b31510e00fb57b144"
+    },
+    {
+      "path": "meshes/Bsh_Deckhouse_Dredn_A_001_7.obj",
+      "hash": "4f91b2f43780c12fb284214dca0056390357461af3452c782adbfdd14107324b"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "leipzig_gun_150_x4.json",
+    "hash": "ea1537c34313b55cceeeeea67429ec244f69dc6f1d7cf8d51ea4245bfcd47613"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bis_gun_150_barrel_001_0.obj",
+      "hash": "948abda83763c146cac090232ded331c7d1273858e6aa385ff76cff298b1a571"
+    },
+    {
+      "path": "meshes/Bis_gun_150_x4_001_0.obj",
+      "hash": "9accf4ad287f09b7c0d8715aa8205d2272e2624d5565253dbac90824dcf0473c"
+    },
+    {
+      "path": "meshes/Bis_gun_150_x4_001_1.obj",
+      "hash": "f068678e10e12e6823fb5191a64b62f7303fae79bbd240b163b5175edf58f5db"
+    },
+    {
+      "path": "meshes/Bis_gun_150_x4_001_2.obj",
+      "hash": "4ef7615f3762a2924e5d170dbbf678e1ed0cf620a73af659cff2c603282a437a"
+    },
+    {
+      "path": "meshes/Bis_gun_150_x4_001_3.obj",
+      "hash": "af61c8741a1280fc51d38e3cfb99f465ca5fa2c789288b00dfe288cddab20169"
+    },
+    {
+      "path": "meshes/Bis_gun_150_x4_001_4.obj",
+      "hash": "bf86fee8629c3dceb3697bf429499d84c683d3706cf9520b842264d34e98e657"
+    }
+  ]
+}

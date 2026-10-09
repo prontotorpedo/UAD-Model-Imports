@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "hipper_gun_203a_x2.json",
+    "hash": "6cc713779123f1b71aef990b62a5677d99266a8de28acadcbdee4cc54c4966d1"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/crs_gun_234_barrel_001_0.obj",
+      "hash": "a5a1017ba31cbdc84d16c8664b40a06410edf4ce8bc740fa17f3e834424f2c94"
+    },
+    {
+      "path": "meshes/Bis_gun_380_S_x2_001_0.obj",
+      "hash": "a95e5e63f6b8961fcc9a54a09cf1fc6284e80af70ea250ce0549d64d37a73a81"
+    },
+    {
+      "path": "meshes/Bis_gun_380_S_x2_001_1.obj",
+      "hash": "64267efca9b0e524e970a30a34ea746fb4679dbb09b4a3150b460e186409e0c7"
+    },
+    {
+      "path": "meshes/Bis_gun_380_S_x2_001_2.obj",
+      "hash": "b6a5f327d8045419641936089c4e6277213349b8537628d2a7e85cedadbb7bd9"
+    },
+    {
+      "path": "meshes/Bis_gun_380_S_x2_001_3.obj",
+      "hash": "738cf931b9480b06636b7c9e86b83259527116003c4a949ad1d8ea636eb4fb4c"
+    }
+  ]
+}

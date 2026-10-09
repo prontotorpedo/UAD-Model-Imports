@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "torpedo_b_x3.json",
+    "hash": "22dd1e18da063f224d831dfee7b59665705323b6b884a1bf9744a8e8047b7d55"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Torpedo_4Tube_AA_002_0.obj",
+      "hash": "55f5114a8674ca95403258dc4354079be1ca46c5df2462eb82baf2018e338def"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_4Tube_AA_002_1.obj",
+      "hash": "7c6cefeaf39fccabed979a3e485b6abf5a99095e8d8c1ba94cb96bdaaaa0671d"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_4Tube_AA_002_2.obj",
+      "hash": "db6c2fb9fc643f722240f6f0dcc2ddb85f22101bbdbcaf3c43744ddf2211eedc"
+    },
+    {
+      "path": "meshes/Dr_Torpedo_4Tube_AA_002_3.obj",
+      "hash": "102e25a060db476f762c1e7b2841c6cf123665e63a1ab63db79602bbfbcbba2b"
+    }
+  ]
+}

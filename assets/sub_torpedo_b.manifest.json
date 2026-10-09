@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "sub_torpedo_b.json",
+    "hash": "328422e1682e2e4bf12fc419e4c36b6a24d628df494f92698cdfcd845e82b6c6"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Torpedo_1Tube_AA_003_0.obj",
+      "hash": "513e5554ac1b6092b2da8499d42e4a984e9323af016ba7f61d59ac5caaab8286"
+    }
+  ]
+}

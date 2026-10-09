@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "mikasa_gun_305_x2.json",
+    "hash": "ee85546a48f8aff23467a842c90abdec91e591b27559965ad9da6b5221ea3b81"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/305_TwinTurretRoof.obj",
+      "hash": "e8e267bb08d2a1e4617cbbf32640ea600007dcb5599a2a2e936eb11539970966"
+    },
+    {
+      "path": "meshes/305_TwinTurretInterior.obj",
+      "hash": "815fbdf0f18bc80174ff27d399eedd56b066b24b1ae27d5ac139d059c1222897"
+    },
+    {
+      "path": "meshes/305_TwinTurretBottom.obj",
+      "hash": "1877799bcbd4c24199feb60d9558e7c0e1cd2e8f88fac26c4d725c31328076de"
+    },
+    {
+      "path": "meshes/Mikasa_gun_305_barrel_x2.obj",
+      "hash": "d775b07969c56a1ca87512e252b745b679e51e50323499ca85bf3cc4e0ed32f5"
+    },
+    {
+      "path": "meshes/305_TwinTurretBody.obj",
+      "hash": "fbe7f25877ea179f3f28e4a12af5b79e493208ab5d8fb865d85e21cca5acd760"
+    }
+  ]
+}

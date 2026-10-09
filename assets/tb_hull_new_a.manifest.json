@@ -1,0 +1,100 @@
+{
+  "main_file": {
+    "path": "tb_hull_new_a.json",
+    "hash": "9a4312e324e2a808e251dadb1f9d74412b8a341cc6b8305c2986184c524aa0c3"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_0.obj",
+      "hash": "cefe80075bdd6a6026f3c76b6d079795c5c50fff8967c2e86000c2df2e8a0d62"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_1.obj",
+      "hash": "84f70b4580ef50b5321249d332648ab073bcaaabd8ef4e47295412e174c4289d"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_10.obj",
+      "hash": "fbfe14743181ce0fc5f3c2dabc25d89cd33306a1e84a7489d1c13d6f9f0c0267"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_2.obj",
+      "hash": "7d0c452728e6cd94d07a9fd1fb9a01d2e3792c4bbb8755d08e42a1caac7c9320"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_3.obj",
+      "hash": "c8654b265f70ca1e8c5849aab3df74999786a1be94a016aff8f4fea2e5d5ffe5"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_4.obj",
+      "hash": "7f70ccdae4f0b7952e72dcb42d16d4a8eb91debbe974921c4359f73fefa015ec"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_5.obj",
+      "hash": "48a491704a2511c3a696ae7df2f3ad47fe52b85bf4b4eb508d6fa055001e4ce4"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_6.obj",
+      "hash": "3850af89609eed7b8373e4c898fbf8714ff4316693c81cfa746ab4c37020fba8"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_7.obj",
+      "hash": "b1a59cfe8686b9e9d10f1c16403afc164704d5bdc502245d8b356924f9785a0e"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_8.obj",
+      "hash": "1721b404143eab1ecf93921876e6d891206d13cf7e15d25aad60f2f9288ae087"
+    },
+    {
+      "path": "meshes/Dr_Hull_Rostrum_Murakumo_A_001_9.obj",
+      "hash": "77c813d0c0fc7cef936f16c8bf8b1daf87cced4d1be31dbe2937be2dd214da8d"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Murakumo_A_001_0.obj",
+      "hash": "4435a620865ecc52f49ee144f28aeafa2f2017eac58e171ebe96929e24fa12df"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Murakumo_A_001_1.obj",
+      "hash": "3cf5468555b5104a01e11a5c47960be6756f9166fc563bd5161871803015efaf"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Murakumo_A_001_2.obj",
+      "hash": "bc99cf147d746231a97b7a47516e0e13b1974743ea26d2074a281e9a98ba8cb1"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Murakumo_A_001_3.obj",
+      "hash": "a3e3130fbccab08c6f40cdb8df43cf7420deb1cf1d391af58198d962e92611ba"
+    },
+    {
+      "path": "meshes/Dr_Hull_Midsection_Murakumo_A_001_4.obj",
+      "hash": "531330d7cfd0bb9a2f15d85c9c5b150b6075be878640cff910a14d6dc2f84656"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_0.obj",
+      "hash": "f9cef8c5ae2613d1a82f664bcbee9d25cc39172f1c5a4b4c349b0b44efba917d"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_1.obj",
+      "hash": "e70e6372736d2524c626f6603ab6976a8b5a28e8faceea5c8cf8e9f59fb946d1"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_2.obj",
+      "hash": "da7d6ac00b0eb7bad139dea8e49e9335815d08a2fc2651d818b679bd44a00fec"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_3.obj",
+      "hash": "15aba8e1d73237a5979083cc81e2b7336f39f5462436234f514fc5368360e295"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_4.obj",
+      "hash": "50e710a6ee7a4a09e7b7893d8462e0aed1619921ba45deb3f8ae069c2845735c"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_5.obj",
+      "hash": "920beb441615277dff54a2b300417384b0d8626ab17aed6034bae4b9c920f1d2"
+    },
+    {
+      "path": "meshes/Dr_Hull_Stern_Murakumo_A_001_6.obj",
+      "hash": "108ca854e83cb79175990a087874143c5adfd973306563607593a84927ce7270"
+    }
+  ]
+}

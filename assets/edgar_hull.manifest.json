@@ -1,0 +1,164 @@
+{
+  "main_file": {
+    "path": "edgar_hull.json",
+    "hash": "ffbc8b73d32a8a824a623ceb4f46de05cd8eece6228a4f2a1f98c6c71819854c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_0.obj",
+      "hash": "5936ac3d9df96c8c27ef999c0f0a71f8076ddf2de41dadb6334ff2b4a65de214"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_1.obj",
+      "hash": "fa45963c579e9c502c40fa749211f30fb5a4bc6a0eee76e3301d56e03a690a43"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_2.obj",
+      "hash": "08050b848bb502f3b5d7a49ebf9cf514c97cacd4fa407fc5dfcff12160578ce3"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_3.obj",
+      "hash": "0722f3111bed7b864472e876bad3e80197d61a1ad257ea000095a6ad41c647ef"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_4.obj",
+      "hash": "d097b3de091981a9fcb4bc9009db5d04dd84c33ec6e0ccd07586e2fec5d0b610"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_5.obj",
+      "hash": "d427dcf08eb3cf1947eab335bad4ac069b3087a1b5aca8684398d82eff63adbc"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_6.obj",
+      "hash": "548eaea30412d91b7142c6fd80c08344a13148900e2bfce6152dd5f6b4e0bf2e"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_7.obj",
+      "hash": "4d35ca963a410c4cce37b7fbcdf809ef7c32821aa8a0c59ff8db88b9a28bb1ce"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Irresistible_A_001_8.obj",
+      "hash": "a10796bb093aca34651c70a509e5627af0304d8dde7e3a1eacf6a881e9bd1f8f"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_0.obj",
+      "hash": "5e2a62e93c3a5b4a3b6449e7244fafd47076e59306632024d9064db649e4f42f"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_1.obj",
+      "hash": "9a602c4eb3d46fe58879793932a2e15bd4449561676dd9ca654263f3b326f957"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_10.obj",
+      "hash": "ab3d94cd6b51535d6599abd36c6618d0d7d69ef5fd4e111fa7249a5039686977"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_2.obj",
+      "hash": "8559365c67102fdd9105b31274d494c3926c7bee190e86ef5d6e794e216e0c18"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_3.obj",
+      "hash": "754c0224610ee04fb09f0eb5bd36eedebe245959f25e43f4a892e49911b37d4d"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_4.obj",
+      "hash": "ba1eba9f5fa9b2b310bc86d1b3ffbbe00a0363f08cfff3e71940a0c2aedc175e"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_5.obj",
+      "hash": "28c3b739a14d5ba21fd44f1460cfe5b02f622b6d529c247875284831c6e5c65d"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_6.obj",
+      "hash": "1fe42bd04efef21488e6b0e2c8be7b1ab25352c68777e8f414eadff86c2583c3"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_7.obj",
+      "hash": "f28de6ba83bd5fd83afa2c8401741fcb98bdee5542fdd23f4cd13af758b37414"
+    },
+    {
+      "path": "meshes/Br_Hull_Rostrum_Renown_A_001_9.obj",
+      "hash": "74249d21a9b68af1810fc5599f78f9cc925c79c448cc64b25d09b92543b85d14"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_0.obj",
+      "hash": "7a05a6cff399a3026fc3013e7b21e19841bc14fd0665295c3c3ada3c4496663d"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_1.obj",
+      "hash": "0946ec4072b23c41f35c8e26c92207cbe71580d6706b239d855598289612fc09"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_2.obj",
+      "hash": "bc37365c7cba8ed2c1f05523f952ccdd60068b71187cc64d729df77df5ef150e"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_3.obj",
+      "hash": "932e112f56305fb3cc8281eb7efaf07757bbfa53e6b51db6b5dd0f361df563ca"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_4.obj",
+      "hash": "0ef9529169e2bdc1d5d63ff5e455233fff39dbc639b53c17a3c8fdc00852a43e"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_5.obj",
+      "hash": "b62b3901043b04a788a30dc9594c6cb253f59c2ef988881a4942eedc20dffce8"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_6.obj",
+      "hash": "b9f21281b29e41c0e5056e84df8d2c271d9aa52b26a8ed2bea60040d89271e65"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_7.obj",
+      "hash": "7944f3bef115c71a0495571154d7d8f18f2a7114bb79d102d9056e67b27903c0"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Renown_A_001_8.obj",
+      "hash": "6ee50022ec68152551eaf5bef43f62b094e4ed52c98d61d2a7734c474f370551"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "4c5b21eb188edcb7a2cb16c11be994d9d4650b1cb12f0cb8441f77ffd32029cc"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_0.obj",
+      "hash": "2c9fefd72e49f7021517a03171bcb555b77c1ff384e28c9c9fbc25a966806e40"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_1.obj",
+      "hash": "dc36d0026c52e7071832f765f41900a715040dc91cdf4b000137fdd595f6d62c"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_10.obj",
+      "hash": "8839ceb1381084e1f6c18fbcdc46837244a6a6cbbf7a87349197a0bddc5857d9"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_2.obj",
+      "hash": "12c86482e1403c3ff91cff2e79a365a6f47d09e378a93231ad65da2095930e56"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_3.obj",
+      "hash": "fa5bc366f6a4cfa2c94419f0581e9eac6a3a29ef8639e442dfca3d84bb158ea5"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_4.obj",
+      "hash": "c6e661f47683a1461ff7c6b83871405519caab2189365b85264aa9673b093740"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_6.obj",
+      "hash": "0566c9162c8e4cce18f06ab60ed5de97ea34a0e31418c11e1d18ea0756061f53"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_7.obj",
+      "hash": "b6e5601373944f32d0dad9e8c0be899769088de62a92c180331893c57bb0c26b"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_8.obj",
+      "hash": "9e4f04f3d66b0ffb3ea69d1e288d63a413970a5cafcd12d8c496c87046cb3e17"
+    },
+    {
+      "path": "meshes/Br_Hull_Stern_Renown_A_001_9.obj",
+      "hash": "f0a59d90426cf43de343b310fc16d1eb733e4554e5aee04a51c8e50b0718dc74"
+    }
+  ]
+}

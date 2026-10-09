@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "weymouth_gun_102_x1.json",
+    "hash": "bb83dca2e6a86edf34b45a9710c14edd80af9f350335910a405a21cc5add3607"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/weymouth_gun_102_barrel.obj",
+      "hash": "d8bdc378c7a58e2a1c51b31ba3636c2214dfded41c4e7a4023979576a7ac20b4"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_B_001_0.obj",
+      "hash": "5062809ae9cccf1ec89eb5552c63a8bad300c3dd5b7534490d4c15b807dac138"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_B_001_1.obj",
+      "hash": "b6aec24e2bcb544362c152d87f65125af9df04bde9a410121c265423bbebaae2"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_B_001_2.obj",
+      "hash": "0f79b7eb71244e1ac1ed6f191d15101fc5dd6180ba38f6644f82ca6b06ee58a0"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_B_001_3.obj",
+      "hash": "47f6e525c6e67f1de1da06888ba5b4b1f80e922fa88e641cf668874fca7234ba"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_B_001_4.obj",
+      "hash": "2164d406c889c6a9ad4b958da8a22af3fe6c2ee1f6a979959dda3821b61d8aef"
+    },
+    {
+      "path": "meshes/Cr_Cannon_S_Turret_B_001_5.obj",
+      "hash": "9773f202ac9a4ccc4d1d2f03990325e58638d14da10c9d2e74c5975705533573"
+    }
+  ]
+}
