@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "leander_tower_main.json",
+    "hash": "d82fadf8dc0551cd6e0163efbb9b57ab064eca47746730a2eeb72030bf680eab"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_0.obj",
+      "hash": "fbdbb8367f30d45387631f411fd6559d4e194ad824777f1c0df61d7045eec04c"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_1.obj",
+      "hash": "6b78742cc1a04fa51b927d339f9897d8d5ce748b86f53d5496db4010908dbdfa"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_2.obj",
+      "hash": "88401596a8bc4d793410cb5cb52d157db14e7d306a04f7dcf85067fd7b92441e"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_3.obj",
+      "hash": "b0d56d70669f5d2655efe32c4baf752ea738492f3ea527fef073ac29ba9121f6"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_4.obj",
+      "hash": "d1a13aa1cc91efb3fa79f3c270fcb76d4c52d9847f8b322302e63a788a867d08"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_5.obj",
+      "hash": "df95c3aacc3838722d9d113b1c9d9451b6b991e551879afc48dc50ec5f276e92"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_6.obj",
+      "hash": "5fb2711a033d459fc9351ff0a171a7a1b39652e383106509443e9e61bdf0cf50"
+    },
+    {
+      "path": "meshes/Dido_Deckhouse_S1M_001_7.obj",
+      "hash": "8f59abb14b25595a5d2b371bb0fff480a7f97673927f6fc7fcb0aecc0fcfbdd9"
+    }
+  ]
+}

@@ -1,16 +1,20 @@
 {
   "main_file": {
     "path": "hipper_gun_203b_x2.json",
-    "hash": "4689844803d7af8b981bf023d0db85854a5a6dba97b3faf4a0e68aba69f411ed"
+    "hash": "198fb5735b06e27294995de00c9c029f79a6b3bc428ff54ec284f700e6d1a5ec"
   },
   "dependencies": [
     {
-      "path": "meshes/crs_gun_234_barrel_001_0.obj",
-      "hash": "6e8244bbf0b59222b725994f76d7c1927abc5ebea4bee109b166e0d82e54b610"
+      "path": "meshes/Bis_gun_380_barrel_001_2.obj",
+      "hash": "65d68cbd669663bce5a9038f1e7d609f9ddd7d8860011ecaddacae90f9d9c3d1"
+    },
+    {
+      "path": "meshes/Bis_gun_380_barrel_001_0.obj",
+      "hash": "9f9885ffa5b7148cfadab0bdb9a71b885c79f8a07e57a4a1961afbec4fba147e"
     },
     {
       "path": "meshes/Bis_gun_380_S_x2_001_0.obj",
-      "hash": "d7a2749329d05eae6a563f3be4d154da508932079ba8631db40c71bf71697dfa"
+      "hash": "97b8f0a2bb42e2ad62b98fcca8b4d47320286d0ddefa03c5cb8265127c58a1e9"
     },
     {
       "path": "meshes/Bis_gun_380_S_x2_001_1.obj",
@@ -18,11 +22,11 @@
     },
     {
       "path": "meshes/Bis_gun_380_S_x2_001_2.obj",
-      "hash": "07948e568f97c41baafe795e8f75a0e340147ec6989a5a1b5d6aceb027b11e40"
+      "hash": "190c660f64154336238cbca7a1f368c2064db46ef9535749d5542def184a18c5"
     },
     {
       "path": "meshes/Bis_gun_380_S_x2_001_3.obj",
-      "hash": "64e7de401335761c89f3f4d994c27871fa9f45f2cc7efc8ba1335df60a46b824"
+      "hash": "6363b681211ccc5f52c92dd2c1cc9b148cf21aef12e882c46ab9f94c0d2b963a"
     }
   ]
 }

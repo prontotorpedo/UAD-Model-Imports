@@ -1,16 +1,16 @@
 {
   "main_file": {
     "path": "vw_gun_120a_x1.json",
-    "hash": "eedc5d4dc14c98f4db8ee9973710fbc591710e5f26be4aec43a14392e3d4191e"
+    "hash": "b6fc501d87b6449488309339b1d5843f8269c009b1bc3578876ba1234e1fc4c7"
   },
   "dependencies": [
     {
       "path": "meshes/Hood_gun_140_x1_001_0_Hood_gun_140_x1_001_0.obj",
-      "hash": "31887d3806be5dd58fccc55b6e812ab294650b4ad1286ea6a259e1e8a8e2f559"
+      "hash": "2db7a3d780f55cbd1eb65cd17eb2c2194dc04d17ee0895e37cd28707720e6ffb"
     },
     {
       "path": "meshes/Hood_gun_140_x1_001_1_Hood_gun_140_x1_001_1.obj",
-      "hash": "d2da8e15207fd3f96dc5c0b395ab352d3df4168b21f2eb8784e26df92582e7f4"
+      "hash": "608ce04d88b757ebf2bff1ddc50eb0497d83c126be0d4572438c4b4b134c23bb"
     },
     {
       "path": "meshes/Tribal_gun_110_barrel_x2.obj",
@@ -18,11 +18,11 @@
     },
     {
       "path": "meshes/Hood_gun_140_x1_001_2_Hood_gun_140_x1_001_2.obj",
-      "hash": "f70bf6214ccfccbf7ffd2b162b6cf9d7a8bdd09687434295eb4f6fe2768c9b5a"
+      "hash": "99747bd12fa9a34b53f068c156b2d35eb4347a7f3a75ef49b66ec060409ae80f"
     },
     {
       "path": "meshes/Hood_gun_140_x1_001_4_Hood_gun_140_x1_001_4.obj",
-      "hash": "b99b6b918a160d229f430de2a28591b1f985af3808ecf74e2d095487e5d80fd1"
+      "hash": "8c143e6a339be7c1dc5e8d683e5972ba42f253717fb8590ab6b9ea1def7824df"
     }
   ]
 }

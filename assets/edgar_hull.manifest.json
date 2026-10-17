@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "edgar_hull.json",
-    "hash": "ffbc8b73d32a8a824a623ceb4f46de05cd8eece6228a4f2a1f98c6c71819854c"
+    "hash": "aa820ebb0e3fc9e158591bf4326f9b805d4760b4d866ed1f13ef084969820ce5"
   },
   "dependencies": [
     {

@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "usa_crane_a.json",
+    "hash": "0d0b295fa38181f51d831d5998a5badcd0872344866d6b23441be6e9723fea35"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/generic_crane_usn_1.obj",
+      "hash": "9870d8afdfa05981fedb7da9266ef7986f6eef5fdf1184ee121f00c41044b9a9"
+    }
+  ]
+}

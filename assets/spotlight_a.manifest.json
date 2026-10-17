@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "spotlight_a.json",
+    "hash": "67eecd073b07fd7e6ad923fed655d39ea65523b8581bd66703f141f8d40b3bac"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/P_Spotlight_A_001_0.obj",
+      "hash": "3039213d035cfe0b01ce487c3afe91ac0b309ce5aa63246a8e8be1ba4599be98"
+    },
+    {
+      "path": "meshes/P_Spotlight_A_001_1.obj",
+      "hash": "6d6293776b358b6dfa894f33ec66eaf6e6abd01e429b5161a1acfc905d558375"
+    }
+  ]
+}

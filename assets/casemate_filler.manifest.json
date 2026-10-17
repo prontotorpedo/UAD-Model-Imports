@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "casemate_filler.json",
+    "hash": "75c04a271919c93ab0b7edab15c8e1874d77b808d23470ab457f13c2e69bb3b4"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/P_Luke_C_001_0.obj",
+      "hash": "dd377c1369db20c1d163375bd83d09d10c7811b09853c6a4a43f6d836ebfe2e1"
+    }
+  ]
+}

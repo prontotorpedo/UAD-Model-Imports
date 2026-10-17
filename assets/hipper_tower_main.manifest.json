@@ -1,40 +1,40 @@
 {
   "main_file": {
     "path": "hipper_tower_main.json",
-    "hash": "88e6b6de4d6039c5530b09c4b3fe865ac5b3e21ca11cec9bb49f53dfc08d601f"
+    "hash": "cc9b87877fee5a381c20033158b424f4ba0bac29002e71a7de05883879f7e937"
   },
   "dependencies": [
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_0.obj",
-      "hash": "dedf48b38c04b3bba3862aa5d55e07c4569dd4a8863062b67b16ab0ab638adad"
+      "hash": "1da19e0741505b33cac6ed22453a622aa1c1e9fe1cfacbf5af17795446ad4130"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_1.obj",
-      "hash": "bdb5b9779070a48c743cd6cc13c369f7e63d29f34f1cce0e5d714f7213e5ad1f"
+      "hash": "ae9807309ff81e70f68b805f2b06f61b5783a3f99599cb195f84353e11bd87d1"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_2.obj",
-      "hash": "7cb19dc05cefa9f70642cadf6a218a65316ce2cfddb012212752a21bd3fa14d0"
+      "hash": "ba23550f31d3df5e9727e5f59355f4570ba7845cad786b4e7a857221e769cad1"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_3.obj",
-      "hash": "55ae2602053555960faf4e3330c8132eb8e6418a1715a3a84d4c3c92b891607f"
+      "hash": "0e8f88c7117cd916812d22e31ae0cf874f1bf52bb63c4039f98c9e0c6592dc43"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_4.obj",
-      "hash": "628c81a71128808e6d38f3e69ff12382060fb7902a331aee5ea4de05c64a53e4"
+      "hash": "26b3d652514d1cb676d48e765c1ad7cce3d8c1f01b344459a2b6434cbb753850"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_5.obj",
-      "hash": "315d84d45890cdecf87a5a42db813962abc8fac61958cd512d738d93b63bcec8"
+      "hash": "5867dfcc35c4b365ead10cae31e24fb4588828711394ccdd091115e23b9763a8"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_6.obj",
-      "hash": "d64c76ae440f0238c8e0facd104d96370c6c05e535228061d9619ed4ed1805eb"
+      "hash": "12b4f35573eec16215ad1ec35e647d32386f1162dfb80bb54920fa10bd8d3ee8"
     },
     {
       "path": "meshes/Bis3_Deckhouse_A1_001_7.obj",
-      "hash": "ca76774553adeca87c8a8549a22c606e19aaecb7eba987915ea5b03cd095e84b"
+      "hash": "e575c3256499b0010fb4043dc6b3a382f51824607ca985bea096fe7d11f33dc7"
     }
   ]
 }
