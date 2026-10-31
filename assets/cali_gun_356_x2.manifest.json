@@ -1,12 +1,12 @@
 {
   "main_file": {
     "path": "cali_gun_356_x2.json",
-    "hash": "9c99cc9fbe86d5d1f92e213ba43de1055e11176dd1e474b51a7bd66832aacc02"
+    "hash": "eaaffc0480977d71a09bb4112744f946f6d5d128e92a50e17af45df4550e7c19"
   },
   "dependencies": [
     {
       "path": "meshes/Nel_gun_cal406_x2_001_0.obj",
-      "hash": "0ed93c88533eaa76499fe3d194e8923c5bee982508aa51227d9b498bce278601"
+      "hash": "a71e571901f6e1f1f8137e3dd4856fe0ce1baaa26a8cc7d3cd2c65f2f7d4b0ca"
     },
     {
       "path": "meshes/NY_gun_cal254C_barrel_001_2.obj",
@@ -14,15 +14,15 @@
     },
     {
       "path": "meshes/Nel_gun_cal406_x2_001_1.obj",
-      "hash": "1f04b444da1a1e12ac90b3982c2eae2d9db488f510ed0b59618641c39c284ed7"
+      "hash": "1bf6c2ffc7494f582b3fab02bad3396ef8adab9adf3a71203d727a6cb886f345"
     },
     {
       "path": "meshes/Nel_gun_cal406_x2_001_2.obj",
-      "hash": "815d34568ed9ed823a31ec6e673b326a07edb77decdac40c0df6b0d369435f4a"
+      "hash": "95be9b8af7315da5600aa9eb9ed0194019cba844268fae1faca27d8b4c0c7afa"
     },
     {
       "path": "meshes/Nel_gun_cal406_x2_001_3.obj",
-      "hash": "5f617149faa6613f7f66f5f7b976ca281e1952ead791bb0531a350f8a37aa126"
+      "hash": "621ea7d4860523d63d7aff7fea4d9f174188f0327311bd65fa817442c64627eb"
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "lyon_tower_sec_b.json",
+    "hash": "00ebfbf50850ec1ddb0c9b1ccfc6f66fa928f527d27f8f621510c4575b5cab0c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Lyon_sec_tower_a_0.obj",
+      "hash": "9186995a035efebedda863ade220f19bc9a2929fc104fe7f501913a621483dab"
+    },
+    {
+      "path": "meshes/Lyon_sec_tower_a_1.obj",
+      "hash": "5d0ad57d2131bfdf30acdc2ab9ff7a4d4d9ef1eecc2a743738a063cd7cda3db2"
+    },
+    {
+      "path": "meshes/Lyon_sec_tower_a_2.obj",
+      "hash": "d8ee5ef02c1c2e274931077c4a7d38f8e74ff914b75c87212a6b35c6e9dcf6f0"
+    },
+    {
+      "path": "meshes/Lyon_sec_tower_a_3.obj",
+      "hash": "adf421584db5ae4d671c359a1910bdf6fb7c72c09107a11275ad68ccf68dca05"
+    },
+    {
+      "path": "meshes/Lyon_sec_tower_a_4.obj",
+      "hash": "fdbd7b710b9afd1ee8049070732ca7f78b4148551272ada01c1dbe7152733eca"
+    },
+    {
+      "path": "meshes/Lyon_sec_tower_a_5.obj",
+      "hash": "0f650507d025faa8ae33617caaa37d509d9f203732c281ae61da34dff095aa6c"
+    }
+  ]
+}

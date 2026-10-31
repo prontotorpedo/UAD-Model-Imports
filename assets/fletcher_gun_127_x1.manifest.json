@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "fletcher_gun_127_x1.json",
+    "hash": "c396d394e89f97962d03cf7459318e046fc8054025fc785f197d00744e583dab"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Clev_gun_call127x1_barrel_001_0.obj",
+      "hash": "9ed6209a7aeb433fe936e05cf5cef8ea96faf7c6dd5250d514255401256fe221"
+    },
+    {
+      "path": "meshes/Flt_gun_100_A_x1_001_0.obj",
+      "hash": "636abc67d68f0ea31257a5408595e97142029b2d26a540355c62e29f1d4c1cd6"
+    },
+    {
+      "path": "meshes/Flt_gun_100_A_x1_001_1.obj",
+      "hash": "e4823fabebf58a821e97e0002209ffc2ba5a2245140a65af64f5c5179c5ab7f0"
+    },
+    {
+      "path": "meshes/Flt_gun_100_A_x1_001_2.obj",
+      "hash": "4592a80073b1548d9693a02b8ecce374ec8c801713c7893038c2269eba98f5e5"
+    },
+    {
+      "path": "meshes/Flt_gun_100_A_x1_001_3.obj",
+      "hash": "f4b553e424ebc4c1c9cfb40d0ee8ac469bcb4dfdcad77002940c9cc4a92c360d"
+    }
+  ]
+}

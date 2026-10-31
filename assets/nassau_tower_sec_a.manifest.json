@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "nassau_tower_sec_a.json",
+    "hash": "3159bf3f69b79c215e03745a68b3bcd11b926eafcc0e1e0c28d0ad224f9eb69e"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_0.obj",
+      "hash": "ef0df817fe938033519bfa91b6488119617658e4ac8c8a0311daba428c1222ae"
+    },
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_1.obj",
+      "hash": "c919168fb03a0ebe004d01170087118b092c65a05c36aaa2d1b8c1b107ae920c"
+    },
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_2.obj",
+      "hash": "f69bb0c9349e2681ef1f7a5be8b72bc9c8ae5d416055b9335f126fcddaaccfb8"
+    },
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_3.obj",
+      "hash": "4a596308565e6ed81a46c48a873fa1ccfc64f0b2aa863c55eb7428fa1092c563"
+    },
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_4.obj",
+      "hash": "c338b920489bd5d0d352d824cfea7cb4ccc4fd740d1bdfd0f861630f3d34fe58"
+    },
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_5.obj",
+      "hash": "f0cb0e93e0e86a4f8741372cf2361ff09cfa73758f9873048ff0b908d5b12052"
+    },
+    {
+      "path": "meshes/VDT_Deckhouse_sec_A2_001_6.obj",
+      "hash": "c3db61b0a640dbfd58231e492281b532db128e8127aa113a59668e24dda699d7"
+    }
+  ]
+}

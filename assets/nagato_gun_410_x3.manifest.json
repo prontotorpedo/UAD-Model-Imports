@@ -1,28 +1,28 @@
 {
   "main_file": {
     "path": "nagato_gun_410_x3.json",
-    "hash": "fd96a7af7a2ed37c9506b8dd8b88ff663ef3c4fba20a178d023242a23ca9d28e"
+    "hash": "2abbdc95f6394e9b7a411eaff0cf8a5d7abadc3c6e42b81e7e682e9318cd7fc1"
   },
   "dependencies": [
     {
       "path": "meshes/Fus_gun_356_barrel_003_0.obj",
-      "hash": "3567e926ae0e8063832233e7cf6722290e2c56927410ba20e457995633685048"
+      "hash": "7478ac0b3f750cc52c2c81583afbc7bb400c60f50e7d84f150064af33c5a92b6"
     },
     {
       "path": "meshes/Fus_gun_356_A_x3_001_0.obj",
-      "hash": "bd772ebe0e444b056dad65b5c8ea3a559dc6d987c8a33d823559cbb9313add15"
+      "hash": "b9e6394026d034ad879c05f6db49785bd6aaf7e639a801000d31c7b377263875"
     },
     {
       "path": "meshes/Fus_gun_356_A_x3_001_1.obj",
-      "hash": "9d6ca1995b140e0b45465ffef9d7c898dff5390eb2680306672ad185a7ee6604"
+      "hash": "746e9f5ad267c3ed0b64ddbaac0fd00ee55e850073f264be0277da5855c55bf6"
     },
     {
       "path": "meshes/Fus_gun_356_A_x3_001_2.obj",
-      "hash": "717c9afc8d7cc896d962fa3b6f67b778dc2536d3dd24734a3a7b33442456cfea"
+      "hash": "df0d327c88146ca60ab525874cb2f88c80a5c22f942c39765684f52d4fdb6b80"
     },
     {
       "path": "meshes/Fus_gun_356_A_x3_001_3.obj",
-      "hash": "4cb093ac3aa08d0081eb3d498f160d8d590c36599531083fa827e14f42df0131"
+      "hash": "fcdb4227a332aac0937348b5c9c58823ca9a8b5f27faea6fca809fc35045b836"
     }
   ]
 }

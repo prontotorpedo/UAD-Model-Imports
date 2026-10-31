@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "hood_gun_380b_x3.json",
-    "hash": "b9aa726dca645f0c37e28d58dfc3559efda9cb2e9e3388f6331a0b868fbf0cf9"
+    "hash": "598cfb134cc7ce07f51b159f67e7b59a4a79f59d1b9242dd88434db266ddcade"
   },
   "dependencies": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "path": "meshes/Hood_gun_380_x3_002.obj",
-      "hash": "ef5dbe410f67e69033861a3e284bb23efaaf8d0f83fdb477358ca9edd23d672a"
+      "hash": "71a567656176f867de4f63a4c69c793a6901df325c4ca23c635b268dc01bca18"
     },
     {
       "path": "meshes/Renown_gun_380_base.obj",

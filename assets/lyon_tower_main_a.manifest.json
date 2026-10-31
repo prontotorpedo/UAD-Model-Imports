@@ -1,0 +1,52 @@
+{
+  "main_file": {
+    "path": "lyon_tower_main_a.json",
+    "hash": "7cdce74689f3d1060daee3161da8c94104c1d82da2a963ad3f3eee0cc6ad070d"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_0_Rish_Deckhouse_A1_001_0.obj",
+      "hash": "b86fe8b814a5bab3fa418cbc69e8380c25fc8c32e4854ca9b89b71bcee8efc7f"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_1_Rish_Deckhouse_A1_001_1.obj",
+      "hash": "acdeee90e4492ef83d717d90846388043d1ba423f34eee4983220abf9b7a0259"
+    },
+    {
+      "path": "meshes/Rish_Deckhouse_A1_001_2_Rish_Deckhouse_A1_001_2.obj",
+      "hash": "f30c2046c30b4c3ff782eda197d0950dec73eac5e7da19754cdb4a379cb2a30e"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_0.obj",
+      "hash": "ed953603d9baf9adb9f7dc0144c6ebb2cbf4617cc01b7e16324f22d87a9201db"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_1.obj",
+      "hash": "475fc39d2a8ee59a096ab2f3be8035479d53f83489566fdd9a1c656f53c7cde5"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_2.obj",
+      "hash": "1c324166f858484379bcf874e90a790f8cdbf856242a1570a4dacb8179500d23"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_6.obj",
+      "hash": "f78ddcae69244923b754e39351f877a09a36004c4d377b09243b38f4811e5e60"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_7.obj",
+      "hash": "a1a6cc0d616abdf0046a780d90ad5df56a2ed1fc74732b767585cbf64b2c7581"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_8.obj",
+      "hash": "fcdd74919f916fcdcc4b18776cd15aff486ff67bdbe85963241399b0ff4674ce"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_F1_001_9.obj",
+      "hash": "147646eb270541b47fbc117e8f494b68f10b30195ee13641cbc140fef9909a56"
+    },
+    {
+      "path": "meshes/Cylinder.obj",
+      "hash": "63cb48759df9538aecf0abf680d1ce6b358fc51c3a5c848d950b704fc08603c2"
+    }
+  ]
+}

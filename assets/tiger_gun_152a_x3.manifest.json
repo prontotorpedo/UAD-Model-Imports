@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "tiger_gun_152a_x3.json",
+    "hash": "1f3dc3eb86056d995df56bf4fdc5afeae6b5beb5a720d5adb442c6e355e3dc42"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/152_TripleTurretBag.obj",
+      "hash": "e5d5f5f8ccea58cd90bba7267c7f8d8b382b9a34fe78d3ce7e2758b40877dc15"
+    },
+    {
+      "path": "meshes/152_TripleTurretRing.obj",
+      "hash": "4e53cb56574134a406c2204ef87cfc325e7179e18010c7ce3c3db3dd060668e5"
+    },
+    {
+      "path": "meshes/tiger_gun_152_barrel_x1.obj",
+      "hash": "6a4ac30431f78156f4de8ff2a25f016441d56947e5408eaa8489caa885926ffb"
+    },
+    {
+      "path": "meshes/152_TripleTurretBody.obj",
+      "hash": "d6409b1a629f036cfa436f63328b5eb9c71fb97c94348f2ed31c743420624a34"
+    },
+    {
+      "path": "meshes/152_TripleTurretInterior.obj",
+      "hash": "fd6511dab79333eb35aa62b83d1630da9d72ccd73d2ad532bcd8366cce179181"
+    }
+  ]
+}

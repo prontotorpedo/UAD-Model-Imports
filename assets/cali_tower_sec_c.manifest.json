@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "cali_tower_sec_c.json",
+    "hash": "90aa100e072c652f034278b803444bb8b3b2f876142a961f028e20fc26a1567c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Atlanta_Deckhouse_A2_001_0.obj",
+      "hash": "b0f9d643f48c23dd9e499ab46682e7df0c8581a3f1c132d32e354e22e65d3b6e"
+    },
+    {
+      "path": "meshes/Atlanta_Deckhouse_A2_001_1.obj",
+      "hash": "fab647b4014f54fe2d80091154da8062870126ab6fcfb937e821f916ec0ab29d"
+    },
+    {
+      "path": "meshes/Atlanta_Deckhouse_A2_001_2.obj",
+      "hash": "5d50b2f9f7e9f24458b34f29f800d85874c2169054aa2e66cbf3f0937e692d35"
+    },
+    {
+      "path": "meshes/Atlanta_Deckhouse_A2_001_3.obj",
+      "hash": "8399979b24e2a716a3726d1e7e157061bf995a3639d3fdf14f2f2a6363d2dca3"
+    },
+    {
+      "path": "meshes/Atlanta_Deckhouse_A2_001_4.obj",
+      "hash": "412cfc506eb1587b488b4d910b9ab7b08c7d7b8f534593b95b077d841c80ab8a"
+    },
+    {
+      "path": "meshes/Atlanta_Deckhouse_A2_001_5.obj",
+      "hash": "d02130acba93a687bed6e73cf871e181bed80a8a465c5cd94fceb1cb28ac9150"
+    }
+  ]
+}

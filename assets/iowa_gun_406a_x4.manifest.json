@@ -1,0 +1,44 @@
+{
+  "main_file": {
+    "path": "iowa_gun_406a_x4.json",
+    "hash": "2f3abda79b451da16c3bd733649bb5c3b5bcb4ef4ff300888d36154073c08b0f"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Iowa_gun_406_barrel_001_0.obj",
+      "hash": "2e0059a2642ec9ec3242a49dae73f94092a8e380555f6638f34e243be905e9d5"
+    },
+    {
+      "path": "meshes/Iowa_gun_406_x3_001_0.obj",
+      "hash": "e4dc4723e31db90121f126a6446756fe6ca54bdf57dc30ac4243a16001c71e21"
+    },
+    {
+      "path": "meshes/Iowa_gun_406_x3_001_1.obj",
+      "hash": "eb6a11af7eca26808552d1880122b9910021431f07d61ea5b01fc4c49f411927"
+    },
+    {
+      "path": "meshes/Iowa_gun_406_x3_001_2.obj",
+      "hash": "816a54a4227ea481ce2d851836c060c50fb5b6ad3b8eba1dbc6e01fdcb91c31f"
+    },
+    {
+      "path": "meshes/Iowa_gun_406_x3_001_3.obj",
+      "hash": "e388acf2746e10809f2dc81643489af3d4f9323b12d89b52737310987bf0638c"
+    },
+    {
+      "path": "meshes/Iowa_gun_406_x3_001_4.obj",
+      "hash": "eb89ff87c8055b2c59d2616a1a739a3f89b541d902693e9c3d28d9e19bcb96ef"
+    },
+    {
+      "path": "meshes/Iowa_gun_460_base_001_0.obj",
+      "hash": "2d12827d1146041e55904d8b68be74f398d51638281473420653ec7cf082a6f0"
+    },
+    {
+      "path": "meshes/Iowa_gun_460_base_001_1.obj",
+      "hash": "714d56037bbb5b501dbfea8b09c538dfffc47229a567172509f9c4def0e7f232"
+    },
+    {
+      "path": "meshes/Iowa_gun_460_base_001_2.obj",
+      "hash": "00ae8456a0f3173c2218564fdf76b921edd2dc34bcd1eb7b62b0b4eda61cdad0"
+    }
+  ]
+}

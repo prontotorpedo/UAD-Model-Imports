@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "atl_gun_125a_x3.json",
+    "hash": "07f30b85664c2f460028ab416db380a7f9ff3bd1461c5d768fdb26c6d36a460b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Clev_gun_call127x1_barrel_001_0.obj",
+      "hash": "ef94ac24bfbc884fb10e7a18d314edddeb188c95de479036f7d075225342e536"
+    },
+    {
+      "path": "meshes/Atl_gun_cal125A_x3_001_0.obj",
+      "hash": "a91f960c3ed3668c693522f3e72d2f29fd6155af04cd3b364ec027f87b1c8988"
+    },
+    {
+      "path": "meshes/Atl_gun_cal125A_x3_001_1.obj",
+      "hash": "58283c6bb4882d3d7e1e0f9e9be7defb9151e620d70f64e715eccf6d7e44da70"
+    },
+    {
+      "path": "meshes/Atl_gun_cal125A_x3_001_2.obj",
+      "hash": "034f7f2c2416c1eb452849060d3ab5dbf1ec1854f3f46edddc83e505ff8e9bfd"
+    },
+    {
+      "path": "meshes/Atl_gun_cal125A_x3_001_3.obj",
+      "hash": "2538d2b56456c0907dc2ccd183a110d504a632d5ec77dcc7799a5553fd5b7fdd"
+    },
+    {
+      "path": "meshes/Atl_gun_cal125A_x3_001_4.obj",
+      "hash": "68bd60e1dac3632fe5d03e39e74dffc50c564048f7b9b047f78e729a0b9485cb"
+    }
+  ]
+}

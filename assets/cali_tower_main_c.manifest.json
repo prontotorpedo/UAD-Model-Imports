@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "cali_tower_main_c.json",
+    "hash": "3436ac43d818e19c2c79492e9e7e6d3830d9a987a8d1abf7aa09442e607eec85"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Pen_Deckhouse_maine_A_001_7.obj",
+      "hash": "7761f23c365f5613cacebdff9b1004c03f1de73aec99a5effce7a8120a9ee446"
+    },
+    {
+      "path": "meshes/Pen_Deckhouse_maine_A_001_3.obj",
+      "hash": "1a0ab2c5ff4701799c53f6a0f3be700e19e46b2f132355e36ca922ec291f74c4"
+    },
+    {
+      "path": "meshes/Iowa_Deckhouse_B1_001_0.obj",
+      "hash": "536cc2876e60fad67fc4eb90d611a5fcedd8374c788a852b396b2c3d83b5685f"
+    },
+    {
+      "path": "meshes/Iowa_Deckhouse_B1_001_1.obj",
+      "hash": "4aac85badcaa45824fed65f650a6cc428f489ed8eb6ba645fcdda4f8adfc5e13"
+    },
+    {
+      "path": "meshes/Iowa_Deckhouse_B1_001_2.obj",
+      "hash": "112abe29be31376f669162ae21d95abfc9d690af35a462a480df0be3a349adce"
+    },
+    {
+      "path": "meshes/Iowa_Deckhouse_B1_001_3.obj",
+      "hash": "191cf41195c6f69ad9687d3521ecf8fc58496d2da98c23d895fb744e8af49748"
+    },
+    {
+      "path": "meshes/Iowa_Deckhouse_B1_001_4.obj",
+      "hash": "221e43b6c061a5a160124938a382344d701959173f20fc5da4c49ea60f8066e4"
+    },
+    {
+      "path": "meshes/Iowa_Deckhouse_B1_001_5.obj",
+      "hash": "27ad314bc8093b3439d3954a7e82d62e0d1e967c23361fc19a595e9f64390130"
+    }
+  ]
+}

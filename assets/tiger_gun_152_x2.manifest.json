@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "tiger_gun_152_x2.json",
+    "hash": "0f8fbc4f4de8a5b7978078a5dd5bcf171d1ac285e8092d2af1513d7aa6929662"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/152_TwinTurretInterior.obj",
+      "hash": "104f300ac20d1af3f9d7f405342aa5aed924eb80b1e024c1dd273bce42d9189f"
+    },
+    {
+      "path": "meshes/152_TwinTurretRing.obj",
+      "hash": "bc1c7378cbdf8b2409b699d2ee72945435785197b11399111af876009ad14c1a"
+    },
+    {
+      "path": "meshes/tiger_gun_152_barrel_x1.obj",
+      "hash": "51ae3812ee1036eb99992969431d9f358d83236f461832b989d7a951f39d8e5b"
+    },
+    {
+      "path": "meshes/152_TwinTurretBody.obj",
+      "hash": "a31c8c85fc2adfa650a822fe687e40b8a757a606fbdaeefa407c9e49524fe24c"
+    },
+    {
+      "path": "meshes/152_TwinTurretBag.obj",
+      "hash": "b8ef28687c2d9ce43b9b387a12b28f7f97f1018d11d7fbc9a82fe09ba704bab9"
+    }
+  ]
+}

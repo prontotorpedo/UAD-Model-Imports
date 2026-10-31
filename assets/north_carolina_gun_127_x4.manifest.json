@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "north_carolina_gun_127_x4.json",
+    "hash": "8acd24d1c69b07ebc746cf0a8da1ca9e187ef9dcdc6e0cdbe99ba83ddbe6ecf5"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Clev_gun_call127x1_barrel_001_0.obj",
+      "hash": "b850467205a08e6e70ef71327a8370b87a2df0af5a65d9a1fee49cabd906731b"
+    },
+    {
+      "path": "meshes/Clev_gun_call127_x4_001_0.obj",
+      "hash": "cee74dd7a997777812acb594adb45455aadd3f758e350af1942e58d0f0565bd9"
+    },
+    {
+      "path": "meshes/Clev_gun_call127_x4_001_1.obj",
+      "hash": "cee8b0783d9128cd3c9f587f66e15eb0ebc725577bce93ba8fd6b25785978102"
+    },
+    {
+      "path": "meshes/Clev_gun_call127_x4_001_2.obj",
+      "hash": "2c4af23d0212052b6c54e7cb520c86632816818efd4b123380da4a11e660fa66"
+    },
+    {
+      "path": "meshes/Clev_gun_call127_x4_001_3.obj",
+      "hash": "506d506ad1dbf91d2df431735a8bbe54b3243da5a29a0f4c3e041f5016497d65"
+    }
+  ]
+}
