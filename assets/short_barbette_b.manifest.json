@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "short_barbette_b.json",
+    "hash": "f142d97392dc581bf6586564a2fddbae5b04b3efe437ee163f2af71b39c2430c"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Nel_Barbette_gun_152A_010_0.obj",
+      "hash": "f5ba2b5be72e3b5767c374a91f405dd1200e87a2291516a3694f7e4c69a1cffe"
+    },
+    {
+      "path": "meshes/Nel_Barbette_gun_152A_010_1.obj",
+      "hash": "d57bf12c62268759c4d71aacd3b705d42b97eb510e0dc9f269a64f1ac5740437"
+    }
+  ]
+}

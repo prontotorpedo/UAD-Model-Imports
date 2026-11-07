@@ -1,0 +1,12 @@
+{
+  "main_file": {
+    "path": "north_carolina_tower_main_a.json",
+    "hash": "235daac5dfa68b03f08f0066b859d7f0d69ee0243b71a6d20a045dc66e411328"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/NC_DeckhouseMainSuperstructure.obj",
+      "hash": "166992c8516454bb74e445c9c3d43a62f9002b74cbd06ce449c7742171631014"
+    }
+  ]
+}

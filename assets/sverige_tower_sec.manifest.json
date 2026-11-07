@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "sverige_tower_sec.json",
+    "hash": "5d87bca18f535050e0914eed971acd040b54f1ae0bce18defde27c32ae9596b0"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_9.obj",
+      "hash": "e29f2ebd5402f5efc3ee72f8ff6f5cb8383f76f1697fd4510dad530c3aa1a81d"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_7.obj",
+      "hash": "71b27b64c20b7c5d1a3f0158039f915f152887d18107990238b089eae84c40d9"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_6.obj",
+      "hash": "7dda41dfbf95cac6d674d854162e86a7569126455e91ffaf09c95118d23e209d"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_5.obj",
+      "hash": "b876a848f4152daaa90f757d3d975dc482882ca5d47ecf6277b3705576007ec1"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_4.obj",
+      "hash": "c04de3d80a3e641836db0cff53eec33f9986ee2950880c08a419dc05abf3f9dc"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_3.obj",
+      "hash": "db87d890d5632076fc86148d7df315c87911b975b515d27bd5c0b5337bd77315"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_1.obj",
+      "hash": "71c70c6915e15b43edc32217ce6536c3f044339f2a24aca778d4d99be2760bb1"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Sec_A_001_0.obj",
+      "hash": "8a978f52a29c1422e44fe86aa0b8e599cd12c59dc58ac2dd935d728d3e064fd8"
+    }
+  ]
+}

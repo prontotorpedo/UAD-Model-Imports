@@ -1,0 +1,112 @@
+{
+  "main_file": {
+    "path": "atlanta_hull_var3.json",
+    "hash": "d22e36e0aa7b6226b3d1099bec41466e7b7a8cf1755d61dd28cb9eee1987b836"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_0.obj",
+      "hash": "a46745def0fa83e516cc9ae17650abae67845f79134d80060c3123647b97c7ad"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_1.obj",
+      "hash": "eec41c94e3d7313a5f2578960ff8e2166fe265dd1a048575101d0146b964fc3c"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_2.obj",
+      "hash": "6e0995c84b970e233bf77ee5e3a54632809463d8c37febc64dbce7f6473829ca"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_3.obj",
+      "hash": "bd14436ef2567d5a776a6e6f04b4a581639ee71c4d427fb6c1e8af825d534927"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_4.obj",
+      "hash": "60c51c972c27bfd2b3d8d31e49c58d30cac00a8762f61db15e1667bd71a838f5"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_5.obj",
+      "hash": "8e71fb5016c690b435d054038845e16391f82e7d20d128fe8c82142e35a3b0c3"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_6.obj",
+      "hash": "7ecf243dfb3a8590709050ec44b0e9068178d3b884590d34e77ad8d204558147"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Rostrum_A_001_7.obj",
+      "hash": "d425705e63bbe59dbfbab1ef7f6f87be171dab07bf2df51f66ba9cd7c23c4eab"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_001_0.obj",
+      "hash": "6189ce272c8d90d6700f46b0c499f3b0af77c9cac315d5b6c3ad9ee46d39a86e"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_001_1.obj",
+      "hash": "f87d089a489b9ae3555ed43b769232b90d2c3ac1333ff8fac37624a2c8e8db5c"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_001_2.obj",
+      "hash": "fea4ea9df1980a0369d0534d99d1150b5b084427b6ec9d1771155d7f328ab68e"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_001_3.obj",
+      "hash": "b6819e45f6380d488637d75fbf4b2ec7464e5a19fba8623a3eb7aa4c312a2e6d"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_001_4.obj",
+      "hash": "8abf66fcc71d483a9dbb788d6546e17c2bb0d0b2edf31e3c616b3c16384b84a1"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_0.obj",
+      "hash": "61c788465cfdf94b7929121edfd7f190f1ba2d96b59a1aac4b2dc191f2f4482a"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_1.obj",
+      "hash": "32ec808b2e91418755a58da2d24fd1994cc600d2e7ac37257555308a378905bf"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_2.obj",
+      "hash": "26d50be918fe61d9f571363125582b140e3f8a40408e92565b2fc956c3a75a0e"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_3.obj",
+      "hash": "7eb2d3dc05f8b4fa3ef2b71dd009ec87bfdd1a62771d88f43c41c63c1bc836ab"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_4.obj",
+      "hash": "3376ac3c96c51eb7cc7ae349e276525f83d0c36cd4fc023d7cc516fc575aa3c6"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_5.obj",
+      "hash": "7d95007f449889bec08053eb88107e00955bf1f24ba918a2c50b2adf5bd2a43d"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_6.obj",
+      "hash": "3e91e4942f7e3978cfdc067fe0521345305f9dd142fe26e4167a9c27091d27c7"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Stern_A_001_7.obj",
+      "hash": "a23e41be651502e85af4f99cd3784d7359f9d7eb8f307f76f9dcf5198d9e7619"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_002_0.obj",
+      "hash": "9fd9c83cc6be29b116265fac75e4f23d0bbb0c2cbac0028db5f754175197ba24"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_002_1.obj",
+      "hash": "283b982f75640898c1f8ad0f3ba0cdad08029e575c1fa8d6eda0502e67611f8e"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_002_2.obj",
+      "hash": "96fbb4ef81c8e69aaaca9d8c1aab763055d48854416175eeaefbb5b05aab1def"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_002_3.obj",
+      "hash": "d45118655f6cf3ae828470fde20edbeddae91549a18284a733a2113736cc4bb8"
+    },
+    {
+      "path": "meshes/Atlanta_Hull_Midsection_A_002_4.obj",
+      "hash": "5d4350f3d2a4089f964dd46a899dcc9fa3b8f1029ac005e3c601752e49eff1ac"
+    }
+  ]
+}

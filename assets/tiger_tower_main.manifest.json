@@ -1,44 +1,44 @@
 {
   "main_file": {
     "path": "tiger_tower_main.json",
-    "hash": "a9d5bb9e854c864d925c685eb7bdaa15c9f77a7fed7bde528482752b8cf4930e"
+    "hash": "9142c14b2e277052e478430d732a55274fa3aa7500e8abdb398b1d20486fc458"
   },
   "dependencies": [
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_0.obj",
-      "hash": "6f0d507d793684cd9d5e126ef0020aa877ccbd1254c219ce4b08e1af3499640d"
+      "hash": "87bbcdc4d9762d0f3a43eb8935ca0bcac3fcc4d64a068ac6b4a3518c74dcbcc5"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_1.obj",
-      "hash": "9670dd0ab62e2ed585491b7969687de5536cee4d9983634c264d30d4a427046c"
+      "hash": "69181969b04fddb411121ecadb4cc6e804a11092c46ef2dc0935332817483ed6"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_2.obj",
-      "hash": "2b4f6059af6a4910e4a3cedf427fea7fa8b859f2032c57608d3302038fc04466"
+      "hash": "371d7ceede3937a2ad478cfe6cc91e5b272fda8769d57f029a4b48ceaafebb4b"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_5.obj",
-      "hash": "aefc3d6ec99b2f0452c2a5aa83c912ed4584902525229ec745148a6a6c601125"
+      "hash": "286cec451c8b477fb9391f561d9365057ea2a2386f619b838452c6abe95fd8b1"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_6.obj",
-      "hash": "67ff6c5a742cc5891d1f6e42ed7173f21008c7e801b6420453f690a45a7de8a1"
+      "hash": "a306fb614cd525de4dfe2290eade0831fe201bda52be39e4ae45f1bbb85fb42f"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_7.obj",
-      "hash": "ba5a6303eb1320a883f4e8f1cc9b502a7a6205c3a5ec2c93ce2a67bbe07b1526"
+      "hash": "72b969a0adfb1dc93cc47aeec31e3f8274f7f7024beffaed282df60dad365129"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Dredn_A4_001_8.obj",
-      "hash": "d6f83f96fd29023dacdd71b9d0ddf50a4d8f0f19b07f67a2f50b911ce3ab358f"
+      "hash": "f58d6ee18988d368c749cb4957a3d933fa8610098ca5229a2fa889372ccc23d8"
     },
     {
       "path": "meshes/Hood2_Deckhouse_A1_001_4.obj",
-      "hash": "e98a5ece7b757ca3ff46537b65e6162c8778b85ffae1d260554b9f82c165aeac"
+      "hash": "2846d326a04f4c25f9f0623f7243855aecf2122bc89b2b7046d25f1e69a9eb02"
     },
     {
       "path": "meshes/Cylinder.obj",
-      "hash": "f0c0b5341b7ec0b81d62f2a5cb2392f32cd3e086791580ff6c50d31af4c734c8"
+      "hash": "5832b94f10b931f2bc03be998d98ad51cdcd5722abf5c4d122410478689b4a11"
     }
   ]
 }

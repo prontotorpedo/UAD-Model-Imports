@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "sverige_tower_main.json",
+    "hash": "f2c306f34649d5371deface3af1ffba2b845d277b1a0134c1e47d1312dd1a8fe"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Br_Hull_Midsection_Kaiser_A_001_6.obj",
+      "hash": "cd3e448049044e54d2fdb04ecc761411d63cce10ae4a8913448381378b5bece1"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Kaiser_A_001_5.obj",
+      "hash": "940490b6183ac6c4f1598c0fd37dd1521c0e83fcfef05decb2dd4578eb41f033"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Kaiser_A_001_1.obj",
+      "hash": "a2f3c1120dbb7dcd14a7759523ed8608ff4db29f7142f66e0861525fffdafde5"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Kaiser_A_001_0.obj",
+      "hash": "6b39937780182ee170422d8d4ea7b7d4378498f015ad63741c3d5f48ace43b02"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Main_A_001_3.obj",
+      "hash": "c004fe76f6eb21b6e81124520dc3fd558c5eba536a105e83ba191b2c2edbc140"
+    },
+    {
+      "path": "meshes/Br_Hull_Midsection_Kaiser_A_001_8.obj",
+      "hash": "fd0caef9f7de8bb1d3643f5e41a9f3b6f6a03246e63c742e5ddb136cf550ad00"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Main_A_001_1.obj",
+      "hash": "4a352c023ee725ac23789342a8675746ec33cdd9f19eae023d5333a1b0052477"
+    },
+    {
+      "path": "meshes/Friedrich_Tower_Main_A_001_0.obj",
+      "hash": "61e1dd8ab01d60fac2160d8b4feda382f5aee33a2e3a26e95ba13dd444e00c76"
+    }
+  ]
+}

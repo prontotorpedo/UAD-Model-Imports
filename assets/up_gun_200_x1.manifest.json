@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "up_gun_200_x1.json",
+    "hash": "015dfcf4613733b021d378e96a9dc97b18f8da365c96ddd3341564f4c5b6d16b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/UP_gun_barrel_x1_01.obj",
+      "hash": "6d55c8e1398b49ddff162b0c18e0ce1ed83eefff44244d78d10bf4cbcd5fe80d"
+    },
+    {
+      "path": "meshes/UP_gun_01.obj",
+      "hash": "bb32e8ded07474b864113b4c721ccfd16c6b53f01071bd89e1461dbe1f6a45c4"
+    },
+    {
+      "path": "meshes/UP_gun_02.obj",
+      "hash": "bd89b004739c6ea422aa513d2decd8e827089fd5bf05e9df2d54650e7840f915"
+    },
+    {
+      "path": "meshes/UP_gun_03.obj",
+      "hash": "87ce485c81578af213b358930541122c421a8ef4be94ab1199f0884fd58ef186"
+    }
+  ]
+}

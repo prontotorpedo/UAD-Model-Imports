@@ -1,32 +1,32 @@
 {
   "main_file": {
     "path": "queen_mary_tower_sec.json",
-    "hash": "584bd29610747a97c90b900b1fdb6e369a65f19d761af3dd73ac603d3552412f"
+    "hash": "b7facebd1662f37ec5bb2cd8e7fcd6c21a5e790da0b539361f1b0ba82b391a76"
   },
   "dependencies": [
     {
       "path": "meshes/Bsh_Deckhouse_Invi_A2_004_0.obj",
-      "hash": "58a284b6b1453511c5060c4052269a0a5d9fe69ce88763656b3a2eab062971d2"
+      "hash": "916529cff355d0b087ab735922dccca76feb3c6c583aefab553e49e74d1a99bd"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Invi_A2_004_1.obj",
-      "hash": "530acf3757859e6aa2266afde8581e27c0483cbc8ebef7e3d6255cc4c27d730f"
+      "hash": "61b33a9b7c5aeede6305bcc3dc6fc92df5433925ebab89791a2409786cdf3a29"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Invi_A2_004_4.obj",
-      "hash": "2c74e565d1b6dfafd1700a2607f3fecf1f35f44ad1e72af778b1efbe247eacbe"
+      "hash": "6f287208a1bba5e953bfb924a3b37c11e243fe4b8c35c1b456adb4a3a2ce088a"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Invi_A2_004_5.obj",
-      "hash": "474763271aab2299076aa185e8c422ad408c3effc38b5a994eb973aba4b74331"
+      "hash": "9402da7a254e2f415b48735290e4ecb1a17a251679064b6b5d887280dcc8ed7c"
     },
     {
       "path": "meshes/Bsh_Deckhouse_Invi_A2_004_6.obj",
-      "hash": "43e7a30803b1c2eb9051f4411525458e989b697d966de2d4541efb1b5f619066"
+      "hash": "eef5c8a9811ffc59cd076c805d290062bb26aa43e453ed9cc9d51be7d91ed313"
     },
     {
       "path": "meshes/Br_Lifeboat_L_AC_001_9.obj",
-      "hash": "d98f69712e185e7ef17d8238cefd582ba8baf2838628d2bbe09f61fec3ce8a8c"
+      "hash": "8af4c15885eafa3825d4161d379f2b883699f82b655918c6f51f59cbf3b5035d"
     }
   ]
 }

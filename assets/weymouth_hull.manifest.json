@@ -6,7 +6,7 @@
   "dependencies": [
     {
       "path": "meshes/Cr_Hull_Rostrum_Gazelle_A_001_0.obj",
-      "hash": "c58e066b37c5f8b6d19e9fb510432a4c1793b8c78c31a3e453dc561bba19ad9c"
+      "hash": "c61e075d4949bf6adbab89e5324e09cd9fc55907f55188640b2a87b26841d9fa"
     },
     {
       "path": "meshes/Cr_Hull_Rostrum_Gazelle_A_001_1.obj",
@@ -30,11 +30,11 @@
     },
     {
       "path": "meshes/Cr_Hull_Rostrum_Gazelle_A_001_5.obj",
-      "hash": "c87299de81e346a72a692887609d30eb92ece947c343eb6dd7550fc211cab880"
+      "hash": "c976a1818da0104e143c89f5b49391bba99c2ddaeea9cbe6ee1c2f33a1dcb721"
     },
     {
       "path": "meshes/Cr_Hull_Rostrum_Gazelle_A_001_6.obj",
-      "hash": "ba26774aa23c2536d396636b30b0a55ab0f0604ef40a8e3ace5eb83b3ef31dd8"
+      "hash": "024eb6ceace9b0c3d79a2b9ebda76badc1ac6e0bd53c07e658f645e78482d42c"
     },
     {
       "path": "meshes/Cr_Hull_Rostrum_Gazelle_A_001_7.obj",

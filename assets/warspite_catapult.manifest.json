@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "warspite_catapult.json",
+    "hash": "027f02a92a312cf83ad51186a9df538f0cba111b8a3d6a99b9c98b61656f72be"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Warspite_Catapult_Base.obj",
+      "hash": "fd7e2c1ca63469305d38dbd02b45ec37fe54ca37003f4d8bcecd3aa85bb1e7a1"
+    },
+    {
+      "path": "meshes/Warspite_Catapult_Rails.obj",
+      "hash": "67dd9a479a9ac0f009324db4aa192b6a42eda33c425f33bbf42eb168e2a98c0c"
+    },
+    {
+      "path": "meshes/Warspite_Catapult_Tracks.obj",
+      "hash": "5cc9a710f1c4f616950e6cf6b263940911322c69ee30a6662dbee23be2d22f77"
+    }
+  ]
+}

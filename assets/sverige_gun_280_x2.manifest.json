@@ -1,0 +1,20 @@
+{
+  "main_file": {
+    "path": "sverige_gun_280_x2.json",
+    "hash": "f8f49e7d7da3015210c764f0630efff8c2a5628afc75fa70fc485a81084e61fc"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/agm_gun_305_barrel_001.obj",
+      "hash": "4048948a52bb12ee4f07410ee0434231292d5adff3452337f57c07241b220506"
+    },
+    {
+      "path": "meshes/Sverige_Gun_280.obj",
+      "hash": "cc63d77e327373643696b581874ede7387e261a19ce87cf571736d63c84b6048"
+    },
+    {
+      "path": "meshes/vir_gun_305_x2_001_0.obj",
+      "hash": "f21632f82c9661ecdfe47edc3487defb8fc00fb44e63431665d30419f4312aac"
+    }
+  ]
+}

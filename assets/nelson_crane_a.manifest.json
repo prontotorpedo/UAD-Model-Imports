@@ -1,0 +1,24 @@
+{
+  "main_file": {
+    "path": "nelson_crane_a.json",
+    "hash": "b9f4d091f03fef7749bfca5ebbbdbe9b3e14eb3bd84281d9bc7f3f240b9e7364"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Nel_Deckhouse_A2_001_0.obj",
+      "hash": "f21294e3e580337730cb855059c1c92f5da3a34c0cc455448d7280246033aa23"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_A2_001_1.obj",
+      "hash": "33429385a29295190b7d0e22107d8a281ced618a85742eab67f3e11afe217242"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_A2_001_4.obj",
+      "hash": "9e2c70c766eef0829bc07e407122d2e79235f8a65d33b841637772651733d236"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_A2_001_5.obj",
+      "hash": "908de37ae9a7db4f097964cb52fde96c05b16fc439625ccacb08d519a485079e"
+    }
+  ]
+}

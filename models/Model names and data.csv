@@ -27,6 +27,9 @@ black_swan_barbette_a,barbette,Based on the rear platform of the Black Swan clas
 dd_barbette_mid,barbette,A generic barbette meant for use in the midsections of destroyers,
 nelson_barbette_a_tall,barbette,A taller version of nelson_barbette_a,
 qe_gun_114_mount,barbette,"Based on the small circular bases around the 4.5"" ""pancake"" turrets on the modernized Queen Elizabeth class Battleships",
+short_barbette_a,barbette,A version of nelson_barbette_b without the extra front piece sticking out,New
+short_barbette_b,barbette,A taller version of short_barbette_a,New
+short_barbette_c,barbette,A wider version of short_barbette_a,New
 tribal_barbette_a,barbette,Based on the integrated barbette on the front of the Tribal class Destroyers,
 tribal_barbette_b,barbette,Based on the gun mounts on the funnels of the Tribal class Destroyers,
 ##,,,
@@ -57,7 +60,7 @@ cali_tower_main_a,tower_main,A version of arizona_tower_main_b with a cage mast,
 cali_tower_main_a_var,tower_main,A version of cali_tower_main_a with a cage different conning tower,
 cali_tower_main_b,tower_main,A version of cali_tower_main_a with a shorter mast,
 cali_tower_main_b_var,tower_main,A version of cali_tower_main_b with a different conning tower,
-cali_tower_main_c,tower_main,Based on the main tower of USS California after being modernized,New
+cali_tower_main_c,tower_main,Based on the main tower of USS California after being modernized,
 courbet_tower_main_a,tower_main,Based on the main tower of the Courbet class Battleships,
 courbet_tower_main_a_var,tower_main,Based on the main tower of the Courbet class Battleships after their reconstruction,
 courbet_tower_main_b,tower_main,A version of courbet_tower_main_a without the integrated barbette,
@@ -72,25 +75,27 @@ hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of H
 kongo_tower_main_a,tower_main,Based on the original main tower of the Kongo class Battlecruisers in 1913,
 kongo_tower_main_b,tower_main,Based on the main tower of the refitted Kongo class battlecruisers in 1931,
 leander_tower_main,tower_main,Based on the main tower of the Leander class Light Cruisers,
-lyon_tower_main_a,tower_main,Based on the planned front tower of the Lyon class Battleships,New
-lyon_tower_main_b,tower_main,Based on the front tower of the battleship Lyon as seen in World of Warships,New
+lyon_tower_main_a,tower_main,Based on the planned front tower of the Lyon class Battleships,
+lyon_tower_main_b,tower_main,Based on the front tower of the battleship Lyon as seen in World of Warships,
 montana_tower_main,tower_main,Resembles a hypothetical main tower for USS Montana,
 nassau_tower_main_a,tower_main,Based on the main tower of the Nassau class Battleships,
 northampton_tower_main_a,tower_main,Based on the main tower of the Northampton class Heavy Cruisers,
 northampton_tower_main_b,tower_main,Based on the main tower of the modernized Northampton class Heavy Cruisers,
+north_carolina_tower_main_a,tower_main,Resembles the main tower of the North Carolina class Battleships,New
 omaha_tower_main_a,tower_main,Resembles the main tower of the Omaha class Cruisers,
 pensacola_tower_main_a,tower_main,Resembles the main tower of the Pensacola class Heavy Cruisers,
 pensacola_tower_main_b,tower_main,A version of pensacola_tower_main_a without the integrated barbette,
-queen_mary_tower_main,tower_main,Resembles the front towers of the Lion and Queen Mary class Battlecruisers,
+queen_mary_tower_main,tower_main,Resembles the front towers of the Lion and Queen Mary class Battlecruisers,Updated
 renown_tower_main,tower_main,Based on the main tower of HMS Renown after modernization,
 scharn_tower_main,tower_main,Resembles the main tower of the Scharnhorst class Battleships,
 scharn_tower_main_b,tower_main,"A version of scharn_tower_main with slightly larger cutouts where the single 5.9"" guns were",
 schill_tower_main_a,tower_main,"Based on the front tower of the Knesebeck, a tier VIII German cruiser in World of Warships",
-schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette",Updated
-schill_tower_main_c,tower_main,A version of the Schill tower without the main barbette,New
+schill_tower_main_b,tower_main,"Same as schill_tower_main_a, but with an enlarged barbette",
+schill_tower_main_c,tower_main,A version of the Schill tower without the main barbette,
+sverige_tower_main,tower_main,Resembles the main tower of the Sverige class Coastal Defense Battleships,New
 teg_tower_main_a,tower_main,Based on the main tower of the Tegetthoff class Battleships,
 teg_tower_main_b,tower_main,A version of teg_tower_main_a with an extra platform for gun mounts,
-tiger_tower_main,tower_main,Based on the front tower of the battlecruiser HMS Tiger,
+tiger_tower_main,tower_main,Based on the front tower of the battlecruiser HMS Tiger,Updated
 tribal_tower_main_a,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching",
 tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to resemble the main towers of some V&W class destroyers,
 vanguard_tower_main,tower_main,Resembles the main tower of HMS Vanguard,
@@ -100,7 +105,7 @@ warspite_tower_main_b,tower_main,A version of warspite_tower_main without the in
 ##,,,
 1934_tower_sec,tower_sec,Based on the rear tower of Germany's Type 1934 Destroyers,
 aigle_tower_sec,tower_sec,Based on the rear towers of French destroyers such as Aigle,
-alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace class Battleship,Updated
+alsace_tower_sec_a,tower_sec,Resembles a hypothetical rear tower for an Alsace class Battleship,
 bayern_tower_sec,tower_sec,Based on the rear tower of the Bayern class Battleships,
 bayern_tower_sec_var,tower_sec,A rear tower for a theoretical modernized Bayern class Battleship,
 bertin_tower_sec,tower_sec,Based on the rear tower of the Emile Bertin class Cruisers,
@@ -115,8 +120,8 @@ bismarck_tower_sec_b_var_funnels1,tower_sec,A version of bismarck_tower_sec_b wi
 bismarck_tower_sec_b_var_funnels2,tower_sec,A version of bismarck_tower_sec_b with an extra cutout for guns and a funnel box,
 cali_tower_sec,tower_sec,A version of arizona_tower_sec_b with a cage mast,
 cali_tower_sec_b,tower_sec,A version of cali_tower_sec with a deck for a funnel mount,
-cali_tower_sec_c,tower_sec,Based on the rear tower of USS California after being modernized,New
-dunkerque_tower_sec,tower_sec,Based on the rear tower of the French Dunkerque class Battleships/Battlecruisers,Updated
+cali_tower_sec_c,tower_sec,Based on the rear tower of USS California after being modernized,
+dunkerque_tower_sec,tower_sec,Based on the rear tower of the French Dunkerque class Battleships/Battlecruisers,
 fargo_tower_sec,tower_sec,Based on the rear tower of the Fargo subclass fo the Clevland class Light Cruisers,
 g3_tower_sec,tower_sec,Based on the rear tower of the unbuilt G3 Battlecruisers,
 hipper_tower_sec,tower_sec,Based on the rear tower of the Admiral Hipper class Heavy Cruisers,
@@ -124,23 +129,25 @@ hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS
 kongo_tower_sec_a,tower_sec,Based on the original rear tower of the Kongo class Battlecruisers in 1913,
 kongo_tower_sec_b,tower_sec,Based on the rear tower of the refitted Kongo class battlecruisers in 1931,
 leander_tower_sec,tower_sec,Based on the rear tower of the Leander class Light Cruisers,
-lyon_tower_sec_b,tower_sec,Based on the rear tower of the battleship Lyon as seen in World of Warships,New
+lyon_tower_sec_b,tower_sec,Based on the rear tower of the battleship Lyon as seen in World of Warships,
 montana_tower_sec,tower_sec,Resembles a hypothetical rear tower for USS Montana,
-nassau_tower_sec_a,tower_sec,Based on the rear tower of the Nassau class Battleships,New
+nassau_tower_sec_a,tower_sec,Based on the rear tower of the Nassau class Battleships,
 northampton_tower_sec_a,tower_sec,Based on the rear tower of the Northampton class Heavy Cruisers,
 northampton_tower_sec_b,tower_sec,Based on the rear tower of the modernized Northampton class Heavy Cruisers,
+north_carolina_tower_sec_a,tower_sec,Resembles the rear tower of the North Carolina class Battleships,New
 omaha_tower_sec_a,tower_sec,Resembles the rear tower of the Omaha class Cruisers,
 pensacola_tower_sec_a,tower_sec,Resembles the rear tower of the Pensacola class Heavy Cruisers,
 pensacola_tower_sec_b,tower_sec,A version of pensacola_tower_sec_a without the deck superstructure,
-queen_mary_tower_sec,tower_sec,Resembles the rear towers of the Lion and Queen Mary class Battlecruisers,
+queen_mary_tower_sec,tower_sec,Resembles the rear towers of the Lion and Queen Mary class Battlecruisers,Updated
 renown_tower_sec,tower_sec,Based on the rear tower of HMS Renown after modernization,
 scharn_tower_sec,tower_sec,Resembles the rear tower of the Scharnhorst class Battleships,
 scharn_tower_sec_b,tower_sec,A version of scharn_tower_sec with a spot for mounting funnels,
 schill_tower_sec_a,tower_sec,"Based on the rear tower of the Knesebeck, a tier VIII German cruiser in World of Warships",
 schill_tower_sec_b,tower_sec,"Same as schill_tower_sec_a, but with an enlarged barbette",
-schill_tower_sec_c,tower_sec,A version of the Schill tower without the main barbette,New
+schill_tower_sec_c,tower_sec,A version of the Schill tower without the main barbette,
+sverige_tower_sec,tower_sec,Resembles the rear tower of the Sverige class Coastal Defense Battleships,New
 teg_tower_sec_a,tower_sec,Based on the rear tower of the Tegetthoff class Battleships,
-tiger_tower_sec,tower_sec,Based on the rear tower of the battlecruiser HMS Tiger,
+tiger_tower_sec,tower_sec,Based on the rear tower of the battlecruiser HMS Tiger,Updated
 tribal_tower_sec_a,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s,
 tribal_tower_sec_b,tower_sec,A slightly smaller version of tribal_tower_main_a with a reprofiled front section,
 vanguard_tower_sec,tower_sec,Resembles the rear tower of HMS Vanguard,
@@ -149,6 +156,9 @@ warspite_tower_sec,tower_sec,Based on the rear tower of HMS Warspite,
 ##,,,
 alsace_hull_a,hull,A version of richelieu_hull_a with a longer stern deck. Meant to resemble a design concept for the Alsace class Battleships,
 alsace_hull_b,hull,A version of alsace_hull_a with extra cutouts in the raised deck,
+atlanta_hull_var1,hull,A version of the atlanta hull with a wooden deck,New
+atlanta_hull_var2,hull,"A taller, wider, and longer version of atlanta_hull_var1",New
+atlanta_hull_var3,hull,A shorter and thinner version of atlanta_hull_var1,New
 austria_bc_hull,hull,Based off of a design concept for an Austrian Battlecruiser in the mid-late 1910s,
 bertin_hull_a,hull,Based on the hull of the Emile Bertin class Light Cruisers,
 black_swan_hull,hull,Based on the hull of the Black Swan class Sloops,
@@ -162,7 +172,7 @@ cv_test_hull,hull,"A generic carrier hull, not meant to be used seriously",
 dd_hull_long_nose,hull,"The generic DD hull, but with a longer raised deck",
 dd_hull_thin_a,hull,A generic DD hull built using akizuki_hull_parts,
 dreadnought_hull_c_modernized,hull,A version of dreadnought_hull_c without casemate slots,
-dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section",
+dreadnought_hull_d_adv,hull,"The dreadnought_hull_d, but with a rear facing middle casemate section",Updated
 dreadnought_hull_d_barb,hull,"The dreadnought_hull_adv, but with a built-in rear barbette",
 dreadnought_hull_d_modernized,hull,A version of dreadnought_hull_d without casemate slots,
 edgar_hull,hull,Based on the hull of the Edgar class Armoured Cruisers,
@@ -179,17 +189,17 @@ northampton_hull_a,hull,Based on the hull of the Northampton class Heavy Cruiser
 pensacola_hull_a,hull,Resembles the hull of the Pensacola class Heavy Cruisers,
 renown_hull,hull,Based on the hull of HMS Renown,
 tb_hull_new_a,hull,A new torpedo boat hull with a larger gun platform,
-usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates",Updated
+usa_standard_bb_hull,hull,"Based on the hulls of the standard type Battleships of the USA. Use ""var(no_casemate) to plate off the casemates",
 vanguard_hull,hull,Resembles the hull shape of HMS Vanguard,
-weymouth_hull,hull,Based on the hull of the WWI Town class Cruisers,
+weymouth_hull,hull,Based on the hull of the WWI Town class Cruisers,Updated
 weymouth_hull_var,hull,A variant of weymouth_hull with an Emden style midsection,
 ##,,,
 agamemnon_gun_b_305_x2,gun,"The turret shield of agamemnon_gun_305_x2 is made slightly longer and wider, covering more of the turret base",
 agamemnon_gun_b_305_x3,gun,"The turret shield of agamemnon_gun_305_x3 is made slightly longer and wider, covering more of the turret base",
-atl_gun_125a_x1,gun,A thinner version of atl_gun_125_x1 with the second base removed,New
-atl_gun_125a_x2,gun,A version of atl_gun_125_x2 with the second base removed,New
-atl_gun_125a_x3,gun,A wider version of atl_gun_125_x3 with the second base removed,New
-atl_gun_125a_x4,gun,A wider version of atl_gun_125_x4 with the second base removed,New
+atl_gun_125a_x1,gun,A thinner version of atl_gun_125_x1 with the second base removed,
+atl_gun_125a_x2,gun,A version of atl_gun_125_x2 with the second base removed,
+atl_gun_125a_x3,gun,A wider version of atl_gun_125_x3 with the second base removed,
+atl_gun_125a_x4,gun,A wider version of atl_gun_125_x4 with the second base removed,
 baltimore_gun_203_x1,gun,"A single turret version of the 8"" gun used on the Baltimore class Heavy Cruisers",
 baltimore_gun_203_x2,gun,"A twin turret version of the 8"" gun used on the Baltimore class Heavy Cruisers",
 baltimore_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Baltimore class Heavy Cruisers",
@@ -214,8 +224,8 @@ bofors_gun_40_x3,gun,Resembles a triple Bofors 40mm AA gun,
 bofors_gun_40_x4,gun,Resembles a quadruple Bofors 40mm AA gun,
 bofors_gun_40_x6,gun,Resembles a sextuple Bofors 40mm AA gun. Unsure if it will work,
 cali_gun_356_x1,gun,"A single turret version of the 14"" gun turrets used on later US battleships",
-cali_gun_356_x2,gun,"A twin turret version of the 14"" gun turrets used on later US battleships",Updated
-cali_gun_356_x3,gun,"A triple turret version of the 14"" gun turrets used on later US battleships",Updated
+cali_gun_356_x2,gun,"A twin turret version of the 14"" gun turrets used on later US battleships",
+cali_gun_356_x3,gun,"A triple turret version of the 14"" gun turrets used on later US battleships",
 cali_gun_356_x4,gun,"A quadruple turret version of the 14"" gun turrets used on later US battleships",
 casemate_gun_76_x1_unshielded_short,gun,A shorter barreled version of casemate_gun_76_x1_unshielded,
 casemate_gun_152_x1_short,gun,A shorter barreled version of casemate_gun_152_x1,
@@ -228,12 +238,12 @@ county_gun_102a_x3,gun,A triple turret version of county_gun_102a_x2,
 county_gun_102b_x3,gun,A triple turret version of county_gun_102b_x2,
 county_gun_203_x2,gun,"Based on the 8"" guns of the County class Heavy Cruisers",
 county_gun_203_x3,gun,A hypothetical triple turret version of the County class turret,
-courbet_gun_305a_x2,gun,A less tall version of dant_gun_245_x2,Updated
-courbet_gun_305b_x2,gun,"A less tall version of dant_gun_245_x4, made to fit two barrels",Updated
-courbet_gun_305c_x2,gun,"Based on the 12"" guns found on the Courbet class Battleships",New
-courbet_gun_305a_x3,gun,A less tall version of dant_gun_245_x3,Updated
-courbet_gun_305b_x3,gun,"A less tall version of dant_gun_245_x4, made to fit three barrels",Updated
-courbet_gun_305c_x3,gun,A triple turret version of courbet_gun_305c_x2,New
+courbet_gun_305a_x2,gun,A less tall version of dant_gun_245_x2,
+courbet_gun_305b_x2,gun,"A less tall version of dant_gun_245_x4, made to fit two barrels",
+courbet_gun_305c_x2,gun,"Based on the 12"" guns found on the Courbet class Battleships",
+courbet_gun_305a_x3,gun,A less tall version of dant_gun_245_x3,
+courbet_gun_305b_x3,gun,"A less tall version of dant_gun_245_x4, made to fit three barrels",
+courbet_gun_305c_x3,gun,A triple turret version of courbet_gun_305c_x2,
 courbet_gun_305b_x4,gun,A less tall version of dant_gun_245_x4,
 daring_gun_114_x1,gun,A hypothetical single turret version of the Daring class turret,
 daring_gun_114_x2,gun,"Based on the 4.5"" gun used on the Daring class Destroyers",
@@ -247,18 +257,18 @@ dunkerque_gun_130_x2,gun,"Based on the twin 5.1"" gun found on the French Dunker
 dunkerque_gun_130_x3,gun,A triple turret version of dunkerque_gun_130_x2,
 dupleix_gun_203_x2,gun,Based on the main guns of the French heavy cruiser Dupleix,
 dupleix_gun_203_x3,gun,A triple turret version of the guns on the French heavy cruiser Dupleix,
-fletcher_gun_127_x1,gun,"Based on the 5"" gun mount found on the Fletcher class Destroyers",New
+fletcher_gun_127_x1,gun,"Based on the 5"" gun mount found on the Fletcher class Destroyers",
 hipper_gun_203a_x2,gun,"Based on the deck level 8"" guns on the Admiral Hipper class Heavy Cruisers",
 hipper_gun_203b_x2,gun,"Based on the superfiring 8"" guns on the Admiral Hipper class Heavy Cruisers",
 hipper_gun_203a_x3,gun,A triple turret version of hipper_gun_203a_x2,
 hipper_gun_203b_x3,gun,A triple turret version of hipper_gun_203b_x2,
-hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2,Updated
-hood_gun_380b_x3,gun,A shorter version of hood_gun_380_x3,Updated
-iowa_gun_406a_x1,gun,A properly sized version of iowa_gun_406_x1,New
-iowa_gun_406a_x2,gun,A properly sized version of iowa_gun_406_x2,New
-iowa_gun_406a_x3,gun,A properly sized version of iowa_gun_406_x3,New
-iowa_gun_406a_x4,gun,A properly sized version of iowa_gun_406_x4,New
-iowa_gun_406b_x2,gun,A version of iowa_gun_406_x2 with shorter barrel spacing,New
+hood_gun_380b_x2,gun,A shorter version of hood_gun_380_x2,
+hood_gun_380b_x3,gun,A shorter version of hood_gun_380_x3,
+iowa_gun_406a_x1,gun,A properly sized version of iowa_gun_406_x1,
+iowa_gun_406a_x2,gun,A properly sized version of iowa_gun_406_x2,
+iowa_gun_406a_x3,gun,A properly sized version of iowa_gun_406_x3,
+iowa_gun_406a_x4,gun,A properly sized version of iowa_gun_406_x4,
+iowa_gun_406b_x2,gun,A version of iowa_gun_406_x2 with shorter barrel spacing,
 laudon_gun_350_x2,gun,Based on plans for the twin turret of the Ersatz Monarch class Dreadnoughts,
 laudon_gun_350_x3,gun,Based on plans for the triple turret of the Ersatz Monarch class Dreadnoughts,
 leipzig_gun_150_x1,gun,A thinner version of bismarck_gun_150_x1,
@@ -278,18 +288,18 @@ mont_gun_152b_x1,gun,A slightly thinner version of mont_gun_152_x1 with lifeboat
 mont_gun_152b_x2,gun,A version of mont_gun_152_x2 with lifeboats on top,
 mont_gun_152b_x3,gun,A version of mont_gun_152_x3 with lifeboats on top,
 mont_gun_152b_x4,gun,A slightly thicker version of mont_gun_152_x4 with lifeboats on top,
-nagato_gun_410_x2,gun,"Based on the 16.1"" guns of the Nagato class Battleships",Updated
-nagato_gun_410_x3,gun,A triple turret version of nagato_gun_410_x2,Updated
+nagato_gun_410_x2,gun,"Based on the 16.1"" guns of the Nagato class Battleships",
+nagato_gun_410_x3,gun,A triple turret version of nagato_gun_410_x2,
 nelson_gun_b_152_x2,gun,A version of nelson_gun_152_x3 without the lifeboats on top,
 nelson_gun_152b_x3,gun,A version of nelson_gun_152_x2 without the lifeboats on top,
-north_carolina_gun_127_x1,gun,"A single turret version of the mk. 29 5"" gun mount found on US fast battleships",New
-north_carolina_gun_127_x2,gun,"Based on the mk. 29 5"" gun mount found on US fast battleships",New
-north_carolina_gun_127_x3,gun,"A triple turret version of the mk. 29 5"" gun mount found on US fast battleships",New
-north_carolina_gun_127_x4,gun,"A quadruple turret version of the mk. 29 5"" gun mount found on US fast battleships",New
-north_carolina_gun_406_x1,gun,"A single turret version of the 16"" guns found on the North Carolina and South Dakota class Battleships",New
-north_carolina_gun_406_x2,gun,"A twin turret version of the 16"" guns found on the North Carolina and South Dakota class Battleships",New
-north_carolina_gun_406_x3,gun,"Based on the 16"" guns found on the North Carolina and South Dakota class Battleships",New
-north_carolina_gun_406_x4,gun,"A quadruple turret version of the 16"" guns found on the North Carolina and South Dakota class Battleships",New
+north_carolina_gun_127_x1,gun,"A single turret version of the mk. 29 5"" gun mount found on US fast battleships",
+north_carolina_gun_127_x2,gun,"Based on the mk. 29 5"" gun mount found on US fast battleships",
+north_carolina_gun_127_x3,gun,"A triple turret version of the mk. 29 5"" gun mount found on US fast battleships",
+north_carolina_gun_127_x4,gun,"A quadruple turret version of the mk. 29 5"" gun mount found on US fast battleships",
+north_carolina_gun_406_x1,gun,"A single turret version of the 16"" guns found on the North Carolina and South Dakota class Battleships",
+north_carolina_gun_406_x2,gun,"A twin turret version of the 16"" guns found on the North Carolina and South Dakota class Battleships",
+north_carolina_gun_406_x3,gun,"Based on the 16"" guns found on the North Carolina and South Dakota class Battleships",
+north_carolina_gun_406_x4,gun,"A quadruple turret version of the 16"" guns found on the North Carolina and South Dakota class Battleships",
 pensacola_gun_203_x1,gun,"A single turret version of the 8"" gun used on the Pensacola class Heavy Cruisers",
 pensacola_gun_203_x2,gun,"A twin turret version of the 8"" gun used on the Pensacola class Heavy Cruisers",
 pensacola_gun_203_x3,gun,"A triple turret version of the 8"" gun used on the Pensacola class Heavy Cruisers",
@@ -303,24 +313,28 @@ qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British airc
 qe_gun_114b_x2,gun,The qe_gun_114_x2 without the ring around the base of the turret,
 qe_gun_114_x3,gun,"Triple turret version of the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships",
 qe_gun_114b_x3,gun,The qe_gun_114_x3 without the ring around the base of the turret,
+renown_gun_102_x1,gun,"A single turret version of the triple 4"" mounts found on the Renown class Battlecruisers",New
+renown_gun_102_x2,gun,"A twin turret version of the triple 4"" mounts found on the Renown class Battlecruisers",New
+renown_gun_102_x3,gun,"Based on the triple 4"" mounts found on the Renown class Battlecruisers",New
 renown_gun_380_x2,gun,A version of hood_gun_380b_x2 with a shorter rangefinder. Resembles various British battleship guns,
-renown_gun_380_x3,gun,Triple turret version of renown_gun_380_x2,Updated
+renown_gun_380_x3,gun,Triple turret version of renown_gun_380_x2,
 somers_gun_127_x1,gun,"A single turret version of the 5"" guns used on USS Somers",
 somers_gun_127_x2,gun,"A twin turret version of the 5"" guns used on USS Somers",
 somers_gun_127_x3,gun,"A triple turret version of the 5"" guns used on USS Somers",
 somers_gun_127_x4,gun,"A quadruple turret version of the 5"" guns used on USS Somers",
 south_carolina_gun_305_x2,gun,Based on the main guns of the South Carolina class Battleships,
 south_carolina_gun_305_x3,gun,Triple turret version of the main guns of the South Carolina class Battleships,
+sverige_gun_280_x2,gun,"Based on the twin 11"" guns found on the Sverige class Coastal Defense Battleships",New
 teg_gun_305_x2,gun,"Resembles the twin 12"" guns used on Austrian Pre-Dreadnoughts",
 teg_gun_305_x3,gun,"Resembles the triple 12"" guns used on the Tegetthoff class Dreadnoughts",
-tiger_gun_152_x1,gun,"A single turret version of the 6"" guns found on the cruiser HMS Tiger",New
-tiger_gun_152_x2,gun,"Based on the 6"" guns found on the cruiser HMS Tiger",New
-tiger_gun_152_x3,gun,"A triple turret version of the 6"" guns found on the cruiser HMS Tiger",New
-tiger_gun_152a_x3,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x3,New
-tiger_gun_152_x4,gun,"A quadruple turret version of the 6"" guns found on the cruiser HMS Tiger",New
-tiger_gun_152a_x4,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x4,New
-tiger_gun_152b_x4,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x4,New
-tiger_gun_152c_x4,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x4,New
+tiger_gun_152_x1,gun,"A single turret version of the 6"" guns found on the cruiser HMS Tiger",
+tiger_gun_152_x2,gun,"Based on the 6"" guns found on the cruiser HMS Tiger",
+tiger_gun_152_x3,gun,"A triple turret version of the 6"" guns found on the cruiser HMS Tiger",
+tiger_gun_152a_x3,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x3,
+tiger_gun_152_x4,gun,"A quadruple turret version of the 6"" guns found on the cruiser HMS Tiger",
+tiger_gun_152a_x4,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x4,
+tiger_gun_152b_x4,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x4,
+tiger_gun_152c_x4,gun,Has a slightly different barrel arrangement compared to tiger_gun_152_x4,
 tribal_gun_100b_x2,gun,"Generic twin gun for DDs and CLs. Loosely based on the 4.7"" guns of the Tribal class Destroyers",
 tribal_gun_120_x2,gun,"Based on the twin 4.7"" guns of the Tribal class Destroyers",
 tribal_gun_120_x3,gun,A triple turret version of tribal_gun_120_x2,
@@ -329,6 +343,7 @@ type_1936_gun_150a_x1,gun,"A single turret version of the twin 5.9"" guns on the
 type_1936_gun_150_x2,gun,A twin turret version of type_1936_gun_150_x1,
 type_1936_gun_150a_x2,gun,"Based on the twin 5.9"" guns on the Type 1936 Destroyer",
 type_1936_gun_150a_x3,gun,A triple turret version of type_1936_gun_150a_x2,
+up_gun_200_x1,gun,"Based on the Unrotated Projectile, an attempt by the British to create a rocket-powered AA weapon mounted on capital ships",New
 usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war",
 vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard",
 vanguard_gun_133b_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard, slightly longer than the other version",
@@ -355,9 +370,15 @@ casemate_fairing_b,special,A slightly lower version of casemate_fairing_a,
 casemate_fairing_c,special,Covers up right side (from the center of the hull looking to the bow or stern) casemate holes on dreadnought hulls c and d,
 casemate_fairing_d,special,Covers up left side (from the center of the hull looking to the bow or stern) casemate holes on dreadnought hulls c and d,
 casemate_filler,special,A cylinder for covering up open casemate slots,
+hood_crane_a,special,The crane found on the hood rear towers,New
+hood_crane_b,special,The crane found on hood_tower_main_a,New
 king_george_catapult,special,Based on the midship aircraft handling facilities on the WWII era King George V class Battleships,
+nelson_crane_a,special,The crane found on nelson_tower_main_a,New
+nelson_crane_b,special,The crane found on nelson_tower_main_b,New
+nelson_crane_c,special,The crane found on nelson_tower_main_c,New
 spotlight_a,special,A generic spotlight,
 usa_catapult,special,"A generic aircraft launching catapult, based on the ones found on US Navy ships",
 usa_catapult_short,special,A shorter version of usn_catapult,
 usa_catapult_tall,special,A taller and longer version of usn_catapult,
 usa_crane_a,special,A generic aircraft recovery crane,
+warspite_catapult,special,Based on the midship aircraft handling facilities on the modernized HMS Warspite,New

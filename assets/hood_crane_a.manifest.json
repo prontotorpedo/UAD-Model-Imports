@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "hood_crane_a.json",
+    "hash": "6d7191f974ae66ff42048d323b3f8ab917cd11765c169509eb70d71215baa4a6"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood3_Deckhouse_A2_001_0.obj",
+      "hash": "82dbcf16521edfcd695b88e2cb35c47b371da2a29be00def8272c98f66bea91a"
+    },
+    {
+      "path": "meshes/Hood3_Deckhouse_A2_001_1.obj",
+      "hash": "688582071ad92fc80a2186f1691e94a9e1f1c5f72b66fba32f8d6447ccb7258a"
+    },
+    {
+      "path": "meshes/Hood3_Deckhouse_A2_001_2.obj",
+      "hash": "074b9e462ac66a4ca9348ecd27ea4c784bc7d3de90b1445c75b0c2efe61a3b7d"
+    },
+    {
+      "path": "meshes/Hood3_Deckhouse_A2_001_3.obj",
+      "hash": "f3dd3bb0216d2125c2acfa0b704e9cbeefba3277fb816032c833f421288d11df"
+    },
+    {
+      "path": "meshes/Hood3_Deckhouse_A2_001_4.obj",
+      "hash": "ee855d14dd162fb8ea9d16753b1a8a5e0f18fd1429405edefa74f95c3638e858"
+    }
+  ]
+}
