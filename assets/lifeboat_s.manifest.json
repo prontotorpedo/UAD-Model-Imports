@@ -1,0 +1,36 @@
+{
+  "main_file": {
+    "path": "lifeboat_s.json",
+    "hash": "88b20c4597933d37ac18607bdd7a83a5c105a9f1397d39e8d698886c6d72cc0f"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_0.obj",
+      "hash": "bcf1345bfb5e95b1d771ddc11c8af05a16f5953bac8e6c25e011b1e062d9e66a"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_1.obj",
+      "hash": "c882698feeac90597cfc990a9213451ac8744dbc9a72adbaf0b74c7bd09d3fa0"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_2.obj",
+      "hash": "56988b61f5a1c3adbfd3f3d0ac1ef75afe7ab507275b7117e53f1fe82bf70858"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_3.obj",
+      "hash": "d79f506b78bd83dd2b377f25e8606c6eb2c68e794eba69f144d1b41b659e8b0b"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_4.obj",
+      "hash": "00fd5b2bba510a8a597ec53133887e218132da2169c28a31aa77bb7b3c45220e"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_5.obj",
+      "hash": "594a162f271401bb8f61df4e82d08edaeb77d44e26cbd226c549262c2fd7a450"
+    },
+    {
+      "path": "meshes/Cr_Lifeboat_T_A(L)_002_6.obj",
+      "hash": "a8c0a730473ec679982e5b8ae05c9cfca070346551823172721d7d036d56d725"
+    }
+  ]
+}

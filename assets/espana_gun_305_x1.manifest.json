@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "espana_gun_305_x1.json",
+    "hash": "310453724f5188d8ddb0e0724906800ef75f6d531638e79063815d462ec99a60"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/drd_gun_305_base_001_0.obj",
+      "hash": "33bb8b2c8df4880e1beb75227b02a688ea74d07ca2679fa4fc9f97e2290371ad"
+    },
+    {
+      "path": "meshes/drd_gun_305_base_001_1.obj",
+      "hash": "f1f6e79728bb19a8c972b1bf0306097d455d257e8a74f035550d9df181872a8d"
+    },
+    {
+      "path": "meshes/drd_gun_305_base_001_2.obj",
+      "hash": "f7dba31c329b6ae8f0150054bb6bc433bff16c8e9ac6ff1b5c5c5a80d11f159a"
+    },
+    {
+      "path": "meshes/drd_gun_305_x1_001_0.obj",
+      "hash": "1cfe2e75f93d6d4f9f45285e0b794faf5fb7bd24d19d290cc1af06bc6f519cdb"
+    },
+    {
+      "path": "meshes/drd_gun_305_x1_001_1.obj",
+      "hash": "9b0327fb0e86189e899fb5b65dcf635da28e9154ce8a5a1228a5a309919d6244"
+    },
+    {
+      "path": "meshes/drd_gun_305_x1_001_2.obj",
+      "hash": "04b481004e1f54366a1487356daab5b8ac0254283757efec060db94cb9810b7f"
+    },
+    {
+      "path": "meshes/drd_gun_305_barrel_001_0.obj",
+      "hash": "2483eb6fe7a6ff8bbd52cc9ad9d45958e96538c113c09aa38774f82331287211"
+    },
+    {
+      "path": "meshes/drd_gun_305_x1_001_3.obj",
+      "hash": "d9ff4e728854c68d409e1a9a5c1ef252bb91e98c734ce0336a38a91c2e3a4a9a"
+    }
+  ]
+}

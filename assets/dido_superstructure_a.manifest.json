@@ -1,0 +1,52 @@
+{
+  "main_file": {
+    "path": "dido_superstructure_a.json",
+    "hash": "064bf39884e6a38d0b20e1b0ef947667edc1dbfbda8b501a2ce264c0e19ca2ba"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_0.obj",
+      "hash": "305fa07bdc530909e1ef57cee77d95aa3d17a9fb6359d1be57ad5ca42079ab5b"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_1.obj",
+      "hash": "a120cfaf3ffa8de8d8f0c22e458960c1aba6402062f043c4e51769b9d8ebc78e"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_10.obj",
+      "hash": "8951878de1e0ee8c355d815f605d90b30962dad1851a80939f84154779a14bf3"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_2.obj",
+      "hash": "15d2fbfb78bbf2a66c78252c7c9068e15d2ebd76cf7b196c4e57800e2d22687a"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_3.obj",
+      "hash": "4e58517d04f526a341e1d5dce653dd53134ddd08a262d961f1ec030630e3f031"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_4.obj",
+      "hash": "d9fcd5284d689e64db06a1a207e62fa5d95e02ccadaf2eb1c6c245051acaf56a"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_5.obj",
+      "hash": "515b41af5f64794d9669893a3051f7bc2eaa4bf6c02fff21ec037048ddb7307a"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_6.obj",
+      "hash": "20f24298701c85e70658fc9aa0c6713a68eff1c1ef30c4ca4950f090ca4c2e7a"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_7.obj",
+      "hash": "6561c1004a28cea0722c155df16e5a9bd0d8b031086831bbb113f16262f15b2a"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_8.obj",
+      "hash": "0258a229de9748bd75aa56dd47fb9033345a4cdf73c5547db11be6cbe0adfd8a"
+    },
+    {
+      "path": "meshes/DidoX_Deckhouse_A1_001_9.obj",
+      "hash": "d228e63504088c8552bf3154265f0759ea27c9c9c0a3cb2119529555cacef9a6"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "main_file": {
+    "path": "warrior_gun_228a_x2.json",
+    "hash": "6173fcdaaeb264ad4ede23483f14b2a850a80e4ea5b66811027cfe55da672253"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/crs_gun_234_barrel_001_0.obj",
+      "hash": "3d5bfe96922873d05113e221d0e4385e15e9660a0c4bc39ee441cb1dc59634c2"
+    },
+    {
+      "path": "meshes/War_gun_234_x2_001_0.obj",
+      "hash": "96ea75a42ecde0d2ef6db7b1aebe42b1a73265770f0e866d33ca58f563122be7"
+    },
+    {
+      "path": "meshes/War_gun_234_x2_001_1.obj",
+      "hash": "099a3a45cbf23a772398e7758d20a02c757d5b4d3fad2548df4cd3d5b537e34a"
+    },
+    {
+      "path": "meshes/War_gun_234_x2_001_2.obj",
+      "hash": "d2ce09de0f3da6fd1d5b244f34f886a0cb5165b48cfc545f8445d2090bf1a0f6"
+    },
+    {
+      "path": "meshes/War_gun_234_x2_001_3.obj",
+      "hash": "9af8873b27b3c83295d66597d768a10d6977ea10494e443b6e31db9eb28d9fb4"
+    },
+    {
+      "path": "meshes/War_gun_234_x2_001_4.obj",
+      "hash": "7099bf6ef6d929ccdf3b7f569d466ac001f045518f1386442dbbdcca40871cb0"
+    },
+    {
+      "path": "meshes/agm_gun_228a_base_001_0.obj",
+      "hash": "895458ddaba29e3d4b66305a758946bd0823f214785b8e4a2108b1ae8d30337c"
+    },
+    {
+      "path": "meshes/agm_gun_228a_base_001_1.obj",
+      "hash": "1f2139e301fe1ae50ea6862c959cdd7aed290f98cc3bcb5209ead4ebfbac6e7a"
+    }
+  ]
+}

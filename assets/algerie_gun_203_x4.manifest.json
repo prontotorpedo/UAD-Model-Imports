@@ -1,0 +1,16 @@
+{
+  "main_file": {
+    "path": "algerie_gun_203_x4.json",
+    "hash": "240ecd7549975cee8cbf1bd73dc3c03643c86429e403134a34fe79120b808243"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Algerie_gun_203_barrel_x1.obj",
+      "hash": "86e1dca5a2a1fb77fd9fc616b3fac0e12fede405f522171aa0f57ccdee90e460"
+    },
+    {
+      "path": "meshes/Algerie_Gun_203_x4.obj",
+      "hash": "f4946f5b9d227221c57440309c839131178650f29a103fd2ad4c7e35bf9dd3ae"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "main_file": {
+    "path": "nelson_lifeboats.json",
+    "hash": "4b402dd84236be723fdf53ce0a95e641b3d94e5ff58ea0b5b018597483584d2b"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_0.obj",
+      "hash": "7c16a4d14eb368d698ed94174a81f71fa5632205ff02cbbe51ea795490fb8300"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_10.obj",
+      "hash": "17a763ec0b154d3ea7e426b4cb0011da731ee5c555f08f099aa0a98e60d79ab9"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_2.obj",
+      "hash": "a7a5279230476b5d1d2debc0cc182cd496dad0a51a5a8c53870bb8b042dead37"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_3.obj",
+      "hash": "543aed0a1e056196ab45b130089701db18440a536771a1c84a15fca54820f310"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_4.obj",
+      "hash": "e86d97f5665f3c35216b081203ea61b9482585047d3495b39b198d7ac14047d7"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_5.obj",
+      "hash": "87c39e68baaf134768778a6140fb230f224d3ea36057c1632661365184497893"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_6.obj",
+      "hash": "7e71a7ae6562343ed4e1ccd4cffa27239bbe2fff81f8c467fd2873ad9c20022b"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_7.obj",
+      "hash": "3cf234d43d6dcee58ad1f079e9ebbd0262d34168c05b9ab55357a8eb7478a382"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_8.obj",
+      "hash": "a238b650f49f8e50b9fc37cdd2fb727ecf49a9679def8575f68854f8285a0762"
+    },
+    {
+      "path": "meshes/Nel_Deckhouse_B2_001_9.obj",
+      "hash": "06ad55e78e5a520378d0d136089a78953f2a75904d5875c6407194f0a765f1f7"
+    }
+  ]
+}

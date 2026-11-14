@@ -1,0 +1,32 @@
+{
+  "main_file": {
+    "path": "dreadnought_hull_c_elizabeth_var.json",
+    "hash": "7d2b21ce9f0b37ecab33975a8092808aee311c020c1c252060208f9c1e475e34"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BC2_001.obj",
+      "hash": "5836ca37f5b7c0055a7b025828698188dfd5370b28435bcdad37e85a22e5cf1b"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Rostrum_Dredn_C_001.obj",
+      "hash": "9adb134b0303a867c1fc778b3eafb10f1fa86c566aa7830051cb4d72580c6812"
+    },
+    {
+      "path": "meshes/P_Luke_C_001_0.obj",
+      "hash": "76a41e7d34b434ea4441a7649f597031a673373c58306ae65688752794aa6a7f"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BF1_001.obj",
+      "hash": "4f6154d8368ee1c8684d1d21d2c02cdc32dee88cf9f5e53ca4a6066b1c3bb5d2"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Midsection_Dredn_BC2_002.obj",
+      "hash": "2a78e2d20f72f88d5a5b183053901a6e55e9b98f3ebf7596d8dd3d24ebd160ce"
+    },
+    {
+      "path": "meshes/Bsh_Hull_Stern_Dredn_BC1_001.obj",
+      "hash": "a738a995dfe9ce663078a1e5f1cd78161e5d9b516e34ef57eedbdec328d5c2b4"
+    }
+  ]
+}
