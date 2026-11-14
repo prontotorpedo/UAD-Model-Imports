@@ -1,16 +1,12 @@
 {
   "main_file": {
     "path": "lifeboat_r.json",
-    "hash": "503dc1705e80da42909a9de49227c61da967e0c3c449673a9b95292e5abcb185"
+    "hash": "71cbb200286f87fd9fce93bf2b5465819c48aeb010633525f0d45758dd16a40b"
   },
   "dependencies": [
     {
       "path": "meshes/Cube.obj",
-      "hash": "409787c7005eb5fd6fcab7ad2d9532834dad8dba5936dd19b980aa6c20259a06"
-    },
-    {
-      "path": "meshes/Lifeboat_r.obj",
-      "hash": "105219fdb46d977619ddb41643f42ba0281263bee035c5c97638396120dbc52f"
+      "hash": "b4cfd3d31578f09b7a42a1bdd300d83c1617dc5d203a7a863910b51cf333d856"
     }
   ]
 }

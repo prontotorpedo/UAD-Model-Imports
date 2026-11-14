@@ -1,16 +1,12 @@
 {
   "main_file": {
     "path": "lifeboat_stack_a.json",
-    "hash": "6be091adadd8f2e75a953205cdffbdf744920f669f3b3f7efedf5a27da3b4ad2"
+    "hash": "f98bfa5216f96bb070cf386b32e7ccb572dda46a319aa532d0a2204739f9e4dc"
   },
   "dependencies": [
     {
-      "path": "meshes/Cube.obj",
-      "hash": "831e0b8a92a76aa17b03e4023e0de69350a5fd550ae2c58e3c67ff02c5eda53e"
-    },
-    {
-      "path": "meshes/Lifeboat_stack_a.obj",
-      "hash": "b9a91d4ae783b4acd4e1ddac2e53fd45af2667be74a471fc86ee18e260ed835b"
+      "path": "meshes/Nel_Deckhouse_B2_001_0.obj",
+      "hash": "d1556dcbc90190d5cd589ad730bfe2b794e8a5677510cd8f14f3906cbcdcb0e4"
     }
   ]
 }
