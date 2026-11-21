@@ -1,0 +1,92 @@
+{
+  "main_file": {
+    "path": "dido_funnel_c_var1_wide2.json",
+    "hash": "3166d60bec3dee20077edf00641bd1e3c06f084a67f935ff48f67a67418d4040"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_0.obj",
+      "hash": "ef4e87545db3cc825bb1719d1a3bf20dec4e26cc79479235400b363af192cc21"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_1.obj",
+      "hash": "f7952d38f0cad42e0b113b05f067151082c5a3095ecc69749a46c0ec6948d959"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_2.obj",
+      "hash": "1eb9e32c179d8d0e45e04e4160c4d3d8e0cbba2556362c905f8f48923b315ef6"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_3.obj",
+      "hash": "6f9f6a3a7d24957cc0f808ea6056b85ab49e9fe6f2a58e3d6d7cac5bbfdbe63c"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_4.obj",
+      "hash": "44b2dc1be22b7f0a7a1d294573a3a83868ffbabda3f7e0d12635205ca4da39aa"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_5.obj",
+      "hash": "6f1584d865b01c33d059c8b82152be7af7e3612fcbcf98ada31843b74f3c0eef"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_6.obj",
+      "hash": "410421bc106c7c0f22e3978d8572e2465d10c7087c4f8c90e2322615dd2d812b"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_7.obj",
+      "hash": "d4ed5f128eb059f973b9b5ed3208b1f386aa502497013a5a1404bcd1ad0104bf"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_8.obj",
+      "hash": "348c60cc01a25843335eba8e3603980c23e55d43657805875a24f0e3a0e9eed5"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CR_001_9.obj",
+      "hash": "93ca515b8b4276f8d9ceb59d27b77d04af7f031dcc97e71dddee8968ef33bb58"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_0.obj",
+      "hash": "d5a13a12124ada9fb1523f51a9d9109eaf9d5c1e375618aa7e6860bcb1e9f299"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_1.obj",
+      "hash": "e5fa91096ff357cc8bc541ab87d776f7d3cfa9c62b87a62022bea516d14796eb"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_2.obj",
+      "hash": "af29563a92acc67031a79e8f84341d571cd5f060d19c33c75db3dc31cfee410b"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_3.obj",
+      "hash": "b681de4f2eff19d2b0c975c5642fd0db4032b2de05875888f26f826e61472c68"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_4.obj",
+      "hash": "7dc825baa027f9a6305056126cf471f6101dbd7bbc6765b0ff27b88f6c8bd81d"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_5.obj",
+      "hash": "1447c6648c918c105e237871725e2c73e2b4d4f6b8d99b49dc953d57e38461c7"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_6.obj",
+      "hash": "b14624c2b4535a7d65066da9a611b612ca71e3227563eb2bf280f1150335851e"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_7.obj",
+      "hash": "2e3fd0d480b6a0864d4aa1d529ede89e74b86812888f411a04743998b5e2355c"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_8.obj",
+      "hash": "cafbfaecec7c82a8ea53c5e769668dfe700bbab696a95027ee742de9327aacc3"
+    },
+    {
+      "path": "meshes/Dido_side_Barbette_3CL_001_9.obj",
+      "hash": "8d98e3529da5bbcb777dc7120d3fa112ab427df3d6c35ab5a6f0aaf7418f7157"
+    },
+    {
+      "path": "meshes/Dido_Smokestack_25DM_001.obj",
+      "hash": "73e2e5d76f92293bdfec320dc05eb79c5232596d4ab0c942c93e8ed1ff2c8c9c"
+    }
+  ]
+}

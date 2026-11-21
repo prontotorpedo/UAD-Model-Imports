@@ -1,7 +1,7 @@
 {
   "main_file": {
     "path": "iowa_hull_b.json",
-    "hash": "6bb63abee0cb7cf9ed914ea997695d74522d20c68d5f1b0faeec7909ef9f557f"
+    "hash": "6e59afd571f25373026942ebfb2d2009c017bb3e13eeeed13e5284127a48b4e3"
   },
   "dependencies": [
     {
@@ -58,19 +58,11 @@
     },
     {
       "path": "meshes/Mus_Hull_Midsection_A6_005_4.obj",
-      "hash": "6871d3cb4564ba4fa062876fd45cc22b3b92b8832cede2f9535ba181b67fb225"
+      "hash": "68492ed78e84c21c33843237c3115e4e725191fe16dfaab83ee7add88927f4fd"
     },
     {
       "path": "meshes/Mus_Hull_Midsection_A6_005_5.obj",
-      "hash": "1cc335b2ad617ec0a8cd0e42944cdece55882eb7e16a6efd3302a172816840e2"
-    },
-    {
-      "path": "meshes/Mus_Hull_Midsection_A6_005_6.obj",
-      "hash": "d816113ed7fdd9a9ed3f7c2a23582a54f444557e67a727f0ea7af65bee3f612e"
-    },
-    {
-      "path": "meshes/Mus_Hull_Midsection_A6_005_7.obj",
-      "hash": "0b58fbb5fc3981b620910c415a878c03be6a75ad8c3cbb5e39d96f90a8900e37"
+      "hash": "fc1fb5453956eaec8d806581b6f2dc127c039d791ee1660ac0843c9261296b2a"
     },
     {
       "path": "meshes/Iowa_Hull_Stern_A_001_0.obj",
@@ -90,11 +82,11 @@
     },
     {
       "path": "meshes/Iowa_Hull_Stern_A_001_4.obj",
-      "hash": "225aa2c6f808b172c5f0d438ae5c5ab95e20d7dd4b557d3563f00ae1da9cbf95"
+      "hash": "70787a859ff49bba6d44f413d0519517157b788ab338d260f8bed16093b812f6"
     },
     {
       "path": "meshes/Iowa_Hull_Stern_A_001_5.obj",
-      "hash": "c56c3f13f520613bc00cedc50a7f89c912817e8b57510a6b58c1710446006b55"
+      "hash": "38e6ac7093359973f42585f3693f76c74c564170d377aa32efaca0b36b39dc92"
     },
     {
       "path": "meshes/Iowa_Hull_Stern_A_001_6.obj",
@@ -123,6 +115,14 @@
     {
       "path": "meshes/Brook_Hull_Stern_B_001_6.obj",
       "hash": "bf5bdba919406b063c6b39589460a99fd176c396a0c4200eb7a435c4a144a3f7"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_Tub.obj",
+      "hash": "37048b14dc4844412efad3304d84ab8145dbf359298e7787d93f68b3bde7c893"
+    },
+    {
+      "path": "meshes/Iowa_Hull_Stern_A_No_Tub.obj",
+      "hash": "27dc36b4a8f61b8febff9744cc0caaeff29b528eeccc37fa776f7b9f1326652e"
     }
   ]
 }

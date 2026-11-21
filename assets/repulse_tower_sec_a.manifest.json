@@ -1,0 +1,28 @@
+{
+  "main_file": {
+    "path": "repulse_tower_sec_a.json",
+    "hash": "3c48b2a093e5b1cbc68b17a28ac9db085955a0409510cb9676ea49d1474cfc2f"
+  },
+  "dependencies": [
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_0.obj",
+      "hash": "bc69a174c5401b60e44f48d05893bb3b75928d2ba8ef876a3f3b0b8681bd67d9"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_2.obj",
+      "hash": "f3fc30edb34d488a5bf75f4b806fb4093854bcb4757b4c5f1383de3e36165b74"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_3.obj",
+      "hash": "2caffc1bed870dd1c9ae7e6a266e5d3cc340064af42fdfccdec12617c6a27727"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_4.obj",
+      "hash": "998077c5746d13caa406bbe8d1764deaa62c97f138659c9797dbb17cd17045ac"
+    },
+    {
+      "path": "meshes/Hood2_Deckhouse_A2_001_1.obj",
+      "hash": "988d9d7d586cab7ec1ae8aee935a5c1891d0530048400b7a406af3aacbf63c68"
+    }
+  ]
+}
